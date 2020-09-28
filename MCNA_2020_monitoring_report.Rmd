@@ -1,0 +1,697 @@
+---
+title: "<center> REACH Iraq MCNA 2020 - July-August, 2020 </center>"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
+```{r, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, cache = FALSE,comment = NA, message = FALSE, warning=FALSE, fig.align = 'center' )
+```
+
+<!-- *** -->
+
+```{r, include=FALSE}
+
+library(lubridate)
+library(kableExtra)
+library(knitr)
+library(readr)
+library(readxl)
+library(openxlsx)
+library(sf)
+library(raster)
+library(leaflet)
+library(htmltools)
+library(tidyr)
+library(dplyr)
+library(plotly)
+
+
+source("functions/audit_function_full.R")
+
+WGS84 <- crs("+init=epsg:4326")
+UTM38N <- crs("+init=epsg:32638")
+
+assessment_start_date <- as.Date("2020-07-15")
+
+# set min time and max # interviews per day
+time_limit <- 12
+flag_time_limit <- 25
+max_interv <- 10
+
+###########################################################################################################
+
+# read data from excel file
+df <- read_excel("input/raw_data/MCNA_VIII_2020_-_latest_version_-_False_-_2020-09-22-11-54-27.xlsx", sheet = "MCNA_VIII_2020") %>% 
+  mutate(calc_noteligible = as.numeric(calc_noteligible),
+         governorate_mcna = case_when(is.na(governorate_mcna) ~ governorate_mcna_r,
+                                      TRUE ~ governorate_mcna),
+         consent = case_when(is.na(consent) ~ consent_remote,
+                             TRUE ~ consent))
+
+###########################################################################################################
+# time check from audit files
+# today
+df$today <- as.Date(df$start, "%Y-%m-%d")
+
+df <- time_check_audit(df_raw = df, x_uuid = "_uuid", today = "today", time_limit = time_limit)
+# df <- time_check(df, time_limit)
+
+df <- df %>% 
+  mutate(time_validity = case_when(interview_duration < flag_time_limit & 
+                                     interview_duration > time_limit ~ "Flagged", TRUE ~ time_validity))
+
+###########################################################################################################
+# when survey does not continue to hh member calculation, these surveys are not valid
+df <- df %>% 
+  mutate(calc_noteligible = case_when(is.na(num_hh_member) ~ 1,
+                                      TRUE ~ calc_noteligible))
+
+# add population group
+df <- df %>% 
+  mutate(population_group = case_when(calc_noteligible == 1 ~ "not_eligible",
+                                      calc_idp == 1 ~ "idp_out_camp",
+                                      calc_returnee == 1 ~ "returnee",
+                                      TRUE ~ "not_eligible"))
+
+# remove ineligible surveys
+df %<>% filter(consent == "yes" & population_group != "not_eligible")
+
+########## SAMPLE FRAMES ########################
+# In person sample
+in_person_sample_df <- read_excel("input/sample/inperson_sf_14072020.xlsx")
+
+in_person_sample_summarized <- in_person_sample_df %>% 
+  group_by(pop_group_dist) %>% 
+  summarise(num_surveys = sum(num_surveys))
+
+
+# phone interview sample
+phone_int_sample_df <- read_excel("input/sample/phone_int_sf_21072020.xlsx")
+
+
+###########################################################################################################
+# SPATIAL district check  for in person data collection #
+############# Data frames for tracking ##############
+
+in_person_points <- df %>% 
+  filter(dc_method == "in_person") %>% 
+  filter(!is.na(`_gpslocation_latitude`),!is.na(`_gpslocation_longitude`)) %>% 
+  dplyr::select(`_uuid`,governorate_mcna,cluster_location_id,enumerator_num,population_group,lat=`_gpslocation_latitude`,long=`_gpslocation_longitude`) %>%  
+  as_tibble()
+
+points_sf <- in_person_points %>%
+  dplyr::select(`_uuid`,governorate_mcna,cluster_location_id,enumerator_num,population_group,lat,long) %>%
+  st_as_sf(
+    coords = c("long", "lat"),
+    agr = "constant",
+    crs = WGS84,       
+    stringsAsFactors = FALSE,
+    remove = TRUE
+  ) 
+
+######### IRQ Dist boundary ###################
+
+irq_dist <- st_read("input/spatial_data/irq_dist.geojson") %>% 
+  mutate(district_gps = irq_dist_lookup_dist_kobo,
+         District = irq_dist_lookup_dist_kobo)
+
+irq_dist <- sf::st_as_sf(irq_dist, coords = c("long", "lat"), crs = 4326)
+irq_dist <- sf::st_cast(irq_dist,"POLYGON") 
+
+# spatial join points to get true districts of GPS locations
+district_join <- st_join(points_sf, irq_dist) %>% 
+  dplyr::select(`_uuid`:geometry, population_group, district_gps) 
+
+# filter for IDP surveys
+district_join_idp <- district_join %>% 
+  filter(population_group == "idp_out_camp")
+
+# filter for returnee surveys
+district_join_returnee <- district_join %>% 
+  filter(population_group == "returnee")
+
+##
+# convert back to df
+district_join_df <- as.data.frame(district_join) %>% 
+  dplyr::select(`_uuid`, district_gps) %>% 
+  mutate(uuid = `_uuid`,
+         district_gps = as.character(district_gps))
+
+# merge back with main df to add actual district
+df <- merge(df, district_join_df, all=T) 
+
+
+# set district_mcna column to true district for in person surveys
+df <- df %>% 
+  mutate(district_mcna = case_when(!is.na(district_gps) ~ district_gps,
+                                   TRUE ~ district_mcna))
+
+# add full strata
+df <- df %>% 
+  mutate(strata = paste0(district_mcna, "_", population_group))
+
+
+######## cluster points ######################
+
+cluster_points <- st_read("input/spatial_data/inperson_sf.geojson",
+                          fid_column_name = character(1)) %>%
+  mutate(cluster_location_id = as.character(Place.id),
+         id = Place.id)
+
+row.names(cluster_points) <- cluster_points$Place.id
+
+
+cluster_points <- st_as_sf(cluster_points, coords = c("long", "lat"), crs = 4326)
+
+cluster_points_buff_2km <- st_buffer( cluster_points, 0.008)
+
+# district_join$cluster_within <- st_is_within_distance(district_join, cluster_points, 0.08)
+
+district_join <- st_join(district_join, cluster_points_buff_2km, left=T) 
+
+
+district_join %<>%  mutate(in_cluster = case_when(is.na(id) ~ "no", TRUE ~ "yes")) %>% 
+  dplyr::select(`_uuid`:district_gps, in_cluster)
+
+
+#### deleted interviews
+
+# Deleted interviews 
+df <- df %>% 
+  mutate(
+    deleted = case_when(
+      time_validity == "Deleted" | consent == "no" | population_group == "not_eligible" ~ "yes",
+      TRUE ~ "no"
+    )
+  )
+
+########################################################################################
+### Interview method 
+
+interview_method <- df %>% 
+  dplyr::select(Date = today,
+         Enumerator = enumerator_num,
+         District = district_mcna,
+         interview_type = dc_method
+  ) %>% 
+  group_by(District, interview_type) %>% tally(name = "Number_of_interviews")
+
+interview_method_date <- df %>% 
+  dplyr::filter(today > assessment_start_date) %>% 
+  dplyr::select(Date = today,
+         Enumerator = enumerator_num,
+         District = district_mcna,
+         interview_type = dc_method
+  ) %>% 
+  group_by(interview_type, Date) %>% tally(name = "Number_of_interviews")
+
+survey_method_graph <- plot_ly(interview_method_date, x = ~Date, y = ~Number_of_interviews, name = 'High 2014', type = 'scatter', mode = 'lines',
+        line = list(color = 'rgb(205, 12, 24)', width = 4)) 
+
+
+# interview_method Wide format
+interview_method_wide <- tidyr::pivot_wider(interview_method, 
+                                            names_from = interview_type, 
+                                            values_from = Number_of_interviews,
+                                            values_fill = list(Number_of_interviews = 0)) %>% 
+  dplyr::select(District, `Face to Face` = in_person, Phone = remote )
+
+## Tracking by district - phone interviews #################################################### 
+
+district_sample_phone <- phone_int_sample_df %>%
+  dplyr::select(Governorate, District , pop_group, strata, Sample = num_int, Max_Sample = num_int_max) %>%
+  arrange(Governorate)
+
+district_tracking_phone <- df %>%
+  dplyr::filter(dc_method == "remote") %>% 
+  group_by(strata) %>%
+  summarise(Submissions = n(),
+            Short_intv = sum(time_validity == "Deleted", na.rm = T),
+            Deleted = sum(deleted == "yes", na.rm = T),
+            Accepted = sum(deleted == "no", na.rm = T)
+  )
+
+district_tracking_merged_phone <- left_join(district_sample_phone, district_tracking_phone, by = "strata")  %>%
+  mutate(
+    Remaining =  case_when(
+      is.na(Accepted) ~ Sample,
+      TRUE ~ (Accepted - Sample) * -1
+    ),
+    Remaining_Max =  case_when(
+      is.na(Accepted) ~ Max_Sample,
+      TRUE ~ (Accepted - Max_Sample) * -1
+    )
+  )
+
+func <- function(z) if (is.numeric(z)) sum(z, na.rm = T) else ''
+sumrow2 <- as.data.frame(lapply(district_tracking_merged_phone, func))
+sumrow2$Governorate <- ""
+sumrow2$District <- "Total"
+district_tracking_merged_phone <- rbind(district_tracking_merged_phone, sumrow2 ) %>%
+  mutate_all(
+    funs(replace_na(.,0)))
+##########################################################################################################
+# join phone interview tracking to district sf object  #################################################### 
+# IDP
+iraq_dist_idp <- left_join(irq_dist, district_tracking_merged_phone, by = "District") %>% 
+    mutate(pop_group_dist = strata) %>% 
+  filter(pop_group == "idp_out_camp")%>% 
+  mutate(perc_complete = round((Accepted/Max_Sample)*100),0)
+
+# spatial intersect to get in person count by district
+iraq_dist_idp$in_person_count <- lengths(st_intersects(iraq_dist_idp, district_join_idp))
+
+# join with in person sample frame to get total surveys
+iraq_dist_idp <- left_join(iraq_dist_idp, in_person_sample_summarized, by = "pop_group_dist")
+
+iraq_dist_idp %<>%  mutate(perc_in_person_complete = round((in_person_count/num_surveys)*100),0,
+                                remaining_in_person = num_surveys-in_person_count)
+
+iraq_dist_idp %<>% mutate(final_perc_complete = case_when(in_person_count > 2 ~
+                                                           perc_in_person_complete,
+                                                           TRUE ~ perc_complete),
+                          final_accepted = case_when(in_person_count > 2 ~ as.numeric(in_person_count),
+                                                     TRUE ~ Accepted),
+                          final_remaining = case_when(in_person_count > 2 ~ remaining_in_person,
+                                                     TRUE ~ Remaining_Max))
+
+iraq_dist_idp %<>% mutate(final_perc_complete = case_when(final_perc_complete > 99 ~ 100,
+                          TRUE ~ final_perc_complete))
+
+
+# returnee
+iraq_dist_returnee <- left_join(irq_dist, district_tracking_merged_phone, by = "District") %>% 
+    mutate(pop_group_dist = strata) %>% 
+  filter(pop_group == "returnee") %>% 
+  mutate(perc_complete = round((Accepted/Max_Sample)*100),0)
+
+# spatial intersect to get in person count by district
+iraq_dist_returnee$in_person_count <- lengths(st_intersects(iraq_dist_returnee, district_join_returnee))
+
+# join with in person sample frame to get total surveys
+iraq_dist_returnee <- left_join(iraq_dist_returnee, in_person_sample_summarized, by = "pop_group_dist")
+
+iraq_dist_returnee %<>%  mutate(perc_in_person_complete = round((in_person_count/num_surveys)*100),0,
+                                remaining_in_person = num_surveys-in_person_count)
+
+iraq_dist_returnee %<>% mutate(final_perc_complete = case_when(in_person_count > 0 ~
+                                                           perc_in_person_complete,
+                                                           TRUE ~ perc_complete),
+                          final_accepted = case_when(in_person_count > 0 ~ as.numeric(in_person_count),
+                                                     TRUE ~ as.numeric(Accepted)),
+                          final_remaining = case_when(in_person_count > 0 ~ remaining_in_person,
+                                                     TRUE ~ Remaining_Max))
+
+iraq_dist_returnee %<>% mutate(final_perc_complete = case_when(final_perc_complete > 99 ~ 100,
+                          TRUE ~ final_perc_complete))
+
+## Tracking by district - in person #################################################### 
+
+district_sample_in_person <- in_person_sample_summarized  %>%
+  dplyr::select(strata= pop_group_dist, Sample = num_surveys) 
+
+district_tracking_in_person <- df %>%
+  dplyr::filter(dc_method == "in_person") %>% 
+  group_by(strata) %>%
+  summarise(Submissions = n(),
+            Short_intv = sum(time_validity == "Deleted", na.rm = T),
+            Deleted = sum(deleted == "yes", na.rm = T),
+            Accepted = sum(deleted == "no", na.rm = T)
+  )
+
+district_tracking_merged_in_person <- left_join(district_sample_in_person, district_tracking_in_person, by = "strata")  %>%
+  mutate(
+    Remaining =  case_when(
+      is.na(Accepted) ~ Sample,
+      TRUE ~ (Accepted - Sample) * -1
+    )
+  ) 
+
+func <- function(z) if (is.numeric(z)) sum(z, na.rm = T) else ''
+sumrow_in_person <- as.data.frame(lapply(district_tracking_merged_in_person, func))
+
+district_tracking_merged_in_person <- rbind(district_tracking_merged_in_person, sumrow_in_person ) %>%
+  mutate_all(
+    funs(replace_na(.,0)))
+########################################################################################
+
+########################################################################################
+# Started before date of data collection
+started_before <- df %>% 
+  filter(today < assessment_start_date) %>% 
+  dplyr::select(Date = today,
+         Enumerator = enumerator_num,
+         District = district_mcna)
+
+
+# Enumerator productivity
+
+enumerator_productivity <- df %>% 
+  filter(df$consent == "yes" & population_group != "not_eligible") %>% 
+  group_by(Date = today, Enumerator = enumerator_num) %>% 
+  summarise(Interviews = n())
+enumerator_productivity_many <- enumerator_productivity %>% 
+  dplyr::filter(Interviews > max_interv)
+
+enumerator_productivity_less <- enumerator_productivity %>% 
+  dplyr::filter(Interviews < 3)
+
+enumerator_productivity_final <- rbind(enumerator_productivity_many, enumerator_productivity_less)%>% 
+  arrange(desc(Date) )
+
+
+# Enumerator per survey status 
+
+enumer_per_survey_status <- df %>% 
+  filter(df$consent == "yes" & population_group != "not_eligible") %>% 
+  group_by(Date = today, Enumerator = enumerator_num) %>% 
+  summarise(Accepted = sum(time_validity != "Deleted", na.rm = T),
+            Deleted = sum(time_validity == "Deleted", na.rm = T )
+  )
+
+# Survey status per day 
+
+survey_status_per_day <- df %>% 
+    filter(df$consent == "yes" & population_group != "not_eligible") %>% 
+  group_by(Date = today) %>% 
+  summarise(Accepted = sum(time_validity != "Deleted", na.rm = T),
+            Deleted = sum(time_validity == "Deleted", na.rm = T )
+  )
+
+
+# survey length by enumerator
+
+survey_lenght <- df %>% 
+    filter(df$consent == "yes" & population_group != "not_eligible") %>% 
+  group_by(Enumerator = enumerator_num) %>% 
+  summarise(
+    Median_duration = round(median(interview_duration, na.rm = T),0)
+  ) %>% 
+  arrange(desc(Median_duration) )
+  
+
+overall_survey_median <- round(median(as.numeric(df$interview_duration), na.rm = T),0)
+
+survey_lenght$Overall_median <-  overall_survey_median
+
+# Enumerator with short interv duration
+short_interviews_by_enum <- df %>% 
+  filter(df$consent == "yes" & population_group != "not_eligible") %>% 
+  dplyr::filter(interview_duration < time_limit & today > "2020-07-20") %>% 
+  
+  dplyr::select(Date = today, 
+                Enumerator = enumerator_num, 
+                Governorate = governorate_mcna_r, 
+                Location = district_mcna,
+                Duration =  interview_duration
+  ) %>% mutate(
+    Interview_Type = case_when(is.na(Governorate) ~ "in person",
+                               TRUE ~ "remote"),
+    Duration = round(Duration,0),
+  ) %>% 
+  arrange(desc(Date) )
+
+################################################################################################
+### leaflet maps
+# import governorate geojson
+irq_gov <- st_read("input/spatial_data/irq_gov.geojson") 
+
+irq_gov <- sf::st_as_sf(irq_gov, coords = c("long", "lat"), crs = 4326)
+irq_gov <- sf::st_cast(irq_gov,"POLYGON") 
+
+# gov labels
+gov_labels <- st_read("input/spatial_data/gov_labels.geojson")
+
+gov_labels_halo <- sprintf(
+  '<strong><span style="font-size: 10px; color: #FFFFFF">%s</span></strong>',
+  gov_labels$ADM1_EN) %>% 
+  lapply(htmltools::HTML)
+
+# interview point tooltip
+interview_tooltip <- sprintf(
+  '<strong><span style="font-size: 10px; color: #EE5859;font-family:Arial;">%s</span><br><span style="font-size: 8px; color: #58585A;"> %s Governorate</strong></span><br><span style="font-size: 8px; color: #58585A;"><strong>Cluster ID: %s</strong></span>',
+  district_join$district_gps, district_join$governorate_mcna, district_join$cluster_location_id)%>% 
+  lapply(htmltools::HTML)
+
+# district tooltip
+district_tooltip <- sprintf(
+  '<strong><span style="font-size: 8px; color: #58585A;font-family:Arial;">%s District</span><br><span style="font-size: 7px; color: #58585A;"> %s Governorate</strong></span>',
+  irq_dist$ADM2_EN, irq_dist$ADM1_EN)%>% 
+  lapply(htmltools::HTML)
+
+# IDP remote interviews district tooltip
+idp_district_tooltip <- sprintf(
+  '<strong><span style="font-size: 12px; color: #58585A;font-family:Arial;">%s </span><br><span style="font-size: 10px; color: #58585A;"> %s </strong></span><br>
+  <span style="font-size: 10px; color: #58585A;font-family:Arial;">%s percent complete</span><br>
+  <span style="font-size: 8px; color: #58585A;font-family:Arial;">%s Interviews Completed</span><br>
+  <span style="font-size: 8px; color: #58585A;font-family:Arial;">%s Interviews Remaining </span>',
+  iraq_dist_idp$ADM2_EN, iraq_dist_idp$ADM1_EN, iraq_dist_idp$final_perc_complete, iraq_dist_idp$final_accepted, iraq_dist_idp$final_remaining)%>% 
+  lapply(htmltools::HTML)
+
+# returnees remote interviews district tooltip
+returnee_district_tooltip <- sprintf(
+  '<strong><span style="font-size: 12px; color: #58585A;font-family:Arial;">%s </span><br><span style="font-size: 10px; color: #58585A;"> %s </strong></span><br>
+  <span style="font-size: 10px; color: #58585A;font-family:Arial;">%s percent complete</span><br>
+  <span style="font-size: 8px; color: #58585A;font-family:Arial;">%s Interviews Completed </span><br>
+  <span style="font-size: 8px; color: #58585A;font-family:Arial;">%s Interviews Remaining </span>',
+  iraq_dist_returnee$ADM2_EN, iraq_dist_returnee$ADM1_EN, iraq_dist_returnee$final_perc_complete, iraq_dist_returnee$final_accepted, iraq_dist_returnee$final_remaining)%>% 
+  lapply(htmltools::HTML)
+
+# color palettes
+idp_pal <- colorNumeric(
+  palette = colorRampPalette(c('#F06E6F','#ffffbf', '#72966E'))(length(iraq_dist_idp$final_perc_complete)), 
+  domain = iraq_dist_idp$final_perc_complete)
+
+returnee_pal <- colorNumeric(
+  palette = colorRampPalette(c('#F06E6F', '#ffffbf', '#72966E'))(length(iraq_dist_returnee$final_perc_complete)),
+  domain = iraq_dist_returnee$final_perc_complete)
+
+## leaflet
+leaflet_map <-  leaflet(option=leafletOptions(zoomControl=FALSE,doubleClickZoom= TRUE,zoomSnap = 0.01),width = "100%", height = "600px") %>%
+    addPolygons(
+              data = irq_dist,
+              color = "#58585A",
+              fillColor =  "#E3E6E6",
+              weight = 0.1,
+              smoothFactor = 0.5,
+              opacity = 1.0,
+              fillOpacity = 0.8,
+              label = district_tooltip,
+              group="IDP",
+              highlightOptions = highlightOptions(fillColor="white",
+                                                 fillOpacity = 0.5,
+                    color="white",
+                    weight = 1.4,
+                    bringToFront = F),
+              ) %>%
+    addPolygons(
+              data = irq_dist,
+              color = "#58585A",
+              fillColor =  "#E3E6E6",
+              weight = 0.1,
+              smoothFactor = 0.5,
+              opacity = 1.0,
+              fillOpacity = 0.8,
+              label = district_tooltip,
+              group="Returnee",
+              highlightOptions = highlightOptions(fillColor="white",
+                                                 fillOpacity = 0.5,
+                    color="white",
+                    weight = 1.4,
+                    bringToFront = F),
+              ) %>%
+  addPolygons(
+              data = iraq_dist_idp,
+              color = "#58585A",
+              fillColor =  ~ idp_pal(final_perc_complete),
+              weight = 0.2,
+              smoothFactor = 0.5,
+              opacity = 1.0,
+              fillOpacity = 0.8,
+              label = idp_district_tooltip,
+              group="IDP",
+              highlightOptions = highlightOptions(fillColor="white",
+                                                 fillOpacity = 0.5,
+                    color="white",
+                    weight = 1.4,
+                    bringToFront = F),
+              ) %>%
+    addPolygons(
+              data = iraq_dist_returnee,
+              color = "#58585A",
+              fillColor =  ~ returnee_pal(final_perc_complete),
+              weight = 0.2,
+              smoothFactor = 0.5,
+              opacity = 1.0,
+              fillOpacity = 0.8,
+              label = returnee_district_tooltip,
+              group="Returnee",
+              highlightOptions = highlightOptions(fillColor="white",
+                                                 fillOpacity = 0.5,
+                    color="white",
+                    weight = 1.4,
+                    bringToFront = F),
+              ) %>%
+  addPolylines(data=irq_gov,
+             color = "#58585A",
+             weight = 1.1,
+             opacity = 1.0,
+             group="IDP",
+             options = list(zIndex = 300)) %>% 
+    addPolylines(data=irq_gov,
+             color = "#58585A",
+             weight = 1.1,
+             opacity = 1.0,
+             group="Returnee",
+             options = list(zIndex = 300)) %>% 
+          # addLabelOnlyMarkers(data= gov_labels,
+          #                   label = gov_labels_halo,
+          #                   group = "IDP",
+          #                   labelOptions = labelOptions(noHide = T,
+          #                                               direction = 'center',
+          #                                               textOnly = T,
+          #                                               style = list(
+          #                                                 "padding" = "3px 8px",
+          #                                                 "font-family" = "Arial",
+          #                                                 "text-shadow"="2px 2px 5px #58585A"
+          #                                               ))) %>%
+      
+          addLayersControl(
+            baseGroups = c("IDP","Returnee"),
+            options = layersControlOptions(collapsed = F)
+          )
+
+
+```
+
+<center> **Data Collection Monitoring Report** </center>
+
+
+# {.tabset}
+
+## Interactive Map
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+leaflet_map
+```
+
+***
+## Progress Statistics
+
+<center>**Number surveys per day of data collection** </center> </br>
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+kable(survey_status_per_day)%>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),fixed_thead = T, full_width = F)
+```
+  
+
+
+<center>**Interview Method - Completed Interviews**</center> </br>
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+
+kable(interview_method_wide)%>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),fixed_thead = T, full_width = F)
+```
+
+***
+
+## Enumerator Productivity
+
+<center>**Number of surveys per day by enumerator** </center> </br>
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+
+DT::datatable(enumer_per_survey_status,
+              options = list(
+                  pageLength = 2000,
+                  dom = 'ft'
+                )
+  ) %>% 
+  DT::formatStyle('Deleted',  color = 'red', fontWeight = 'bold') %>% 
+  DT::formatStyle('Accepted',  color = 'green', fontWeight = 'bold')
+
+```
+
+
+## General Checks  
+
+<center>**surveys collected in under `r time_limit` minutes - last 7 days** </center> </br>
+  
+```{r eval=TRUE, echo=FALSE, results='asis'}
+kable(short_interviews_by_enum)%>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),fixed_thead = T, full_width = F)
+```
+
+***
+
+<center>**Surveyors with very low or high productivity** </center> </br>
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+kable(enumerator_productivity_final)%>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),fixed_thead = T, full_width = F)
+```
+
+***
+
+
+
+<center>**Median interview duration by enumerator** </center> </br>
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+kable(survey_lenght)%>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),fixed_thead = T, full_width = F)
+```
+<center>**Surveys made before the first day of data collection (**`r assessment_start_date`**)**</center> </br>
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+kable(started_before)%>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),fixed_thead = T, full_width = F)
+```
+
+
+***
+
+
+## Phone Interviews Tracking
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+DT::datatable(district_tracking_merged_phone,
+              options = list(
+                  pageLength = 130,
+                  dom = 'ft'
+                )
+              ) %>% 
+  DT::formatStyle('Deleted',  color = 'red', fontWeight = 'bold') %>% 
+  DT::formatStyle('Accepted',  color = 'green', fontWeight = 'bold') %>% 
+  DT::formatStyle('Short_intv',  color = 'red', fontWeight = 'bold') %>%
+  DT::formatStyle('Remaining', fontWeight = 'bold')%>% 
+  DT::formatStyle('Remaining_Max', fontWeight = 'bold')
+```
+
+## In person Interviews Tracking
+
+```{r eval=TRUE, echo=FALSE, results='asis'}
+DT::datatable(district_tracking_merged_in_person,
+              options = list(
+                  pageLength = 130,
+                  dom = 'ft')
+              ) %>% 
+  DT::formatStyle('Deleted',  color = 'red', fontWeight = 'bold') %>% 
+  DT::formatStyle('Accepted',  color = 'green', fontWeight = 'bold') %>% 
+  DT::formatStyle('Short_intv',  color = 'red', fontWeight = 'bold') %>%
+  DT::formatStyle('Remaining', fontWeight = 'bold') 
+```
+

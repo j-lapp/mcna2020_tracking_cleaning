@@ -1,0 +1,42 @@
+Governorate,District,Camp long name,camp,Population,# target surveys
+Al-Anbar,Falluja,Amriyat Al-Fallujah Camp,aaf,932.00,66
+Al-Anbar,Falluja,Habbaniya Tourist City camps,htc,553.00,63
+Al-Sulaymaniyah,Al-Sulaymaniyah,Arbat IDP,arbat.idp,311.00,59
+Al-Sulaymaniyah,Al-Sulaymaniyah,Ashti IDP,ashti.idp,1951.00,68
+Al-Sulaymaniyah,Kalar,Tazade,tazade,247.00,56
+Baghdad,Al-Kadhmiyah,Al Ahel,al.ahel,94.00,42
+Baghdad,Al-Risafa,Zayona,zayona,105.00,43
+Diyala,Khanaqin,Alwand 1,alwand.1,606.00,64
+Diyala,Khanaqin,Alwand 2,alwand.2,195.00,53
+Diyala,Baquba,Muskar Saad,muskar.saad,118.00,45
+Diyala,Khanaqin,Qoratu,qoratu,191.00,53
+Duhok,Sumail,Bajed Kandala,bajed.kandala,2062.00,69
+Duhok,Zakho,Bersive 1,bersive.1,1388.00,68
+Duhok,Zakho,Bersive 2,bersive.2,1747.00,68
+Duhok,Zakho,Chamishku,chamishku,5067.00,70
+Duhok,Zakho,Darkar,darkar,729.00,65
+Duhok,Al-Amadiya,Dawoudia,dawoudia,625.00,64
+Duhok,Sumail,Kabarto 1,kabarto.1,2597.00,69
+Duhok,Sumail,Kabarto 2,kabarto.2,2681.00,69
+Duhok,Sumail,Khanke,khanke,2829.00,69
+Duhok,Sumail,Rwanga Community,rwanga.community,2620.00,69
+Duhok,Sumail,Shariya,shariya,3097.00,69
+Erbil,Erbil,Baharka,baharka,919.00,66
+Erbil,Makhmour,Debaga 1,debaga.1,1664.00,68
+Erbil,Erbil,Harshm,harshm,291.00,58
+Kerbela,Al-Hinidya,Al-Kawthar Camp,al.kawthar,103.00,43
+Kirkuk,Kirkuk,Laylan IDP (1),laylan.idp,1409.00,68
+Kirkuk,Kirkuk,Yahyawa,yahyawa,365.00,60
+Ninewa,Al-Hamdaniya,As Salamyiah,as.salamyiah,2791.00,69
+Ninewa,Al-Shikhan,Essian,essian,2773.00,69
+Ninewa,Al-Mosul,Hamam Al Alil 1-2,haa.2,2178.00,69
+Ninewa,Al-Hamdaniya,Hasansham_U2,hasansham.u2,945.00,66
+Ninewa,Al-Hamdaniya,Hasansham U3,hasansham.u3,1210.00,67
+Ninewa,Al-Hamdaniya,Khazer M1,khazer.m1,1137.00,67
+Ninewa,Aqra,Mamilian,mamilian,186.00,53
+Ninewa,Al-Shikhan,Mamrashan,mamrashan,1744.00,68
+Ninewa,Al-Mosul,Qayyarah-Jad'ah 1,qayyarah.jadah.five,1182.00,67
+Ninewa,Al-Mosul,Qayyarah-Jad'ah 5,qayyarah.jadah.one,4255.00,70
+Ninewa,Al-Shikhan,Sheikhan,sheikhan,868.00,66
+Salah Al-Din,Tikrit,Karamah,karamah,181.00,51
+,,,,,"2,511"

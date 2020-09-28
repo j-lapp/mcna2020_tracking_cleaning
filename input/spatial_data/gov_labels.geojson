@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "gov_labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ADM1_EN": "Al-Anbar", "ADM1_AR": "Ø§Ù„Ø§Ù†Ø¨Ø§Ø±", "ADM1_PCODE": "IQG01" }, "geometry": { "type": "Point", "coordinates": [ 40.562992597631009, 32.870083348586448 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Al-Basrah", "ADM1_AR": "Ø§Ù„Ø¨ØµØ±Ø©", "ADM1_PCODE": "IQG02" }, "geometry": { "type": "Point", "coordinates": [ 47.615008657946674, 30.568198860973979 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Al-Muthanna", "ADM1_AR": "Ø§Ù„Ù…Ø«Ù†Ù‰", "ADM1_PCODE": "IQG03" }, "geometry": { "type": "Point", "coordinates": [ 45.113538810136589, 30.062582615140023 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Al-Najaf", "ADM1_AR": "Ø§Ù„Ù†Ø¬Ù", "ADM1_PCODE": "IQG04" }, "geometry": { "type": "Point", "coordinates": [ 43.523206394012966, 31.214715640932994 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Al-Qadissiya", "ADM1_AR": "Ø§Ù„Ù‚Ø§Ø¯Ø³ÙŠØ©", "ADM1_PCODE": "IQG05" }, "geometry": { "type": "Point", "coordinates": [ 45.081623184746455, 31.879242565199537 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Al-Sulaymaniyah", "ADM1_AR": "Ø§Ù„Ø³Ù„ÙŠÙ…Ø§Ù†ÙŠØ©", "ADM1_PCODE": "IQG06" }, "geometry": { "type": "Point", "coordinates": [ 45.818740416168161, 35.504610103194949 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Babil", "ADM1_AR": "Ø¨Ø§Ø¨Ù„", "ADM1_PCODE": "IQG07" }, "geometry": { "type": "Point", "coordinates": [ 44.600577018059241, 32.534073828093312 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Baghdad", "ADM1_AR": "Ø¨ØºØ¯Ø§Ø¯", "ADM1_PCODE": "IQG08" }, "geometry": { "type": "Point", "coordinates": [ 44.474865657504232, 33.269254068981681 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Diyala", "ADM1_AR": "Ø¯ÙŠØ§Ù„Ù‰", "ADM1_PCODE": "IQG10" }, "geometry": { "type": "Point", "coordinates": [ 45.472792458492293, 34.134123963171334 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Duhok", "ADM1_AR": "Ø¯Ù‡ÙˆÙƒ", "ADM1_PCODE": "IQG09" }, "geometry": { "type": "Point", "coordinates": [ 42.904794157283007, 37.327489726333148 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Erbil", "ADM1_AR": "Ø§Ø±Ø¨ÙŠÙ„", "ADM1_PCODE": "IQG11" }, "geometry": { "type": "Point", "coordinates": [ 44.2356520913279, 36.346053843484455 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Kerbala", "ADM1_AR": "ÙƒØ±Ø¨Ù„Ø§Ø¡", "ADM1_PCODE": "IQG12" }, "geometry": { "type": "Point", "coordinates": [ 43.826778252938816, 32.514705247889651 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Kirkuk", "ADM1_AR": "ÙƒØ±ÙƒÙˆÙƒ", "ADM1_PCODE": "IQG13" }, "geometry": { "type": "Point", "coordinates": [ 44.150699300274901, 35.343356168507214 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Maysan", "ADM1_AR": "Ù…ÙŠØ³Ø§Ù†", "ADM1_PCODE": "IQG14" }, "geometry": { "type": "Point", "coordinates": [ 47.215837937551449, 32.138270361195204 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Ninewa", "ADM1_AR": "Ù†ÙŠÙ†ÙˆÙ‰", "ADM1_PCODE": "IQG15" }, "geometry": { "type": "Point", "coordinates": [ 41.787116140176373, 35.74411253543208 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Salah Al-Din", "ADM1_AR": "ØµÙ„Ø§Ø­ Ø§Ù„Ø¯ÙŠÙ†", "ADM1_PCODE": "IQG16" }, "geometry": { "type": "Point", "coordinates": [ 43.383799021757277, 34.307097942009264 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Thi Qar", "ADM1_AR": "Ø°ÙŠ Ù‚Ø§Ø±", "ADM1_PCODE": "IQG17" }, "geometry": { "type": "Point", "coordinates": [ 46.071548539085136, 31.127037869527296 ] } },
+{ "type": "Feature", "properties": { "ADM1_EN": "Wassit", "ADM1_AR": "ÙˆØ§Ø³Ø·", "ADM1_PCODE": "IQG18" }, "geometry": { "type": "Point", "coordinates": [ 45.95179732296657, 32.936611801985656 ] } }
+]
+}

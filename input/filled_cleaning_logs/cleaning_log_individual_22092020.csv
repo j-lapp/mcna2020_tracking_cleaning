@@ -1,0 +1,1004 @@
+﻿log_number,X_index,cluster_location_id,date_assessment,governorate_mcna_r,district_mcna,enumerator_num,question.name,issue,action,changed,old.value,Translations,new.value,flag_index
+1,38587,219,9/16/2020 0:00,NA,heet,28,health_issue_other,Flag if not NA,Translate,NA,امراض جلديه,skin diseases,chronic,1
+2,23365,7770,8/13/2020 0:00,NA,al.amadiya,96,health_issue_other,Flag if not NA,Translate,NA,ضعف في نطق,problems in speech,disability,1
+3,23368,7770,8/13/2020 0:00,NA,al.amadiya,96,health_issue_other,Flag if not NA,Translate,NA,قصر نظر,Eye disorder,weak eyesight,1
+4,23334,7770,8/13/2020 0:00,NA,al.amadiya,83,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+5,23298,7770,8/13/2020 0:00,NA,al.amadiya,85,health_issue_other,Flag if not NA,Translate,NA,شلل رباعي,Tetraplegia,chronic,1
+6,29,7835,8/13/2020 0:00,NA,al.amadiya,93,health_issue_other,Flag if not NA,Translate,NA,Plasma,,chronic,1
+7,150,7835,8/13/2020 0:00,NA,al.amadiya,93,health_issue_other,Flag if not NA,Translate,NA,Thalassemia,,chronic,1
+8,155,7835,8/13/2020 0:00,NA,al.amadiya,93,health_issue_other,Flag if not NA,Translate,NA,Migraine,,migraine,1
+9,425,7862,8/13/2020 0:00,NA,al.amadiya,84,health_issue_other,Flag if not NA,Translate,NA,بحاجة الى عملية مفاصل في الرقبة,arthritis,chronic,1
+10,435,7862,8/13/2020 0:00,NA,al.amadiya,95,health_issue_other,Flag if not NA,Translate,NA,جيوب انفية,paranasal sinuses,communicable,1
+11,331,7896,8/13/2020 0:00,NA,al.amadiya,95,health_issue_other,Flag if not NA,Translate,NA,قولون,Irritable Bowel Syndrome,chronic,1
+12,333,7896,8/13/2020 0:00,NA,al.amadiya,95,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+13,283,7896,8/13/2020 0:00,NA,al.amadiya,92,health_issue_other,Flag if not NA,Translate,NA,تلسيميا,Thalassemia,chronic,1
+14,284,7896,8/13/2020 0:00,NA,al.amadiya,92,health_issue_other,Flag if not NA,Translate,NA,تلاسيميا,Thalassemia,chronic,1
+15,8155,7945,7/29/2020 0:00,NA,duhok,86,health_issue_other,Flag if not NA,Translate,NA,فقارات,Spinal disc herniation,conflict_related,1
+16,4963,7945,7/27/2020 0:00,NA,duhok,92,health_issue_other,Flag if not NA,Translate,NA,كليه,Kidney disease,chronic,1
+17,4966,7945,7/27/2020 0:00,NA,duhok,92,health_issue_other,Flag if not NA,Translate,NA,العين,Eye disorder,weak eyesight,1
+18,4932,7945,7/27/2020 0:00,NA,duhok,90,health_issue_other,Flag if not NA,Translate,NA,Backbone ache,,backache,1
+19,4938,7945,7/27/2020 0:00,NA,duhok,94,health_issue_other,Flag if not NA,Translate,NA,Foot each,,NA,1
+20,4939,7945,7/27/2020 0:00,NA,duhok,94,health_issue_other,Flag if not NA,Translate,NA,Eye problem,,weak eyesight,1
+21,6698,7945,7/27/2020 0:00,NA,duhok,87,health_issue_other,Flag if not NA,Translate,NA,معاقة,Handicapped,disability,1
+22,4884,7945,7/27/2020 0:00,NA,duhok,83,health_issue_other,Flag if not NA,Translate,NA,اعاقة في العظام,Disabled (bones),disability,1
+23,4885,7945,7/27/2020 0:00,NA,duhok,83,health_issue_other,Flag if not NA,Translate,NA,اعاقة في العظام,Disabled (bones),disability,1
+24,8660,7949,7/29/2020 0:00,NA,duhok,84,health_issue_other,Flag if not NA,Translate,NA,انزلاق غضرفي بالركبة,Herniated disc in the knee,bone disorder,1
+25,8616,7949,7/29/2020 0:00,NA,duhok,87,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+26,10092,7989,7/30/2020 0:00,NA,sumail,86,health_issue_other,Flag if not NA,Translate,NA,جلطة دماغي,Cerebrovascular accident – STROKE,chronic,1
+27,9616,7989,7/30/2020 0:00,NA,sumail,82,health_issue_other,Flag if not NA,Translate,NA,اعاقة في الرجلين السقوط من مكان عالي,Disable (his leg after he fall down from a high place ),disability,1
+28,9879,7989,7/30/2020 0:00,NA,sumail,89,health_issue_other,Flag if not NA,Translate,NA,تكيس مبايض,Ovarian problems,gynecological disorder,1
+29,9573,8369,7/30/2020 0:00,NA,sumail,92,health_issue_other,Flag if not NA,Translate,NA,صرع او نفسى,Epilepsy,chronic,1
+30,9574,8369,7/30/2020 0:00,NA,sumail,92,health_issue_other,Flag if not NA,Translate,NA,صرع او نفسى,Epilepsy,chronic,1
+31,9575,8369,7/30/2020 0:00,NA,sumail,92,health_issue_other,Flag if not NA,Translate,NA,صرع نفسى,Epilepsy,chronic,1
+32,9579,8369,7/30/2020 0:00,NA,sumail,92,health_issue_other,Flag if not NA,Translate,NA,صرع نفسى,Epilepsy,chronic,1
+33,9650,8369,7/30/2020 0:00,NA,sumail,95,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+34,9988,8369,7/30/2020 0:00,NA,sumail,84,health_issue_other,Flag if not NA,Translate,NA,اعاقة جسدية,Handicapped,disability,1
+35,14461,8620,8/7/2020 0:00,NA,zakho,90,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+36,14795,8620,8/7/2020 0:00,NA,zakho,84,health_issue_other,Flag if not NA,Translate,NA,اعاقة عقلية,mentall,mental disability,1
+37,14796,8620,8/7/2020 0:00,NA,zakho,84,health_issue_other,Flag if not NA,Translate,NA,اعقة جسدية,Handicapped,disability,1
+38,20387,8783,8/11/2020 0:00,NA,aqra,84,health_issue_other,Flag if not NA,Translate,NA,عجز في القدم,Disable (his foot ),disability,1
+39,18786,8783,8/10/2020 0:00,NA,aqra,83,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+40,20341,8783,8/11/2020 0:00,NA,aqra,95,health_issue_other,Flag if not NA,Translate,NA,انزلاق, Spondylolisthesis,spinal disorder,1
+41,20411,8783,8/11/2020 0:00,NA,aqra,96,health_issue_other,Flag if not NA,Translate,NA,متلازمة داون,Down syndrome,mental disability,1
+42,18897,8783,8/10/2020 0:00,NA,aqra,87,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+43,20351,8783,8/11/2020 0:00,NA,aqra,95,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+44,19852,8783,8/10/2020 0:00,NA,aqra,88,health_issue_other,Flag if not NA,Translate,NA,Imparied growth and somatic disorder,,chronic,1
+45,18809,8783,8/10/2020 0:00,NA,aqra,85,health_issue_other,Flag if not NA,Translate,NA,تخلف عقلي,mentally retarded,mental disability,1
+46,19776,8783,8/10/2020 0:00,NA,aqra,84,health_issue_other,Flag if not NA,Translate,NA,اعاقة عقلية,mentally retarded,mental disability,1
+47,19778,8783,8/10/2020 0:00,NA,aqra,84,health_issue_other,Flag if not NA,Translate,NA,الصرع,Epilepsy,chronic,1
+48,18853,8783,8/10/2020 0:00,NA,aqra,86,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+49,18811,8783,8/10/2020 0:00,NA,aqra,85,health_issue_other,Flag if not NA,Translate,NA,شلل,Paralysis,chronic,1
+50,6932,8867,7/28/2020 0:00,NA,duhok,91,health_issue_other,Flag if not NA,Translate,NA,غدة درقيه سامه,Goiter,chronic,1
+51,9969,8873,7/30/2020 0:00,NA,sumail,96,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+52,31395,12079,8/22/2020 0:00,NA,shaqlawa,119,health_issue_other,Flag if not NA,Translate,NA,امراض العقم,Sterility (infertility),gynecological disorder,1
+53,31384,12079,8/22/2020 0:00,NA,shaqlawa,119,health_issue_other,Flag if not NA,Translate,NA,ضمور بالدماغ,Brain atrophy,chronic,1
+54,31349,12172,8/22/2020 0:00,NA,shaqlawa,120,health_issue_other,Flag if not NA,Translate,NA,حادثه سياره قبل ٤ اشهر مكسور كتف والرجل عاطل عن عمل,his shoulder have been broken because of an accident before 4 months,bone disorder,1
+55,31342,12172,8/22/2020 0:00,NA,shaqlawa,120,health_issue_other,Flag if not NA,Translate,NA,Epilipcy,,chronic,1
+56,38808,12277,9/17/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,His eyes have been stopped .he can't see at all .he needs an  surgry,,weak eyesight,1
+57,38726,12277,9/17/2020 0:00,NA,rawanduz,125,health_issue_other,Flag if not NA,Translate,NA,ارتخاء بلعضلات,Relaxing in his muscles,chronic,1
+58,38704,12277,9/17/2020 0:00,NA,rawanduz,121,health_issue_other,Flag if not NA,Translate,NA,مرض كبد,Hepatitis,communicable,1
+59,34718,12597,9/8/2020 0:00,NA,rawanduz,150,health_issue_other,Flag if not NA,Translate,NA,Eplipcy,,chronic,1
+60,28945,12826,8/17/2020 0:00,NA,erbil,8,health_issue_other,Flag if not NA,Translate,NA,She suffer from her knees that can't help her to stand or walk easily.,,NA,1
+61,28929,12826,8/17/2020 0:00,NA,erbil,8,health_issue_other,Flag if not NA,Translate,NA,Disable,,disability,1
+62,28932,12826,8/17/2020 0:00,NA,erbil,8,health_issue_other,Flag if not NA,Translate,NA,Autism,,autism,1
+63,28934,12826,8/17/2020 0:00,NA,erbil,8,health_issue_other,Flag if not NA,Translate,NA,Blood pressure,,chronic,1
+64,28920,12826,8/17/2020 0:00,NA,erbil,8,health_issue_other,Flag if not NA,Translate,NA,Asthma,,chronic,1
+65,30277,12826,8/19/2020 0:00,NA,erbil,120,health_issue_other,Flag if not NA,Translate,NA,اخرس وتلف بالدماغ,Brain atrophy,chronic,1
+66,30281,12826,8/19/2020 0:00,NA,erbil,120,health_issue_other,Flag if not NA,Translate,NA,اخرس,Deaf,disability,1
+67,30282,12826,8/19/2020 0:00,NA,erbil,120,health_issue_other,Flag if not NA,Translate,NA,مايحجي,Deaf,disability,1
+68,31250,12948,8/20/2020 0:00,NA,shaqlawa,126,health_issue_other,Flag if not NA,Translate,NA,"Psychological case , he can't speak well or he gets afraid when some one kick the door anf that is because he was arrested by ISIS and killed many in front of his eyes.",,psychological disorder,1
+69,31253,12948,8/20/2020 0:00,NA,shaqlawa,126,health_issue_other,Flag if not NA,Translate,NA,He suffer from Reflex micturition disease and sometimes break every thing around him as window or a television when he gets angry .,,chronic,1
+70,31239,12948,8/20/2020 0:00,NA,shaqlawa,126,health_issue_other,Flag if not NA,Translate,NA,Blood pressure,,chronic,1
+71,31094,12948,8/20/2020 0:00,NA,shaqlawa,122,health_issue_other,Flag if not NA,Translate,NA,مرض نفسي (صرع ),Epilepsy,chronic,1
+72,31288,12957,8/22/2020 0:00,NA,shaqlawa,123,health_issue_other,Flag if not NA,Translate,NA,الربو,Asthma,chronic,1
+73,31318,12957,8/22/2020 0:00,NA,shaqlawa,124,health_issue_other,Flag if not NA,Translate,NA,زممور با الدماغ,Brain atrophy,chronic,1
+74,31282,12957,8/22/2020 0:00,NA,shaqlawa,123,health_issue_other,Flag if not NA,Translate,NA,امراض جلدية اظهار حبوب في الجلد,skin diseases,chronic,1
+75,34228,13141,9/6/2020 0:00,NA,rawanduz,120,health_issue_other,Flag if not NA,Translate,NA,Autizm,,autism,1
+76,34446,13141,9/7/2020 0:00,NA,rawanduz,120,health_issue_other,Flag if not NA,Translate,NA,سكري,Diabet,chronic,1
+77,34454,13141,9/7/2020 0:00,NA,rawanduz,120,health_issue_other,Flag if not NA,Translate,NA,مشكله الباغيم يرا له عمليه ماعدهم,surgrey,surgery,1
+78,34437,13141,9/7/2020 0:00,NA,rawanduz,120,health_issue_other,Flag if not NA,Translate,NA,ظمور العظلات الساقين,damage in the legs Muscles,disability,1
+79,34440,13141,9/7/2020 0:00,NA,rawanduz,120,health_issue_other,Flag if not NA,Translate,NA,عقم,Sterility (infertility),gynecological disorder,1
+80,34441,13141,9/7/2020 0:00,NA,rawanduz,120,health_issue_other,Flag if not NA,Translate,NA,االتكيسات بالرحم,Uterine problems,gynecological disorder,1
+81,29382,13685,8/18/2020 0:00,NA,erbil,120,health_issue_other,Flag if not NA,Translate,NA,عيون ضعيفه,Eye disorder,weak eyesight,1
+82,29346,14375,8/18/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,داء الفيل,Elephantiasis,communicable,1
+83,29346,14375,8/18/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,داء الفيل,Elephantiasis,communicable,1
+84,27867,14375,8/16/2020 0:00,NA,dibis,56,health_issue_other,Flag if not NA,Translate,NA,كبد فايروسي,Hepatitis,communicable,1
+85,27867,14375,8/16/2020 0:00,NA,dibis,56,health_issue_other,Flag if not NA,Translate,NA,كبد فايروسي,Hepatitis,communicable,1
+86,30020,14375,8/17/2020 0:00,NA,dibis,54,health_issue_other,Flag if not NA,Translate,NA,ضغط,Blood Pressure ,chronic,1
+87,30020,14375,8/17/2020 0:00,NA,dibis,54,health_issue_other,Flag if not NA,Translate,NA,ضغط,Blood Pressure ,chronic,1
+88,26761,14375,8/16/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,غده طرقيه,Hypothyroidism,chronic,1
+89,26762,14375,8/16/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,معوقه خلقيآ,Handicapped,disability,1
+90,26761,14375,8/16/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,غده طرقيه,Hypothyroidism,chronic,1
+91,26762,14375,8/16/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,معوقه خلقيآ,Handicapped,disability,1
+92,29224,14375,8/18/2020 0:00,NA,dibis,64,health_issue_other,Flag if not NA,Translate,NA,مرض عقلي مزمن,mentally retarded,mental disability,1
+93,29224,14375,8/18/2020 0:00,NA,dibis,64,health_issue_other,Flag if not NA,Translate,NA,مرض عقلي مزمن,mentally retarded,mental disability,1
+94,27711,14375,8/16/2020 0:00,NA,dibis,65,health_issue_other,Flag if not NA,Translate,NA,انزلاق, Spondylolisthesis,spinal disorder,1
+95,27711,14375,8/16/2020 0:00,NA,dibis,65,health_issue_other,Flag if not NA,Translate,NA,انزلاق, Spondylolisthesis,spinal disorder,1
+96,29244,14375,8/18/2020 0:00,NA,dibis,56,health_issue_other,Flag if not NA,Translate,NA,جروب انفيه,paranasal sinuses,communicable,1
+97,29247,14375,8/18/2020 0:00,NA,dibis,56,health_issue_other,Flag if not NA,Translate,NA,لأسمع ولايتكلم,Deaf,disability,1
+98,29244,14375,8/18/2020 0:00,NA,dibis,56,health_issue_other,Flag if not NA,Translate,NA,جروب انفيه,paranasal sinuses,communicable,1
+99,29247,14375,8/18/2020 0:00,NA,dibis,56,health_issue_other,Flag if not NA,Translate,NA,لأسمع ولايتكلم,Deaf,disability,1
+100,28021,14375,8/17/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+101,28021,14375,8/17/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+102,27700,14375,8/16/2020 0:00,NA,dibis,65,health_issue_other,Flag if not NA,Translate,NA,ضمور في الدماغ,Brain atrophy,chronic,1
+103,27700,14375,8/16/2020 0:00,NA,dibis,65,health_issue_other,Flag if not NA,Translate,NA,ضمور في الدماغ,Brain atrophy,chronic,1
+104,28993,14375,8/17/2020 0:00,NA,dibis,60,health_issue_other,Flag if not NA,Translate,NA,جيوب انفية,paranasal sinuses,communicable,1
+105,28993,14375,8/17/2020 0:00,NA,dibis,60,health_issue_other,Flag if not NA,Translate,NA,جيوب انفية,paranasal sinuses,communicable,1
+106,31270,14375,8/19/2020 0:00,NA,dibis,54,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+107,31270,14375,8/19/2020 0:00,NA,dibis,54,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+108,27727,14375,8/16/2020 0:00,NA,dibis,58,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+109,27727,14375,8/16/2020 0:00,NA,dibis,58,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+110,27731,14375,8/16/2020 0:00,NA,dibis,58,health_issue_other,Flag if not NA,Translate,NA,دوالي,Varicose vein,venous disorder,1
+111,27731,14375,8/16/2020 0:00,NA,dibis,58,health_issue_other,Flag if not NA,Translate,NA,دوالي,Varicose vein,venous disorder,1
+112,28174,14375,8/17/2020 0:00,NA,dibis,58,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+113,28175,14375,8/17/2020 0:00,NA,dibis,58,health_issue_other,Flag if not NA,Translate,NA,انزلاق بلفقرات, Spondylolisthesis,spinal disorder,1
+114,28174,14375,8/17/2020 0:00,NA,dibis,58,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+115,28175,14375,8/17/2020 0:00,NA,dibis,58,health_issue_other,Flag if not NA,Translate,NA,انزلاق بلفقرات, Spondylolisthesis,spinal disorder,1
+116,27793,14375,8/16/2020 0:00,NA,dibis,63,health_issue_other,Flag if not NA,Translate,NA,ربو,Asthma,chronic,1
+117,27793,14375,8/16/2020 0:00,NA,dibis,63,health_issue_other,Flag if not NA,Translate,NA,ربو,Asthma,chronic,1
+118,29280,14375,8/18/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+119,29280,14375,8/18/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+120,27704,14375,8/16/2020 0:00,NA,dibis,65,health_issue_other,Flag if not NA,Translate,NA,انزلاق, Spondylolisthesis,spinal disorder,1
+121,27704,14375,8/16/2020 0:00,NA,dibis,65,health_issue_other,Flag if not NA,Translate,NA,انزلاق, Spondylolisthesis,spinal disorder,1
+122,30898,14375,8/19/2020 0:00,NA,dibis,65,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+123,30898,14375,8/19/2020 0:00,NA,dibis,65,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+124,29167,14375,8/18/2020 0:00,NA,dibis,63,health_issue_other,Flag if not NA,Translate,NA,شلل,Paralysis,chronic,1
+125,29167,14375,8/18/2020 0:00,NA,dibis,63,health_issue_other,Flag if not NA,Translate,NA,شلل,Paralysis,chronic,1
+126,27813,14375,8/16/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+127,27813,14375,8/16/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+128,27992,14375,8/17/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,معوقه,Handicapped,disability,1
+129,27992,14375,8/17/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,معوقه,Handicapped,disability,1
+130,26779,14375,8/16/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,مرض التوحد,Autism,autism,1
+131,26779,14375,8/16/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,مرض التوحد,Autism,autism,1
+132,27999,14375,8/17/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,معوق خلقيا,Handicapped,disability,1
+133,27999,14375,8/17/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,معوق خلقيا,Handicapped,disability,1
+134,30825,14530,8/19/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,وجود ورم في الدماغ,Brain tumor,chronic,1
+135,30827,14530,8/19/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,مشاكل في الامعاء,Infections sensitive in the bowels,bowel disorder,1
+136,30829,14530,8/19/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,مشكل صحيه في الرئة,difficulty in breath,chronic,1
+137,29984,14530,8/18/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,وجود عقدة في الصدر,there is a swelling in her chest,knot in breast,1
+138,30813,14530,8/19/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,أمراض نسائية,women diseases,gynecological disorder,1
+139,30842,14530,8/19/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقرات, Spondylolisthesis,spinal disorder,1
+140,30845,14530,8/19/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,أمراض في الامعاء,Irritable Bowel Syndrome,bowel disorder,1
+141,9064,14530,7/27/2020 0:00,NA,kirkuk,65,health_issue_other,Flag if not NA,Translate,NA,ضمور في الدماغ,Brain atrophy,chronic,1
+142,30821,14530,8/19/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,حساسية مزننة,Chronic allergy,chronic,1
+143,30822,14530,8/19/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,ربو,Asthma,chronic,1
+144,29979,14530,8/18/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+145,32988,14786,8/27/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,حساسية مزمنه,Chronic allergy,chronic,1
+146,32990,14786,8/27/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,قولون مزمن حساسيه بدم,Irritable Bowel Syndrome,bowel disorder,1
+147,32988,14786,8/27/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,حساسية مزمنه,Chronic allergy,chronic,1
+148,32990,14786,8/27/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,قولون مزمن حساسيه بدم,Irritable Bowel Syndrome,bowel disorder,1
+149,31995,14786,8/24/2020 0:00,NA,daquq,64,health_issue_other,Flag if not NA,Translate,NA,أمراض نسائية,women diseases,gynecological disorder,1
+150,31995,14786,8/24/2020 0:00,NA,daquq,64,health_issue_other,Flag if not NA,Translate,NA,أمراض نسائية,women diseases,gynecological disorder,1
+151,33008,14786,8/27/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,بحاجة العملية في الفتق,Hernia,spinal disorder,1
+152,33009,14786,8/27/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+153,33008,14786,8/27/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,بحاجة العملية في الفتق,Hernia,spinal disorder,1
+154,33009,14786,8/27/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+155,32195,14786,8/24/2020 0:00,NA,daquq,57,health_issue_other,Flag if not NA,Translate,NA,بحاجة إلى عملية فتق,Hernia,spinal disorder,1
+156,32195,14786,8/24/2020 0:00,NA,daquq,57,health_issue_other,Flag if not NA,Translate,NA,بحاجة إلى عملية فتق,Hernia,spinal disorder,1
+157,33030,14786,8/27/2020 0:00,NA,daquq,64,health_issue_other,Flag if not NA,Translate,NA,روماتيز مزمن,Rheumatism,chronic,1
+158,33033,14786,8/27/2020 0:00,NA,daquq,64,health_issue_other,Flag if not NA,Translate,NA,حساسية في الدم,Blood diseases,chronic,1
+159,33030,14786,8/27/2020 0:00,NA,daquq,64,health_issue_other,Flag if not NA,Translate,NA,روماتيز مزمن,Rheumatism,chronic,1
+160,33033,14786,8/27/2020 0:00,NA,daquq,64,health_issue_other,Flag if not NA,Translate,NA,حساسية في الدم,Blood diseases,chronic,1
+161,33050,14786,8/27/2020 0:00,NA,daquq,64,health_issue_other,Flag if not NA,Translate,NA,مرض عقلي,mentally retarded,mental disability,1
+162,33050,14786,8/27/2020 0:00,NA,daquq,64,health_issue_other,Flag if not NA,Translate,NA,مرض عقلي,mentally retarded,mental disability,1
+163,32718,14788,8/26/2020 0:00,NA,daquq,63,health_issue_other,Flag if not NA,Translate,NA,شقيقة في الرأس,Migraine,migraine,1
+164,32747,14788,8/26/2020 0:00,NA,daquq,63,health_issue_other,Flag if not NA,Translate,NA,شلل,Paralysis,chronic,1
+165,32679,14864,8/26/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,مشاكل جلديه,skin diseases,chronic,1
+166,32684,14864,8/26/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,مشاكل بلفقرات,Spondylolisthesis,spinal disorder,1
+167,32685,14864,8/26/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,سوفان بلقدم,Blood diseases,chronic,1
+168,32908,14960,8/26/2020 0:00,NA,daquq,60,health_issue_other,Flag if not NA,Translate,NA,قولون,Irritable Bowel Syndrome,bowel disorder,1
+169,32891,14960,8/26/2020 0:00,NA,daquq,60,health_issue_other,Flag if not NA,Translate,NA,معاق عقليا وجسديا من طفولة,mentally retarded,mental disability,1
+170,32893,14960,8/26/2020 0:00,NA,daquq,60,health_issue_other,Flag if not NA,Translate,NA,معاق عقليا وجسديا,mentally retarded,mental disability,1
+171,32898,14960,8/26/2020 0:00,NA,daquq,60,health_issue_other,Flag if not NA,Translate,NA,ضغط مزمن,Blood Pressure ,chronic,1
+172,32916,14960,8/26/2020 0:00,NA,daquq,60,health_issue_other,Flag if not NA,Translate,NA,اعمى لا يرى, blind,blind,1
+173,32895,14960,8/26/2020 0:00,NA,daquq,60,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+174,32797,15139,8/26/2020 0:00,NA,daquq,59,health_issue_other,Flag if not NA,Translate,NA,مشكله سمع ضعيف وورم,deaf,deaf,1
+175,32828,15139,8/26/2020 0:00,NA,daquq,54,health_issue_other,Flag if not NA,Translate,NA,سرطاان,cancer,chronic,1
+176,33235,15242,8/26/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,امراض دم,Blood diseases,chronic,1
+177,33224,15242,8/26/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,امراض دم,Blood diseases,chronic,1
+178,33228,15242,8/26/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,مشاكل في العظام,problem in the bones,bone disorder,1
+179,34372,15264,9/7/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,مشاكل في العظام ادى الى العوق,problem in the bones that was the cause of his disability,disability,1
+180,33278,15416,8/27/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,اعاقه جسديه,Handicapped,disability,1
+181,33257,15416,8/27/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,اعاقه جسديه,Handicapped,disability,1
+182,33273,15416,8/27/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,مشاكل في العظام ومرض صرع,Epilepsy,chronic,1
+183,33265,15416,8/27/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,مشاكل في الدماغ,brain problems,chronic,1
+184,33279,15416,8/27/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,امراض دم,Blood diseases,chronic,1
+185,32591,15449,8/25/2020 0:00,NA,dibis,60,health_issue_other,Flag if not NA,Translate,NA,عوق ولادي,Childbirth dislocation,dislocation,1
+186,32253,15463,8/24/2020 0:00,NA,dibis,60,health_issue_other,Flag if not NA,Translate,NA,اعاقة ولادية,Childbirth dislocation,dislocation,1
+187,33821,15614,9/3/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,كن ذوي الاحتياجات الخاصه,disable,disability,1
+188,31704,15614,8/23/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,مشاكل في الفقرات,Spondylolisthesis,spinal disorder,1
+189,31687,15614,8/23/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,مشاكل في الفقرات والعظام,Spondylolisthesis,spinal disorder,1
+190,31688,15614,8/23/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,مشاكل في الفقرات و العظام,Spondylolisthesis,spinal disorder,1
+191,33822,15614,9/3/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,حساسيه مزمنه,Chronic allergy,chronic,1
+192,31692,15614,8/23/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,امراض في العظام والمفاصل,arthritis,chronic,1
+193,31683,15614,8/23/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,امراض نفسيه,psychological  diseases,psychological disorder,1
+194,31684,15614,8/23/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,امراض نفسيه,psychological  diseases,psychological disorder,1
+195,20573,16953,8/11/2020 0:00,NA,aqra,82,health_issue_other,Flag if not NA,Translate,NA,مشكلة في السمع,deaf,deaf,1
+196,20564,16953,8/11/2020 0:00,NA,aqra,82,health_issue_other,Flag if not NA,Translate,NA,اعاقة في الرجل,Disable (his leg ),disability,1
+197,21739,17045,8/12/2020 0:00,NA,al.shikhan,84,health_issue_other,Flag if not NA,Translate,NA,اعاقة جسدية,Handicapped,disability,1
+198,20070,17049,8/11/2020 0:00,NA,al.shikhan,88,health_issue_other,Flag if not NA,Translate,NA,Mental disorder,,mental disability,1
+199,212,17051,8/13/2020 0:00,NA,al.shikhan,82,health_issue_other,Flag if not NA,Translate,NA,خلل في الدماغ,brain problems,chronic,1
+200,213,17051,8/13/2020 0:00,NA,al.shikhan,82,health_issue_other,Flag if not NA,Translate,NA,خلل في الدماغ,brain problems,chronic,1
+201,215,17051,8/13/2020 0:00,NA,al.shikhan,82,health_issue_other,Flag if not NA,Translate,NA,خلل في الدماغ,brain problems,chronic,1
+202,219,17051,8/13/2020 0:00,NA,al.shikhan,82,health_issue_other,Flag if not NA,Translate,NA,خلل في الدماغ,brain problems,chronic,1
+203,21723,17051,8/12/2020 0:00,NA,al.shikhan,92,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+204,21725,17051,8/12/2020 0:00,NA,al.shikhan,92,health_issue_other,Flag if not NA,Translate,NA,شلل نصفى,Hemiplegia,chronic,1
+205,14514,17333,8/7/2020 0:00,NA,al.shikhan,86,health_issue_other,Flag if not NA,Translate,NA,اعاقة جسدية,Handicapped,disability,1
+206,14497,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+207,14498,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,انزلاق في ضهر, Spondylolisthesis,spinal disorder,1
+208,14500,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,حاله نفسيه,Psychological  problems,psychological disorder,1
+209,14453,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+210,15188,17333,8/7/2020 0:00,NA,al.shikhan,92,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+211,14492,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,فقر دم,Anemia,chronic,1
+212,14493,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,فيروس معده,Stomach diseases,bowel disorder,1
+213,14480,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+214,14481,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+215,14483,17333,8/7/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+216,14626,17333,8/7/2020 0:00,NA,al.shikhan,94,health_issue_other,Flag if not NA,Translate,NA,Brain problem,,chronic,1
+217,14606,17333,8/7/2020 0:00,NA,al.shikhan,85,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+218,15911,17535,8/8/2020 0:00,NA,al.shikhan,84,health_issue_other,Flag if not NA,Translate,NA,انزلاق بالفقرات, Spondylolisthesis,spinal disorder,1
+219,15912,17535,8/8/2020 0:00,NA,al.shikhan,84,health_issue_other,Flag if not NA,Translate,NA,انزلاق بالفقرات, Spondylolisthesis,spinal disorder,1
+220,17129,17734,8/9/2020 0:00,NA,aqra,98,health_issue_other,Flag if not NA,Translate,NA,معوقة,Handicapped,disability,1
+221,16626,17734,8/9/2020 0:00,NA,aqra,84,health_issue_other,Flag if not NA,Translate,NA,اعاقة جسدية,Handicapped,disability,1
+222,16632,17734,8/9/2020 0:00,NA,aqra,84,health_issue_other,Flag if not NA,Translate,NA,اعاقة عقلية,mentally retarded,mental disability,1
+223,16461,17734,8/9/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Lack of Enzymes,,chronic,1
+224,16635,17734,8/9/2020 0:00,NA,aqra,84,health_issue_other,Flag if not NA,Translate,NA,جلطة دماغية,Cerebrovascular accident – STROKE,chronic,1
+225,16473,17734,8/9/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Clogging in the arteries,,chronic,1
+226,16579,17734,8/9/2020 0:00,NA,aqra,95,health_issue_other,Flag if not NA,Translate,NA,سوفان,spondyloptosis,spinal disorder,1
+227,16583,17734,8/9/2020 0:00,NA,aqra,95,health_issue_other,Flag if not NA,Translate,NA,جيوب انفية,paranasal sinuses,communicable,1
+228,16649,17734,8/9/2020 0:00,NA,aqra,84,health_issue_other,Flag if not NA,Translate,NA,المعاناة من مشكلة منز الولادة في التبول  وعدم القدرة على السيطرة على نفسه,Pee reflex,urinary disorder,1
+229,16431,17734,8/9/2020 0:00,NA,aqra,96,health_issue_other,Flag if not NA,Translate,NA,توحد,Autism,autism,1
+230,16419,17734,8/9/2020 0:00,NA,aqra,82,health_issue_other,Flag if not NA,Translate,NA,تخلف عقلي,mentally retarded,mental disability,1
+231,16576,17734,8/9/2020 0:00,NA,aqra,95,health_issue_other,Flag if not NA,Translate,NA,مرض جلدي,skin diseases,chronic,1
+232,16577,17734,8/9/2020 0:00,NA,aqra,95,health_issue_other,Flag if not NA,Translate,NA,مرض جلدي حساسيه,skin diseases,chronic,1
+233,16578,17734,8/9/2020 0:00,NA,aqra,95,health_issue_other,Flag if not NA,Translate,NA,مرض جلدي حساسيه,skin diseases,chronic,1
+234,16557,17734,8/9/2020 0:00,NA,aqra,95,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+235,16412,17734,8/9/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Anemia,,chronic,1
+236,16413,17734,8/9/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Anemia,,chronic,1
+237,16415,17734,8/9/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Anemia,,chronic,1
+238,16492,17734,8/9/2020 0:00,NA,aqra,83,health_issue_other,Flag if not NA,Translate,NA,تبديل مفاصل,arthritis,chronic,1
+239,16493,17734,8/9/2020 0:00,NA,aqra,83,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+240,16895,17734,8/9/2020 0:00,NA,aqra,92,health_issue_other,Flag if not NA,Translate,NA,نقص دماغ,Brain atrophy,chronic,1
+241,16381,17734,8/9/2020 0:00,NA,aqra,85,health_issue_other,Flag if not NA,Translate,NA,شلل,Paralysis,chronic,1
+242,15284,17752,8/8/2020 0:00,NA,al.shikhan,5,health_issue_other,Flag if not NA,Translate,NA,شلل كامل,Paralysis,chronic,1
+243,15535,17752,8/8/2020 0:00,NA,al.shikhan,83,health_issue_other,Flag if not NA,Translate,NA,stomache ache,,,1
+244,15539,17752,8/8/2020 0:00,NA,al.shikhan,83,health_issue_other,Flag if not NA,Translate,NA,حساسية في الصدر,Chronic allergy in the chest,chronic,1
+245,21770,17875,8/12/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+246,15487,18199,8/8/2020 0:00,NA,al.shikhan,94,health_issue_other,Flag if not NA,Translate,NA,Psahcologe problem,,psychological disorder,1
+247,15456,18199,8/8/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+248,16013,18199,8/8/2020 0:00,NA,al.shikhan,98,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+249,15453,18199,8/8/2020 0:00,NA,al.shikhan,86,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+250,15996,18199,8/8/2020 0:00,NA,al.shikhan,98,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+251,15468,18199,8/8/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+252,15474,18199,8/8/2020 0:00,NA,al.shikhan,95,health_issue_other,Flag if not NA,Translate,NA,انزلاق, Spondylolisthesis,spinal disorder,1
+253,21792,18267,8/12/2020 0:00,NA,al.shikhan,88,health_issue_other,Flag if not NA,Translate,NA,Backache,,backache,1
+254,21793,18267,8/12/2020 0:00,NA,al.shikhan,88,health_issue_other,Flag if not NA,Translate,NA,Grouth disorder,,NA,1
+255,16076,20529,8/9/2020 0:00,NA,tooz.khurmato,74,health_issue_other,Flag if not NA,Translate,NA,ضغط و سكر,Blood Pressure + Diabts,chronic,1
+256,29396,20790,8/18/2020 0:00,NA,erbil,120,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقري, Spondylolisthesis,spinal disorder,1
+257,7627,21004,7/28/2020 0:00,NA,al.shirqat,73,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+258,15989,21008,8/8/2020 0:00,NA,al.shikhan,90,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+259,4581,21016,7/27/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,بهاق جلدي,skin diseases,chronic,1
+260,4582,21016,7/27/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,تمزق في الفقرات,Spondylolisthesis,spinal disorder,1
+261,4584,21016,7/27/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,تحسس في الجلد,skin diseases,chronic,1
+262,4533,21016,7/27/2020 0:00,NA,kirkuk,59,health_issue_other,Flag if not NA,Translate,NA,توحد,Autism,autism,1
+263,18498,21103,8/10/2020 0:00,NA,tooz.khurmato,70,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+264,18524,21103,8/10/2020 0:00,NA,tooz.khurmato,80,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+265,18525,21103,8/10/2020 0:00,NA,tooz.khurmato,80,health_issue_other,Flag if not NA,Translate,NA,سكر ضغط,Diabet +Blood pressure,chronic,1
+266,35032,21321,9/8/2020 0:00,NA,al.falluja,19,health_issue_other,Flag if not NA,Translate,NA,روماتزم,Rheumatism,chronic,1
+267,35033,21321,9/8/2020 0:00,NA,al.falluja,19,health_issue_other,Flag if not NA,Translate,NA,تخلف عقلي,mentally retarded,mental disability,1
+268,8609,21347,7/29/2020 0:00,NA,al.shirqat,73,health_issue_other,Flag if not NA,Translate,NA,قصر اطراف,some organs are not growing well,,1
+269,31580,21453,8/23/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,انسداد بلشراين القلب,heart disease,chronic,1
+270,31581,21453,8/23/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,فتحه بلقلب,heart disease (hole in it),chronic,1
+271,31558,21453,8/23/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,جلطه نصفيه,Migraine,migraine,1
+272,34203,21453,9/6/2020 0:00,NA,daquq,59,health_issue_other,Flag if not NA,Translate,NA,معوق ولادي,Childbirth dislocation,dislocation,1
+273,34205,21453,9/6/2020 0:00,NA,daquq,59,health_issue_other,Flag if not NA,Translate,NA,معوق ولادي,Childbirth dislocation,dislocation,1
+274,31826,21453,8/23/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,فتق,Hernia,spinal disorder,1
+275,31827,21453,8/23/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+276,31822,21453,8/23/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,مشاكل أمراض نسائية,women diseases,gynecological disorder,1
+277,31807,21453,8/23/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,حساسية,Chronic allergy,chronic,1
+278,31811,21453,8/23/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,مشاكل نفسية,Psychological  problems,psychological disorder,1
+279,31803,21453,8/23/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+280,31798,21453,8/23/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,أمراض نفسية,psychological  diseases,psychological disorder,1
+281,32214,21483,8/24/2020 0:00,NA,daquq,57,health_issue_other,Flag if not NA,Translate,NA,أمراض في المعده,Stomach diseases,bowel disorder,1
+282,31961,21483,8/24/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,انزلاق بلظهر, Spondylolisthesis,spinal disorder,1
+283,34641,21483,9/7/2020 0:00,NA,daquq,65,health_issue_other,Flag if not NA,Translate,NA,روماتزم,Rheumatism,chronic,1
+284,34553,21483,9/7/2020 0:00,NA,daquq,59,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+285,34574,21483,9/7/2020 0:00,NA,daquq,59,health_issue_other,Flag if not NA,Translate,NA,شقيقه,Migraine,migraine,1
+286,34630,21483,9/7/2020 0:00,NA,daquq,54,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+287,8681,21509,7/29/2020 0:00,NA,duhok,53,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+288,8450,21509,7/29/2020 0:00,NA,duhok,88,health_issue_other,Flag if not NA,Translate,NA,Backache,,backache,1
+289,20185,21648,8/11/2020 0:00,NA,al.shikhan,93,health_issue_other,Flag if not NA,Translate,NA,Dislocation birth,,dislocation,1
+290,20187,21648,8/11/2020 0:00,NA,al.shikhan,93,health_issue_other,Flag if not NA,Translate,NA,Dislocation birth,,dislocation,1
+291,34348,21702,9/7/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+292,26455,21702,8/13/2020 0:00,NA,kirkuk,63,health_issue_other,Flag if not NA,Translate,NA,جلطة, Blood clot,chronic,1
+293,26429,21702,8/13/2020 0:00,NA,kirkuk,65,health_issue_other,Flag if not NA,Translate,NA,ضمور,Brain damage,chronic,1
+294,34605,21702,9/7/2020 0:00,NA,kirkuk,60,health_issue_other,Flag if not NA,Translate,NA,اعاقة ولادية,Childbirth dislocation,dislocation,1
+295,34607,21702,9/7/2020 0:00,NA,kirkuk,60,health_issue_other,Flag if not NA,Translate,NA,اعاقة ولادية,Childbirth dislocation,dislocation,1
+296,34609,21702,9/7/2020 0:00,NA,kirkuk,60,health_issue_other,Flag if not NA,Translate,NA,سوفان,spondyloptosis,spinal disorder,1
+297,34598,21702,9/7/2020 0:00,NA,kirkuk,60,health_issue_other,Flag if not NA,Translate,NA,غدة نخامية,pituitary gland,chronic,1
+298,28057,21899,8/17/2020 0:00,NA,erbil,1,health_issue_other,Flag if not NA,Translate,NA,حادثه سياره قبل ٨ اشهر  كسر في مناطق بالجسم (حوض والساق و الكتف),most of his bones broken because of an accident 8 months ago,bone disorder,1
+299,28047,21899,8/17/2020 0:00,NA,erbil,1,health_issue_other,Flag if not NA,Translate,NA,رعشه اليد القوي,Shaking in his hand,chronic,1
+300,28388,21899,8/17/2020 0:00,NA,erbil,2,health_issue_other,Flag if not NA,Translate,NA,مرض نفسي,psycholocial case,psychological disorder,1
+301,28390,21899,8/17/2020 0:00,NA,erbil,2,health_issue_other,Flag if not NA,Translate,NA,اعمى لا استطيع النظر, blind,blind,1
+302,7118,21971,7/28/2020 0:00,NA,duhok,83,health_issue_other,Flag if not NA,Translate,NA,Psychological issue,,psychological disorder,1
+303,7119,21971,7/28/2020 0:00,NA,duhok,83,health_issue_other,Flag if not NA,Translate,NA,Psychological issue,,psychological disorder,1
+304,7125,21971,7/28/2020 0:00,NA,duhok,83,health_issue_other,Flag if not NA,Translate,NA,تلف بالدماغ,Brain damage,chronic,1
+305,3093,22296,1/1/2015 0:00,NA,kirkuk,57,health_issue_other,Flag if not NA,Translate,NA,شلل رباعي,Tetraplegia,chronic,1
+306,3085,22296,1/1/2015 0:00,NA,kirkuk,64,health_issue_other,Flag if not NA,Translate,NA,شلل رباعي,Tetraplegia,chronic,1
+307,3005,22296,7/23/2020 0:00,NA,kirkuk,56,health_issue_other,Flag if not NA,Translate,NA,حساسيه مزمنه,Chronic allergy,chronic,1
+308,10769,23388,8/4/2020 0:00,NA,beygee,78,health_issue_other,Flag if not NA,Translate,NA,جلطه, Blood clot,chronic,1
+309,9323,23435,7/30/2020 0:00,NA,beygee,78,health_issue_other,Flag if not NA,Translate,NA,منغولي,Down syndrome,mental disability,1
+310,10173,23435,7/30/2020 0:00,NA,beygee,75,health_issue_other,Flag if not NA,Translate,NA,يعاني من ارتفاع ضغط الدم,blood pressure,chronic,1
+311,9520,23435,7/30/2020 0:00,NA,beygee,73,health_issue_other,Flag if not NA,Translate,NA,امراض قلب,heart disease,chronic,1
+312,31216,23698,8/20/2020 0:00,NA,shaqlawa,123,health_issue_other,Flag if not NA,Translate,NA,غدة درقية سامة,Goiter,chronic,1
+313,31036,23713,8/20/2020 0:00,NA,shaqlawa,120,health_issue_other,Flag if not NA,Translate,NA,مصاب بكورونا,covid 19,COVID 19,1
+314,31026,23713,8/20/2020 0:00,NA,shaqlawa,120,health_issue_other,Flag if not NA,Translate,NA,مشكله البصر,Eye disorder,weak eyesight,1
+315,30517,23741,8/19/2020 0:00,NA,shaqlawa,119,health_issue_other,Flag if not NA,Translate,NA,مرض انفصام بالشخصية,psycholocial case,psychological disorder,1
+316,30427,23742,8/19/2020 0:00,NA,shaqlawa,122,health_issue_other,Flag if not NA,Translate,NA,مرض ضمور بالدماغ ( صرع ),cerebral palsy +epilepsy,chronic,1
+317,30644,23742,8/19/2020 0:00,NA,shaqlawa,126,health_issue_other,Flag if not NA,Translate,NA,Skin disease,,chronic,1
+318,30617,23742,8/19/2020 0:00,NA,shaqlawa,126,health_issue_other,Flag if not NA,Translate,NA,He suffer from his left ear which is the cause that he falls down many time,,disability,1
+319,30620,23742,8/19/2020 0:00,NA,shaqlawa,126,health_issue_other,Flag if not NA,Translate,NA,He is disable and suffer from mental disease.,,disability,1
+320,30635,23742,8/19/2020 0:00,NA,shaqlawa,126,health_issue_other,Flag if not NA,Translate,NA,Blood pressure,,chronic,1
+321,30610,23742,8/19/2020 0:00,NA,shaqlawa,126,health_issue_other,Flag if not NA,Translate,NA,Eye problem,,weak eyesight,1
+322,36125,23889,9/12/2020 0:00,NA,al.ramadi,28,health_issue_other,Flag if not NA,Translate,NA,بواسير,Hemorrhoids,venous disorder,1
+323,36348,23889,9/12/2020 0:00,NA,al.ramadi,19,health_issue_other,Flag if not NA,Translate,NA,السحاية,Meningitis,communicable,1
+324,4609,24084,7/26/2020 0:00,NA,kirkuk,57,health_issue_other,Flag if not NA,Translate,NA,نقص في نمو الدماغ(ضمور),cerebral palsy,chronic,1
+325,4609,24084,7/26/2020 0:00,NA,kirkuk,57,health_issue_other,Flag if not NA,Translate,NA,نقص في نمو الدماغ(ضمور),cerebral palsy,chronic,1
+326,3335,24084,7/26/2020 0:00,NA,kirkuk,56,health_issue_other,Flag if not NA,Translate,NA,ربو,Asthma,chronic,1
+327,3337,24084,7/26/2020 0:00,NA,kirkuk,56,health_issue_other,Flag if not NA,Translate,NA,قصر نظر,Eye disorder,weak eyesight,1
+328,3335,24084,7/26/2020 0:00,NA,kirkuk,56,health_issue_other,Flag if not NA,Translate,NA,ربو,Asthma,chronic,1
+329,3337,24084,7/26/2020 0:00,NA,kirkuk,56,health_issue_other,Flag if not NA,Translate,NA,قصر نظر,Eye disorder,weak eyesight,1
+330,3320,24084,7/26/2020 0:00,NA,kirkuk,56,health_issue_other,Flag if not NA,Translate,NA,التهاب العصب الخامس,Inflammation of the fifth nerve,nerve disorder,1
+331,3320,24084,7/26/2020 0:00,NA,kirkuk,56,health_issue_other,Flag if not NA,Translate,NA,التهاب العصب الخامس,Inflammation of the fifth nerve,nerve disorder,1
+332,3171,24084,7/26/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,مرض شلل أثناء الولاده,Poliomyelitis after birth,communicable,1
+333,3171,24084,7/26/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,مرض شلل أثناء الولاده,Poliomyelitis after birth,communicable,1
+334,3156,24084,7/26/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+335,3156,24084,7/26/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+336,4978,24092,7/27/2020 0:00,NA,duhok,86,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقارات, Spondylolisthesis,spinal disorder,1
+337,5021,24092,7/27/2020 0:00,NA,duhok,88,health_issue_other,Flag if not NA,Translate,NA,Backache,,backache,1
+338,5028,24186,7/27/2020 0:00,NA,duhok,85,health_issue_other,Flag if not NA,Translate,NA,Blood clotting,,chronic,1
+339,4994,24186,7/27/2020 0:00,NA,duhok,96,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+340,30300,24308,8/19/2020 0:00,NA,erbil,120,health_issue_other,Flag if not NA,Translate,NA,مشاكل جلديه,skin diseases,chronic,1
+341,33157,24362,8/24/2020 0:00,NA,al.hawiga,58,health_issue_other,Flag if not NA,Translate,NA,قرحه في المعده,Sour stomach,bowel disorder,1
+342,22069,24580,8/12/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Disabled,,disability,1
+343,17978,24580,8/10/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Disabled,,disability,1
+344,21938,24580,8/12/2020 0:00,NA,aqra,96,health_issue_other,Flag if not NA,Translate,NA,داء الصرع,Epilepsy,chronic,1
+345,21944,24580,8/12/2020 0:00,NA,aqra,96,health_issue_other,Flag if not NA,Translate,NA,خلع ولادي,Childbirth dislocation,dislocation,1
+346,22060,24580,8/12/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Migraine,,migraine,1
+347,21963,24580,8/12/2020 0:00,NA,aqra,91,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+348,22038,24580,8/12/2020 0:00,NA,aqra,93,health_issue_other,Flag if not NA,Translate,NA,Migraine,,migraine,1
+349,17959,24580,8/10/2020 0:00,NA,aqra,91,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+350,8191,24596,7/29/2020 0:00,NA,sumail,98,health_issue_other,Flag if not NA,Translate,NA,Disable mental,,disability,1
+351,8115,24628,7/29/2020 0:00,NA,duhok,95,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+352,8041,24628,7/29/2020 0:00,NA,duhok,92,health_issue_other,Flag if not NA,Translate,NA,توحد,Autism,autism,1
+353,8118,24628,7/29/2020 0:00,NA,duhok,95,health_issue_other,Flag if not NA,Translate,NA,امراض مفاصل,arthritis,chronic,1
+354,31777,24632,8/23/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,جلطة, Blood clot,chronic,1
+355,31756,24632,8/23/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,اكياس مائيه في المعده,Stomach diseases,bowel disorder,1
+356,31637,24632,8/23/2020 0:00,NA,dibis,59,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+357,4406,24786,7/26/2020 0:00,NA,al.kut,67,health_issue_other,Flag if not NA,Translate,NA,ارتفاع الضغط المزمن,Blood Pressure ,chronic,1
+358,3180,25556,1/4/2015 0:00,NA,kirkuk,59,health_issue_other,Flag if not NA,Translate,NA,توحد,Autism,autism,1
+359,24378,25556,8/13/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,أمراض غدة,Hypothyroidism,chronic,1
+360,33998,25556,9/3/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,معوقه خلقيآ,Handicapped,disability,1
+361,4487,25556,7/26/2020 0:00,NA,kirkuk,64,health_issue_other,Flag if not NA,Translate,NA,عوق ولادي,Childbirth dislocation,dislocation,1
+362,26411,25556,8/13/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+363,4561,25556,7/26/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+364,25668,25556,8/13/2020 0:00,NA,kirkuk,57,health_issue_other,Flag if not NA,Translate,NA,امراض في العظام,bones diseases,disability,1
+365,24389,25556,8/13/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+366,4578,25556,7/26/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,تخثر في الدم,Blood Clotting,chronic,1
+367,4580,25556,7/26/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,نقص في دماغ,Brain atrophy,chronic,1
+368,4554,25556,7/26/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,مرض المفاصل,arthritis,chronic,1
+369,4555,25556,7/26/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,التهابات وتحسس في الامعاء,Infections sensitive in the bowels,bowel disorder,1
+370,33744,25556,9/3/2020 0:00,NA,kirkuk,64,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+371,4573,25556,7/26/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,مفاصل وفقرات,arthritis,chronic,1
+372,9736,25622,7/30/2020 0:00,NA,sumail,94,health_issue_other,Flag if not NA,Translate,NA,Backbone ache,,backache,1
+373,9743,25622,7/30/2020 0:00,NA,sumail,94,health_issue_other,Flag if not NA,Translate,NA,Eyes problem,,weak eyesight,1
+374,9750,25622,7/30/2020 0:00,NA,sumail,94,health_issue_other,Flag if not NA,Translate,NA,Eyes problem,,weak eyesight,1
+375,9751,25622,7/30/2020 0:00,NA,sumail,94,health_issue_other,Flag if not NA,Translate,NA,Eyes problems,,weak eyesight,1
+376,9752,25622,7/30/2020 0:00,NA,sumail,94,health_issue_other,Flag if not NA,Translate,NA,Blood pressure,,chronic,1
+377,9753,25622,7/30/2020 0:00,NA,sumail,94,health_issue_other,Flag if not NA,Translate,NA,Cell problem,,chronic,1
+378,9745,25622,7/30/2020 0:00,NA,sumail,94,health_issue_other,Flag if not NA,Translate,NA,Bone ache,,boneache,1
+379,9747,25622,7/30/2020 0:00,NA,sumail,94,health_issue_other,Flag if not NA,Translate,NA,Head ache,,headache,1
+380,30132,25630,1/1/2015 0:00,NA,erbil,123,health_issue_other,Flag if not NA,Translate,NA,ضغط بالدماغ,Brain atrophy,chronic,1
+381,29565,25727,8/18/2020 0:00,NA,erbil,119,health_issue_other,Flag if not NA,Translate,NA,Paralytic disease,,chronic,1
+382,33096,25739,8/27/2020 0:00,NA,daquq,62,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+383,33313,25739,8/27/2020 0:00,NA,daquq,59,health_issue_other,Flag if not NA,Translate,NA,ظمور الغده,Problems with the glands,chronic,1
+384,33086,25739,8/27/2020 0:00,NA,daquq,62,health_issue_other,Flag if not NA,Translate,NA,انزلاق في فقرات الظهر, Spondylolisthesis,spinal disorder,1
+385,33090,25739,8/27/2020 0:00,NA,daquq,62,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+386,33091,25739,8/27/2020 0:00,NA,daquq,62,health_issue_other,Flag if not NA,Translate,NA,بطىء في النمو,delayed in growth,chronic,1
+387,33106,25739,8/27/2020 0:00,NA,daquq,62,health_issue_other,Flag if not NA,Translate,NA,معوق في حادث سياره,disable (accident ),disability,1
+388,14826,25754,8/7/2020 0:00,NA,tooz.khurmato,74,health_issue_other,Flag if not NA,Translate,NA,ضغط,Blood Pressure ,chronic,1
+389,14826,25754,8/7/2020 0:00,NA,tooz.khurmato,74,health_issue_other,Flag if not NA,Translate,NA,ضغط,Blood Pressure ,chronic,1
+390,21048,25754,8/11/2020 0:00,NA,tooz.khurmato,76,health_issue_other,Flag if not NA,Translate,NA,انجاب الاطفال,Inability to have children,gynecological disorder,1
+391,21048,25754,8/11/2020 0:00,NA,tooz.khurmato,76,health_issue_other,Flag if not NA,Translate,NA,انجاب الاطفال,Inability to have children,gynecological disorder,1
+392,15639,25866,8/8/2020 0:00,NA,tooz.khurmato,73,health_issue_other,Flag if not NA,Translate,NA,كسور في العمود الفقري,Vertebral fractures,bone disorder,1
+393,15639,25866,8/8/2020 0:00,NA,tooz.khurmato,73,health_issue_other,Flag if not NA,Translate,NA,كسور في العمود الفقري,Vertebral fractures,bone disorder,1
+394,14995,25866,8/7/2020 0:00,NA,tooz.khurmato,71,health_issue_other,Flag if not NA,Translate,NA,اللتهاب الاعصاب,Inflammation of the nerves,nerve disorder,1
+395,14995,25866,8/7/2020 0:00,NA,tooz.khurmato,71,health_issue_other,Flag if not NA,Translate,NA,اللتهاب الاعصاب,Inflammation of the nerves,nerve disorder,1
+396,15692,25866,8/8/2020 0:00,NA,tooz.khurmato,72,health_issue_other,Flag if not NA,Translate,NA,يعاني رب الاسرة من كسر في الفخذ ووجود مادة البلاتين فيها نتيجت حادث سيارة كذلك يعاني من فقدان السمع نهائيا,"The head of the family suffers from a thigh fracture and the presence of platinum in it, as a result of a case, and he suffers from a permanent hearing loss",conflict_related,1
+397,15692,25866,8/8/2020 0:00,NA,tooz.khurmato,72,health_issue_other,Flag if not NA,Translate,NA,يعاني رب الاسرة من كسر في الفخذ ووجود مادة البلاتين فيها نتيجت حادث سيارة كذلك يعاني من فقدان السمع نهائيا,"The head of the family suffers from a thigh fracture and the presence of platinum in it, as a result of a case, and he suffers from a permanent hearing loss",conflict_related,1
+398,15045,25866,8/7/2020 0:00,NA,tooz.khurmato,73,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+399,15045,25866,8/7/2020 0:00,NA,tooz.khurmato,73,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+400,18473,25868,8/10/2020 0:00,NA,tooz.khurmato,72,health_issue_other,Flag if not NA,Translate,NA,تعاني من عدم أسمع والنطق بالسان,deaf,deaf,1
+401,18475,25868,8/10/2020 0:00,NA,tooz.khurmato,72,health_issue_other,Flag if not NA,Translate,NA,يعاني من عدم أسمع والنطق,Deaf,deaf,1
+402,18476,25868,8/10/2020 0:00,NA,tooz.khurmato,72,health_issue_other,Flag if not NA,Translate,NA,مشاكل نفسية,Psychological  problems,psychological disorder,1
+403,18473,25868,8/10/2020 0:00,NA,tooz.khurmato,72,health_issue_other,Flag if not NA,Translate,NA,تعاني من عدم أسمع والنطق بالسان,deaf,deaf,1
+404,18475,25868,8/10/2020 0:00,NA,tooz.khurmato,72,health_issue_other,Flag if not NA,Translate,NA,يعاني من عدم أسمع والنطق,Deaf,deaf,1
+405,18476,25868,8/10/2020 0:00,NA,tooz.khurmato,72,health_issue_other,Flag if not NA,Translate,NA,مشاكل نفسية,Psychological  problems,psychological disorder,1
+406,8127,25898,7/29/2020 0:00,NA,duhok,95,health_issue_other,Flag if not NA,Translate,NA,تلف دماغ,Brain damage,chronic,1
+407,15061,25945,8/7/2020 0:00,NA,al.shikhan,96,health_issue_other,Flag if not NA,Translate,NA,مشكلة في مثانة,Urinary problems,urinary disorder,1
+408,14765,25992,8/7/2020 0:00,NA,zakho,84,health_issue_other,Flag if not NA,Translate,NA,الام في المفاصل,arthritis,chronic,1
+409,14772,25992,8/7/2020 0:00,NA,zakho,84,health_issue_other,Flag if not NA,Translate,NA,مشاكل تتعلق بالنساء والولادة,women diseases,gynecological disorder,1
+410,7194,26047,7/28/2020 0:00,NA,duhok,90,health_issue_other,Flag if not NA,Translate,NA,التوحد,Autism,autism,1
+411,6727,26047,7/28/2020 0:00,NA,duhok,87,health_issue_other,Flag if not NA,Translate,NA,مفاصل,arthritis,chronic,1
+412,6990,26047,7/28/2020 0:00,NA,duhok,92,health_issue_other,Flag if not NA,Translate,NA,المبيض,Ovarian problems,gynecological disorder,1
+413,35300,26085,9/9/2020 0:00,NA,al.falluja,19,health_issue_other,Flag if not NA,Translate,NA,كفيف,Blind,blind,1
+414,35302,26085,9/9/2020 0:00,NA,al.falluja,19,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+415,35185,26088,9/9/2020 0:00,NA,al.falluja,14,health_issue_other,Flag if not NA,Translate,NA,مصاب بمرض الجرب,Scabies disease,communicable,1
+416,9666,27125,7/30/2020 0:00,NA,sumail,95,health_issue_other,Flag if not NA,Translate,NA,حاله نفسيه,Psychological  problems,psychological disorder,1
+417,9667,27125,7/30/2020 0:00,NA,sumail,95,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+418,31479,27198,8/22/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,"Disable ,she can't walk at all for she suffers from her legs.and she suffers from lack of Oxgan in her body because of  asthma",,disability,1
+419,31463,27198,8/22/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,"Disable,he can't hear or speak well",,disability,1
+420,31466,27198,8/22/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,"Disable , he can't hear or talk at all.",,disability,1
+421,31467,27198,8/22/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,"Disable ,she can't talk or hear.",,disability,1
+422,31468,27198,8/22/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,Disable .can't hear or talk.,,disability,1
+423,31497,27198,8/22/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,Blood pressure,,chronic,1
+424,31488,27198,8/22/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,Asthma,,chronic,1
+425,31489,27198,8/22/2020 0:00,NA,rawanduz,126,health_issue_other,Flag if not NA,Translate,NA,Asthma,,chronic,1
+426,34690,27200,9/8/2020 0:00,NA,rawanduz,119,health_issue_other,Flag if not NA,Translate,NA,مشكلة عقلية,mentally retarded,mental disability,1
+427,34692,27200,9/8/2020 0:00,NA,rawanduz,119,health_issue_other,Flag if not NA,Translate,NA,معاق لا يستطيع الحركة,disable,disability,1
+428,32962,29631,8/26/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,سوفان شقيقة,Migraine,migraine,1
+429,32963,29631,8/26/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,شقيقه,Migraine,migraine,1
+430,32961,29631,8/26/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,مشاكل نسائيه عدم جلب اطفال,Inability to have children,gynecological disorder,1
+431,32437,31725,8/25/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+432,32350,31725,8/25/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,سوفان,spondyloptosis,spinal disorder,1
+433,32351,31725,8/25/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,نقص بلدم,Blood diseases,chronic,1
+434,34337,31726,9/7/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,جلطة دماغيه,Cerebrovascular accident – STROKE,chronic,1
+435,34337,31726,9/7/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,جلطة دماغيه,Cerebrovascular accident – STROKE,chronic,1
+436,4600,31727,7/27/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,معاقه خلقيآ,Handicapped,disability,1
+437,4594,31727,7/27/2020 0:00,NA,kirkuk,62,health_issue_other,Flag if not NA,Translate,NA,طبق في الفقرات العمقيه,Spondylolisthesis,spinal disorder,1
+438,4678,31728,7/27/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,مشاكل بلطبلة لاذن بحاجة إلى عمليه,ear diseases,weak eyesight,1
+439,4683,31728,7/27/2020 0:00,NA,kirkuk,58,health_issue_other,Flag if not NA,Translate,NA,معوق شلل رباعي,Tetraplegia,chronic,1
+440,4649,31728,7/27/2020 0:00,NA,kirkuk,57,health_issue_other,Flag if not NA,Translate,NA,امراض كبد,Hepatitis,communicable,1
+441,6373,31729,7/27/2020 0:00,NA,kirkuk,60,health_issue_other,Flag if not NA,Translate,NA,غدة على حبال الصوتية,Problems with the glands,chronic,1
+442,6375,31729,7/27/2020 0:00,NA,kirkuk,60,health_issue_other,Flag if not NA,Translate,NA,روماتيز,Rheumatism,chronic,1
+443,13697,32027,8/6/2020 0:00,NA,zakho,87,health_issue_other,Flag if not NA,Translate,NA,روماتيزم,Rheumatism,chronic,1
+444,13686,32027,8/6/2020 0:00,NA,zakho,87,health_issue_other,Flag if not NA,Translate,NA,مفاصل,arthritis,chronic,1
+445,13760,32028,8/6/2020 0:00,NA,zakho,86,health_issue_other,Flag if not NA,Translate,NA,اعاقة جسدية,Handicapped,disability,1
+446,13743,32028,8/6/2020 0:00,NA,zakho,86,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+447,13750,32028,8/6/2020 0:00,NA,zakho,86,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+448,13751,32028,8/6/2020 0:00,NA,zakho,86,health_issue_other,Flag if not NA,Translate,NA,اعاقة جسدية,Handicapped,disability,1
+449,13286,32028,8/6/2020 0:00,NA,zakho,83,health_issue_other,Flag if not NA,Translate,NA,مرض جلدي(صدفي),skin diseases (Psoriasis ),chronic,1
+450,13288,32028,8/6/2020 0:00,NA,zakho,83,health_issue_other,Flag if not NA,Translate,NA,نموه بطئ,delayed in growth,chronic,1
+451,13524,32028,8/6/2020 0:00,NA,zakho,85,health_issue_other,Flag if not NA,Translate,NA,تخلف في العقل,mentally retarded,mental disability,1
+452,13580,32029,8/6/2020 0:00,NA,zakho,96,health_issue_other,Flag if not NA,Translate,NA,تخلف عقلي,mentally retarded,mental disability,1
+453,13232,32029,8/6/2020 0:00,NA,zakho,94,health_issue_other,Flag if not NA,Translate,NA,Eyes problem,,weak eyesight,1
+454,13392,32031,8/6/2020 0:00,NA,zakho,95,health_issue_other,Flag if not NA,Translate,NA,امراض فقرات,Spondylolisthesis,spinal disorder,1
+455,13393,32031,8/6/2020 0:00,NA,zakho,95,health_issue_other,Flag if not NA,Translate,NA,معوقا,Handicapped,disability,1
+456,13635,32031,8/6/2020 0:00,NA,zakho,93,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+457,13716,32032,8/6/2020 0:00,NA,zakho,84,health_issue_other,Flag if not NA,Translate,NA,الشقاق,Migraine,migraine,1
+458,33134,33112,8/27/2020 0:00,NA,daquq,60,health_issue_other,Flag if not NA,Translate,NA,عملية فتح بطن,need a surgey fin his body,surgery,1
+459,32925,33112,8/27/2020 0:00,NA,daquq,55,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+460,33190,33287,8/25/2020 0:00,NA,al.hawiga,57,health_issue_other,Flag if not NA,Translate,NA,مشاكل في العظام,problem in the bones,bone disorder,1
+461,34024,33383,9/6/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+462,34012,33383,9/6/2020 0:00,NA,dibis,62,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+463,30270,33383,8/19/2020 0:00,NA,dibis,56,health_issue_other,Flag if not NA,Translate,NA,سوفان بلقدم,Blood diseases,chronic,1
+464,34245,33384,9/6/2020 0:00,NA,dibis,60,health_issue_other,Flag if not NA,Translate,NA,انزلاق, Spondylolisthesis,spinal disorder,1
+465,34030,33384,9/6/2020 0:00,NA,dibis,64,health_issue_other,Flag if not NA,Translate,NA,عوق ولادي,Childbirth dislocation,dislocation,1
+466,34251,33384,9/6/2020 0:00,NA,dibis,60,health_issue_other,Flag if not NA,Translate,NA,ربو,Asthma,chronic,1
+467,30255,33384,8/19/2020 0:00,NA,dibis,56,health_issue_other,Flag if not NA,Translate,NA,مشاكل في الرقبه,problem in the neck,bone disorder,1
+468,32980,33476,8/26/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,مشاكل نسائيه مشاكل بلثدي,women diseases,gynecological disorder,1
+469,32985,33476,8/26/2020 0:00,NA,daquq,58,health_issue_other,Flag if not NA,Translate,NA,تشوه واثناء الولاده,Childbirth dislocation,dislocation,1
+470,32477,33476,8/25/2020 0:00,NA,daquq,59,health_issue_other,Flag if not NA,Translate,NA,مقوق ولاديا,Childbirth dislocation,dislocation,1
+471,32436,33476,8/25/2020 0:00,NA,daquq,54,health_issue_other,Flag if not NA,Translate,NA,تمراض وراثيه,Genetic disease,chronic,1
+472,32697,33476,8/26/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,روماتيزم,Rheumatism,chronic,1
+473,32399,33476,8/25/2020 0:00,NA,daquq,62,health_issue_other,Flag if not NA,Translate,NA,بطىء في نمو الجسم,delayed in growth,chronic,1
+474,32702,33476,8/26/2020 0:00,NA,daquq,56,health_issue_other,Flag if not NA,Translate,NA,قصر في القدم,Blood diseases,chronic,1
+475,32127,33477,8/24/2020 0:00,NA,daquq,62,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+476,32127,33477,8/24/2020 0:00,NA,daquq,62,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+477,29668,33883,8/18/2020 0:00,NA,erbil,126,health_issue_other,Flag if not NA,Translate,NA,Blood pressure,,chronic,1
+478,29713,33883,8/18/2020 0:00,NA,erbil,126,health_issue_other,Flag if not NA,Translate,NA,Blood pressure .,,chronic,1
+479,29683,33883,8/18/2020 0:00,NA,erbil,126,health_issue_other,Flag if not NA,Translate,NA,Problem in her eyes,,weak eyesight,1
+480,289,NA,8/13/2020 0:00,NA,rania,33,health_issue_other,Flag if not NA,Translate,NA,تأخر بالكلام,Delayed  in speech,disability,1
+481,18607,NA,8/10/2020 0:00,NA,halabcha,33,health_issue_other,Flag if not NA,Translate,NA,خمول الدماغ,Brain atrophy,chronic,1
+482,18611,NA,8/10/2020 0:00,NA,halabcha,33,health_issue_other,Flag if not NA,Translate,NA,مفاصل,arthritis,chronic,1
+483,707,NA,8/13/2020 0:00,NA,rania,33,health_issue_other,Flag if not NA,Translate,NA,تأخر النمو,delayed in growth,chronic,1
+484,708,NA,8/13/2020 0:00,NA,rania,33,health_issue_other,Flag if not NA,Translate,NA,تأخر الكلام,Delayed  in speech,disability,1
+485,709,NA,8/13/2020 0:00,NA,rania,33,health_issue_other,Flag if not NA,Translate,NA,معوق في الرجل,disable (his leg ),disability,1
+486,19039,NA,8/10/2020 0:00,NA,telafar,112,health_issue_other,Flag if not NA,Translate,NA,قصر عصب الساق,short of the nerve of the leg,nerve disorder,1
+487,19063,NA,8/10/2020 0:00,NA,telafar,112,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+488,993,NA,7/20/2020 0:00,NA,al.falluja,8,health_issue_other,Flag if not NA,Translate,NA,حساسيه من الحبوب,sensitive from the crops,allergy,1
+489,1179,NA,7/20/2020 0:00,NA,al.sulaymaniyah,1,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+490,1180,NA,7/20/2020 0:00,NA,al.sulaymaniyah,1,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+491,1360,NA,7/21/2020 0:00,NA,chamchamal,1,health_issue_other,Flag if not NA,Translate,NA,معوق بشلل النصفي,Migraine,migraine,1
+492,1364,NA,7/21/2020 0:00,NA,chamchamal,1,health_issue_other,Flag if not NA,Translate,NA,فتحە في القلب,heart disease (hole in it),chronic,1
+493,1372,NA,7/21/2020 0:00,NA,chamchamal,1,health_issue_other,Flag if not NA,Translate,NA,صداع و فقرالدم,Blood diseases,chronic,1
+494,1381,NA,7/21/2020 0:00,NA,chamchamal,1,health_issue_other,Flag if not NA,Translate,NA,قولون,Irritable Bowel Syndrome,bowel disorder,1
+495,37220,NA,9/14/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,عشو ليلي,Night blindness,weak eyesight,1
+496,37240,NA,9/14/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,معوق ذهنيا,mentally retarded,mental disability,1
+497,37242,NA,9/14/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,معوق ذهنيا,mentally retarded,mental disability,1
+498,37243,NA,9/14/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,ضعف بالاعصاب مع رجفة قوية,Weakness of the nerves with strong tremors,nerve disorder,1
+499,37250,NA,9/14/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,ثقل في السمع و بطئ في النطق واكتئاب حاد لانه شاهد مقتل والده,problems in his ear in when he speak in addition to Depression for he witnessed his father when he was killed,conflict_related,1
+500,1561,NA,7/22/2020 0:00,NA,chamchamal,36,health_issue_other,Flag if not NA,Translate,NA,Mawaqa,Handicapped,NA,1
+501,1579,NA,7/22/2020 0:00,NA,al.sulaymaniyah,36,health_issue_other,Flag if not NA,Translate,NA,Dawaly,Varicose disease,venous disorder,1
+502,1716,NA,7/22/2020 0:00,NA,al.kadhmiyah,30,health_issue_other,Flag if not NA,Translate,NA,حاله نفسيه,Psychological  problems,psychological disorder,1
+503,1723,NA,7/22/2020 0:00,NA,al.kadhmiyah,30,health_issue_other,Flag if not NA,Translate,NA,التهاب امعاء,Inflammation of the bowels,bowel disorder,1
+504,1729,NA,7/22/2020 0:00,NA,al.kadhmiyah,30,health_issue_other,Flag if not NA,Translate,NA,فتحة في القلب,heart disease (hole in it),chronic,1
+505,1760,NA,7/22/2020 0:00,NA,al.kadhmiyah,27,health_issue_other,Flag if not NA,Translate,NA,اضمار في الدماغ,Brain atrophy,chronic,1
+506,1773,NA,7/22/2020 0:00,NA,al.kadhmiyah,27,health_issue_other,Flag if not NA,Translate,NA,التهابات في الاذن,Otitis media,infection,1
+507,1868,NA,7/22/2020 0:00,NA,al.adhamiya,17,health_issue_other,Flag if not NA,Translate,NA,فتق,Hernia,spinal disorder,1
+508,2344,NA,7/22/2020 0:00,NA,derbendikhan,33,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+509,2603,NA,7/23/2020 0:00,NA,al.kadhmiyah,27,health_issue_other,Flag if not NA,Translate,NA,تحسس في الدم,Blood diseases,chronic,1
+510,2731,NA,7/23/2020 0:00,NA,al.kadhmiyah,17,health_issue_other,Flag if not NA,Translate,NA,تخلف عقلي,mentally retarded,mental disability,1
+511,2782,NA,7/23/2020 0:00,NA,al.muqdadiya,12,health_issue_other,Flag if not NA,Translate,NA,معوق بسبب شلل رباعي,Tetraplegia,chronic,1
+512,2817,NA,7/23/2020 0:00,NA,al.kadhmiyah,28,health_issue_other,Flag if not NA,Translate,NA,خلل في الدماغ,Brain atrophy,chronic,1
+513,2978,NA,7/23/2020 0:00,NA,derbendikhan,33,health_issue_other,Flag if not NA,Translate,NA,معوق له مشكلة باليدين...,disable (his hands ),disability,1
+514,2988,NA,7/23/2020 0:00,NA,derbendikhan,33,health_issue_other,Flag if not NA,Translate,NA,غدة الدرقية,Goiter,chronic,1
+515,2992,NA,7/23/2020 0:00,NA,derbendikhan,33,health_issue_other,Flag if not NA,Translate,NA,غدة الدرقية,Goiter,chronic,1
+516,8879,NA,7/29/2020 0:00,NA,al.rutba,27,health_issue_other,Flag if not NA,Translate,NA,انسداد في الاذن,A blockage in the ear,infection,1
+517,39033,NA,9/18/2020 0:00,NA,al.mosul,106,health_issue_other,Flag if not NA,Translate,NA,لين بالعظام,Osteomalacia,bone disorder,1
+518,39037,NA,9/18/2020 0:00,NA,al.mosul,106,health_issue_other,Flag if not NA,Translate,NA,روماتيزم,Rheumatism,chronic,1
+519,39156,NA,9/18/2020 0:00,NA,al.mosul,112,health_issue_other,Flag if not NA,Translate,NA,معوقه شلل رباعي,Tetraplegia,chronic,1
+520,3279,NA,7/26/2020 0:00,NA,al.baaj,11,health_issue_other,Flag if not NA,Translate,NA,ضمور بالمخ,Brain damage,chronic,1
+521,3543,NA,7/26/2020 0:00,NA,al.sulaymaniyah,35,health_issue_other,Flag if not NA,Translate,NA,Shalal Damax,,NA,1
+522,3561,NA,7/26/2020 0:00,NA,al.sulaymaniyah,36,health_issue_other,Flag if not NA,Translate,NA,Nafsia,,NA,1
+523,22345,NA,8/12/2020 0:00,NA,rania,36,health_issue_other,Flag if not NA,Translate,NA,Kam andam,Kam andam,NA,1
+524,3816,NA,7/26/2020 0:00,NA,al.sulaymaniyah,33,health_issue_other,Flag if not NA,Translate,NA,التهابات بالمعدة,Stomach diseases,bowel disorder,1
+525,22966,NA,8/12/2020 0:00,NA,al.hamdaniya,105,health_issue_other,Flag if not NA,Translate,NA,صعوبة بالغة في المشي بسبب حادث سير,difficulty in walking after the accident,conflict_related,1
+526,4097,NA,7/26/2020 0:00,NA,al.mahmoudiya,27,health_issue_other,Flag if not NA,Translate,NA,إغماء متكرر,Frequent fainting,chronic,1
+527,4101,NA,7/26/2020 0:00,NA,al.mahmoudiya,27,health_issue_other,Flag if not NA,Translate,NA,إعاقة ولادية,Childbirth dislocation,dislocation,1
+528,4110,NA,7/26/2020 0:00,NA,al.mahmoudiya,27,health_issue_other,Flag if not NA,Translate,NA,توسع في دمار الرأس,Expanded head damage,conflict_related,1
+529,10396,NA,7/30/2020 0:00,NA,al.rutba,27,health_issue_other,Flag if not NA,Translate,NA,جلطة, Blood clot,chronic,1
+530,10403,NA,7/30/2020 0:00,NA,al.rutba,27,health_issue_other,Flag if not NA,Translate,NA,"
+عدم القدرة على الرؤيا في احدى العينين",can't see with one of his eyes,weak eyesight,1
+531,10404,NA,7/30/2020 0:00,NA,al.rutba,27,health_issue_other,Flag if not NA,Translate,NA,هبوط الضغط,blood pressure,chronic,1
+532,4341,NA,7/26/2020 0:00,NA,al.baaj,9,health_issue_other,Flag if not NA,Translate,NA,تعاني من الطرش,Deaf,disability,1
+533,4342,NA,7/26/2020 0:00,NA,al.baaj,9,health_issue_other,Flag if not NA,Translate,NA,تعاني من الطرش,Deaf,disability,1
+534,4343,NA,7/26/2020 0:00,NA,al.baaj,9,health_issue_other,Flag if not NA,Translate,NA,تعاني من الطرش,Deaf,disability,1
+535,23483,NA,8/13/2020 0:00,NA,al.mahmoudiya,20,health_issue_other,Flag if not NA,Translate,NA,فتحة ولادية بالقلب,heart disease (hole in it),chronic,1
+536,4815,NA,7/27/2020 0:00,NA,al.sulaymaniyah,35,health_issue_other,Flag if not NA,Translate,NA,Amyai,Amyai,chronic,1
+537,23832,NA,8/13/2020 0:00,NA,al.mahmoudiya,18,health_issue_other,Flag if not NA,Translate,NA,غدة,Problems with the glands,chronic,1
+538,23841,NA,8/13/2020 0:00,NA,al.mahmoudiya,18,health_issue_other,Flag if not NA,Translate,NA,كساح,rachitis,bone disorder,1
+539,23842,NA,8/13/2020 0:00,NA,al.mahmoudiya,18,health_issue_other,Flag if not NA,Translate,NA,تخلف عقلي,mentally retarded,mental disability,1
+540,23847,NA,8/13/2020 0:00,NA,al.mahmoudiya,18,health_issue_other,Flag if not NA,Translate,NA,كساح,rachitis,bone disorder,1
+541,23853,NA,8/13/2020 0:00,NA,al.mahmoudiya,18,health_issue_other,Flag if not NA,Translate,NA,ضمور,Brain damage,chronic,1
+542,5147,NA,7/27/2020 0:00,NA,al.sulaymaniyah,33,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+543,5153,NA,7/27/2020 0:00,NA,al.sulaymaniyah,33,health_issue_other,Flag if not NA,Translate,NA,فقرات و روماتيزم,Spondylolisthesis,spinal disorder,1
+544,5154,NA,7/27/2020 0:00,NA,al.sulaymaniyah,33,health_issue_other,Flag if not NA,Translate,NA,سكري و ضغط الدم,Diabet +Blood pressure,chronic,1
+545,24329,NA,8/13/2020 0:00,NA,al.mahmoudiya,19,health_issue_other,Flag if not NA,Translate,NA,امراض جلديه حساسيه موسميه,skin diseases,chronic,1
+546,24453,NA,8/14/2020 0:00,NA,rania,36,health_issue_other,Flag if not NA,Translate,NA,Rabo,,chronic,1
+547,24454,NA,8/14/2020 0:00,NA,rania,36,health_issue_other,Flag if not NA,Translate,NA,Rabo,,chronic,1
+548,6099,NA,7/27/2020 0:00,NA,al.baaj,9,health_issue_other,Flag if not NA,Translate,NA,عوق ذهني,mental retardation,mental disability,1
+549,25288,NA,8/14/2020 0:00,NA,al.kadhmiyah,105,health_issue_other,Flag if not NA,Translate,NA,عوق ولادي باليد,Childbirth dislocation,dislocation,1
+550,25296,NA,8/14/2020 0:00,NA,al.kadhmiyah,105,health_issue_other,Flag if not NA,Translate,NA,انزلاق في الفقرات القطنية,Spondylolisthesis,spinal disorder,1
+551,25300,NA,8/14/2020 0:00,NA,al.kadhmiyah,105,health_issue_other,Flag if not NA,Translate,NA,غدة سامة,Problems with the glands,chronic,1
+552,7087,NA,7/28/2020 0:00,NA,al.hamdaniya,9,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي مع تلف بالدماغ,Hemiplegia +brain damage,chronic,1
+553,7097,NA,7/28/2020 0:00,NA,al.hamdaniya,9,health_issue_other,Flag if not NA,Translate,NA,معوق في الساقين,disable (his leg ),disability,1
+554,7201,NA,7/28/2020 0:00,NA,ana,27,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+555,7399,NA,7/28/2020 0:00,NA,ana,28,health_issue_other,Flag if not NA,Translate,NA,عوق ولادي غمور في الدماغ,Brain atrophy+ childbirth dislocation,chronic,1
+556,7481,NA,7/28/2020 0:00,NA,ana,20,health_issue_other,Flag if not NA,Translate,NA,مختل عقليا,mentally retarded,mental disability,1
+557,26549,NA,8/15/2020 0:00,NA,al.karkh,19,health_issue_other,Flag if not NA,Translate,NA,انزلاق في الظهر, Spondylolisthesis,spinal disorder,1
+558,7734,NA,7/28/2020 0:00,NA,al.sulaymaniyah,33,health_issue_other,Flag if not NA,Translate,NA,لحم على المرارة وبواسير,Meat on gallbladder and hemorrhoids,venous disorder,1
+559,7735,NA,7/28/2020 0:00,NA,al.sulaymaniyah,33,health_issue_other,Flag if not NA,Translate,NA,ورم بالركبة,Tumor in the knee,chronic,1
+560,26813,NA,8/16/2020 0:00,NA,al.najaf,20,health_issue_other,Flag if not NA,Translate,NA,يد مبتورة جراء حرب الخليج الاولى,his hand has been cut during the war of Gulf 1,conflict_related,1
+561,26827,NA,8/16/2020 0:00,NA,al.najaf,18,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+562,26839,NA,8/16/2020 0:00,NA,al.najaf,18,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+563,26845,NA,8/16/2020 0:00,NA,al.najaf,18,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقرات, Spondylolisthesis,spinal disorder,1
+564,26846,NA,8/16/2020 0:00,NA,al.najaf,18,health_issue_other,Flag if not NA,Translate,NA,قولون عصبي,Irritable Bowel Syndrome,bowel disorder,1
+565,26852,NA,8/16/2020 0:00,NA,al.najaf,18,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+566,26855,NA,8/16/2020 0:00,NA,al.najaf,18,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقرات, Spondylolisthesis,spinal disorder,1
+567,26981,NA,8/16/2020 0:00,NA,al.diwaniya,106,health_issue_other,Flag if not NA,Translate,NA,شلل رباعي,Tetraplegia,chronic,1
+568,9011,NA,7/29/2020 0:00,NA,chamchamal,33,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+569,9016,NA,7/29/2020 0:00,NA,chamchamal,33,health_issue_other,Flag if not NA,Translate,NA,كسر الفقرات في عمود الفقري بسبب سقوط من الارتفاع.,Spondylolisthesis,spinal disorder,1
+570,9021,NA,7/29/2020 0:00,NA,al.sulaymaniyah,33,health_issue_other,Flag if not NA,Translate,NA,حساسية في الدم,Blood diseases,chronic,1
+571,9023,NA,7/29/2020 0:00,NA,al.sulaymaniyah,33,health_issue_other,Flag if not NA,Translate,NA,حساسيه في الدم,Blood diseases,chronic,1
+572,9384,NA,7/30/2020 0:00,NA,derbendikhan,35,health_issue_other,Flag if not NA,Translate,NA,Amya,Amya,chronic,1
+573,28515,NA,8/17/2020 0:00,NA,al.kufa,20,health_issue_other,Flag if not NA,Translate,NA,انزلاق غضروفي ب اربع فقرات,Spondylolisthesis,spinal disorder,1
+574,28520,NA,8/17/2020 0:00,NA,al.kufa,20,health_issue_other,Flag if not NA,Translate,NA,تشوه ولادي بالجهاز التناسلي والجهاز البولي,Congenital malformation of the reproductive system and the urinary system,gynecological disorder,1
+575,28521,NA,8/17/2020 0:00,NA,al.kufa,20,health_issue_other,Flag if not NA,Translate,NA,مصابة بمرض الرعاش,Shivering disease,chronic,1
+576,28542,NA,8/17/2020 0:00,NA,al.kufa,18,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+577,10061,NA,7/30/2020 0:00,NA,derbendikhan,36,health_issue_other,Flag if not NA,Translate,NA,Nasia,,NA,1
+578,10101,NA,7/30/2020 0:00,NA,derbendikhan,33,health_issue_other,Flag if not NA,Translate,NA,عضلة زائدة على الكتف,Excess muscle on the shoulder,muscle disorder,1
+579,10118,NA,7/30/2020 0:00,NA,derbendikhan,33,health_issue_other,Flag if not NA,Translate,NA,مرض ضعف النمو.,delayed in growth,chronic,1
+580,10120,NA,7/30/2020 0:00,NA,derbendikhan,33,health_issue_other,Flag if not NA,Translate,NA,التهاب القولون.,Irritable Bowel Syndrome,bowel disorder,1
+581,16827,NA,8/9/2020 0:00,NA,tikrit,112,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+582,10431,NA,7/30/2020 0:00,NA,al.rutba,31,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+583,16862,NA,8/9/2020 0:00,NA,tikrit,112,health_issue_other,Flag if not NA,Translate,NA,انفصام بالشخصيه,schizophrenia,psychological disorder,1
+584,10481,NA,7/30/2020 0:00,NA,al.rutba,17,health_issue_other,Flag if not NA,Translate,NA,داء التوحد,Autism,autism,1
+585,10519,NA,7/30/2020 0:00,NA,al.rutba,26,health_issue_other,Flag if not NA,Translate,NA,معاق عقليا من الولادة لديه ضمور في جزء من خلايا الدماغ,Brain atrophy,chronic,1
+586,10525,NA,7/30/2020 0:00,NA,al.rutba,26,health_issue_other,Flag if not NA,Translate,NA,صعوبة بالنطق,difficulty in speech,disability,1
+587,10877,NA,8/4/2020 0:00,NA,derbendikhan,35,health_issue_other,Flag if not NA,Translate,NA,Amya,Amya,chronic,1
+588,11049,NA,8/4/2020 0:00,NA,dokan,36,health_issue_other,Flag if not NA,Translate,NA,Rejlay,,NA,1
+589,11100,NA,8/4/2020 0:00,NA,dokan,33,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+590,11120,NA,8/4/2020 0:00,NA,derbendikhan,33,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+591,11203,NA,8/5/2020 0:00,NA,sinjar,112,health_issue_other,Flag if not NA,Translate,NA,تأخر نمو العقل,delay in growth,chronic,1
+592,11427,NA,8/5/2020 0:00,NA,sinjar,105,health_issue_other,Flag if not NA,Translate,NA,ورم خبيث في البطن,Swelling in the body,chronic,1
+593,11430,NA,8/5/2020 0:00,NA,sinjar,105,health_issue_other,Flag if not NA,Translate,NA,مراحل متقدمة من هشاشة العظام,Osteoporosis ( advaneced  levels),bone disorder,1
+594,11440,NA,8/5/2020 0:00,NA,sinjar,105,health_issue_other,Flag if not NA,Translate,NA,سوفان في الفقرات,Spondylolisthesis,spinal disorder,1
+595,11837,NA,8/5/2020 0:00,NA,dokan,33,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+596,11869,NA,8/5/2020 0:00,NA,al.daur,12,health_issue_other,Flag if not NA,Translate,NA,الحاله النفسيه وصدمه من جراء احداث داعش,Psychological  problems because of ISIS,conflict_related,1
+597,12157,NA,8/5/2020 0:00,NA,al.kaim,25,health_issue_other,Flag if not NA,Translate,NA,ضعف في النمو, Delayed in growth,chronic,1
+598,12179,NA,8/5/2020 0:00,NA,al.kaim,26,health_issue_other,Flag if not NA,Translate,NA,ضعف في السمع,prroblems in ears,disability,1
+599,12261,NA,8/5/2020 0:00,NA,al.kaim,20,health_issue_other,Flag if not NA,Translate,NA,مصابة بالصَرَع,Epilepsy,chronic,1
+600,12484,NA,8/6/2020 0:00,NA,halabcha,36,health_issue_other,Flag if not NA,Translate,NA,Hala nafsia,Hala nafsia,psychological disorder,1
+601,12493,NA,8/6/2020 0:00,NA,halabcha,36,health_issue_other,Flag if not NA,Translate,NA,Faqarat,Faqarat,NA,1
+602,12495,NA,8/6/2020 0:00,NA,halabcha,36,health_issue_other,Flag if not NA,Translate,NA,Khuda,Hypothyroidism,chronic,1
+603,12809,NA,8/6/2020 0:00,NA,sinjar,105,health_issue_other,Flag if not NA,Translate,NA,امراض نفسية,psychological  diseases,psychological disorder,1
+604,12832,NA,8/6/2020 0:00,NA,sinjar,105,health_issue_other,Flag if not NA,Translate,NA,احدى عينيه لا تعمل,can't see with one of his eyes,weak eyesight,1
+605,14177,NA,8/6/2020 0:00,NA,dokan,33,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+606,14180,NA,8/6/2020 0:00,NA,dokan,33,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+607,14184,NA,8/6/2020 0:00,NA,dokan,33,health_issue_other,Flag if not NA,Translate,NA,اختلال التوازن,Imbalance,muscle disorder,1
+608,14236,NA,8/6/2020 0:00,NA,balad,20,health_issue_other,Flag if not NA,Translate,NA,مصابة بالزهايمر,Alzheimer's disease,mental disability,1
+609,16351,NA,8/9/2020 0:00,NA,halabcha,36,health_issue_other,Flag if not NA,Translate,NA,Kam andam,Kam andam,NA,1
+610,16840,NA,8/9/2020 0:00,NA,tikrit,112,health_issue_other,Flag if not NA,Translate,NA,ثلاسيميه الدم,Thalassemia,chronic,1
+611,17262,NA,8/9/2020 0:00,NA,halabcha,33,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+612,17552,NA,8/9/2020 0:00,NA,tikrit,20,health_issue_other,Flag if not NA,Translate,NA,انسداد بالقنوات الدمعية بأحد العينين,The channel of the tear of the eye is blocked,weak eyesight,1
+613,17558,NA,8/9/2020 0:00,NA,tikrit,20,health_issue_other,Flag if not NA,Translate,NA,تكيس دهني على الفقرات القطنية,Spondylolisthesis,spinal disorder,1
+614,24716,NA,8/14/2020 0:00,NA,al.adhamiya,20,health_issue_other,Flag if not NA,Translate,NA,مصاب بوهن العضلات وصعوبة النطق,Lean muscles and difficulty in speech,muscle disorder,1
+615,24717,NA,8/14/2020 0:00,NA,al.adhamiya,20,health_issue_other,Flag if not NA,Translate,NA,تلف بشبكية العين,Damage in the eye retina,weak eyesight,1
+616,24734,NA,8/14/2020 0:00,NA,al.adhamiya,20,health_issue_other,Flag if not NA,Translate,NA,تبديل مفصل ركبة, one of the Knee joint  should be replaced,bone disorder,1
+617,24741,NA,8/14/2020 0:00,NA,al.adhamiya,20,health_issue_other,Flag if not NA,Translate,NA,يعاني من شلل نصفي,Migraine,migraine,1
+618,24747,NA,8/14/2020 0:00,NA,al.adhamiya,20,health_issue_other,Flag if not NA,Translate,NA,مصابة بحساسية الحنطة,sensitive from the wheat,allergy,1
+619,24785,NA,8/14/2020 0:00,NA,al.adhamiya,18,health_issue_other,Flag if not NA,Translate,NA,الرماتيز,Rheumatism,chronic,1
+620,24797,NA,8/14/2020 0:00,NA,al.adhamiya,18,health_issue_other,Flag if not NA,Translate,NA,الرماتيز,Rheumatism,chronic,1
+621,24810,NA,8/14/2020 0:00,NA,al.adhamiya,18,health_issue_other,Flag if not NA,Translate,NA,شلل رباعي,Tetraplegia,chronic,1
+622,24956,NA,8/14/2020 0:00,NA,al.kadhmiyah,112,health_issue_other,Flag if not NA,Translate,NA,بتر يد,his hand have been cut,conflict_related,1
+623,19170,NA,8/10/2020 0:00,NA,samarra,20,health_issue_other,Flag if not NA,Translate,NA,ضمور بخلايا المخ,Brain damage,chronic,1
+624,19373,NA,8/10/2020 0:00,NA,telafar,105,health_issue_other,Flag if not NA,Translate,NA,مشاكل في النظر,Eye disorder,weak eyesight,1
+625,36967,NA,9/14/2020 0:00,NA,al.mosul,106,health_issue_other,Flag if not NA,Translate,NA,تقطع بالامعاء, pain in bowels,bowel disorder,1
+626,36971,NA,9/14/2020 0:00,NA,al.mosul,106,health_issue_other,Flag if not NA,Translate,NA,انزلاق بفقرات الظهر, Spondylolisthesis,spinal disorder,1
+627,36988,NA,9/14/2020 0:00,NA,al.mosul,106,health_issue_other,Flag if not NA,Translate,NA,التهاب فقرات,Spondylolisthesis,spinal disorder,1
+628,19974,NA,8/11/2020 0:00,NA,kalar,36,health_issue_other,Flag if not NA,Translate,NA,Kam andam,Kam andam,NA,1
+629,19978,NA,8/11/2020 0:00,NA,kalar,36,health_issue_other,Flag if not NA,Translate,NA,Kam andam,Kam andam,NA,1
+630,37627,NA,9/15/2020 0:00,NA,al.mosul,106,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+631,37702,NA,9/15/2020 0:00,NA,al.mosul,112,health_issue_other,Flag if not NA,Translate,NA,حرق في منطقه البطن, pain in bowels,bowel disorder,1
+632,20488,NA,8/11/2020 0:00,NA,telafar,112,health_issue_other,Flag if not NA,Translate,NA,غضروف /امراض الظهر,back pains and problems,spinal disorder,1
+633,20543,NA,8/11/2020 0:00,NA,telafar,112,health_issue_other,Flag if not NA,Translate,NA,حساسيه مزمنه من اثر البهاق,Chronic allergy,chronic,1
+634,20549,NA,8/11/2020 0:00,NA,telafar,112,health_issue_other,Flag if not NA,Translate,NA,انعدام البصر 50%بسبب سقوط,Eye disorder 50%for he fall down,weak eyesight,1
+635,20631,NA,8/11/2020 0:00,NA,telafar,105,health_issue_other,Flag if not NA,Translate,NA,مشاكل متعلقة بالنظر,Eye disorder,weak eyesight,1
+636,20658,NA,8/11/2020 0:00,NA,telafar,105,health_issue_other,Flag if not NA,Translate,NA,مشاكل في الغدة الدرقية,Hypothyroidism,chronic,1
+637,20910,NA,8/11/2020 0:00,NA,samarra,20,health_issue_other,Flag if not NA,Translate,NA,لديه متلازمة داون,Down syndrome,mental disability,1
+638,38231,NA,9/16/2020 0:00,NA,al.hatra,106,health_issue_other,Flag if not NA,Translate,NA,تلف بخلايا الدماغ,Brain damage,chronic,1
+639,38286,NA,9/16/2020 0:00,NA,al.hatra,106,health_issue_other,Flag if not NA,Translate,NA,متخلف عقليا,mentally retarded,mental disability,1
+640,38287,NA,9/16/2020 0:00,NA,al.hatra,106,health_issue_other,Flag if not NA,Translate,NA,متخلفة عقليا,mentally retarded,mental disability,1
+641,38297,NA,9/16/2020 0:00,NA,al.hatra,106,health_issue_other,Flag if not NA,Translate,NA,توحد,Autism,psychological disorder,1
+642,21661,NA,8/11/2020 0:00,NA,samarra,19,health_issue_other,Flag if not NA,Translate,NA,امراض جلديه بهاق وحساسيه,skin diseases,chronic,1
+643,40842,NA,9/20/2020 0:00,NA,tilkaef,106,health_issue_other,Flag if not NA,Translate,NA,كورونا,covid 19,COVID 19,1
+644,40860,NA,9/20/2020 0:00,NA,tilkaef,106,health_issue_other,Flag if not NA,Translate,NA,ابكم واصم,blind and deaf,disability,1
+645,22267,NA,8/12/2020 0:00,NA,kalar,33,health_issue_other,Flag if not NA,Translate,NA,منغولي,Down syndrome,mental disability,1
+646,24323,NA,8/13/2020 0:00,NA,al.mahmoudiya,19,health_issue_other,Flag if not NA,Translate,NA,مفاصل,arthritis,chronic,1
+647,22371,NA,8/12/2020 0:00,NA,al.mussyab,20,health_issue_other,Flag if not NA,Translate,NA,كابة شديدة,Depression,psychological disorder,1
+648,22374,NA,8/12/2020 0:00,NA,al.mussyab,20,health_issue_other,Flag if not NA,Translate,NA,مصاب بالتوحد,Autism,autism,1
+649,22380,NA,8/12/2020 0:00,NA,al.mussyab,20,health_issue_other,Flag if not NA,Translate,NA,ضمور بخلايا المخ,Brain damage,chronic,1
+650,22450,NA,8/12/2020 0:00,NA,al.mussyab,19,health_issue_other,Flag if not NA,Translate,NA,غده سامه في الرقبه,Problems with the glands,chronic,1
+651,22576,NA,8/12/2020 0:00,NA,al.mussyab,24,health_issue_other,Flag if not NA,Translate,NA,الانزلاق,Spinal disc herniation,chronic,1
+652,22577,NA,8/12/2020 0:00,NA,al.mussyab,24,health_issue_other,Flag if not NA,Translate,NA,الصرع,Epilepsy,chronic,1
+653,22586,NA,8/12/2020 0:00,NA,al.mussyab,24,health_issue_other,Flag if not NA,Translate,NA,توحد,Autism,autism,1
+654,22908,NA,8/12/2020 0:00,NA,al.hamdaniya,112,health_issue_other,Flag if not NA,Translate,NA,انزلاف قفرات الظهر, Spondylolisthesis,spinal disorder,1
+655,22917,NA,8/12/2020 0:00,NA,al.hamdaniya,112,health_issue_other,Flag if not NA,Translate,NA,معوق /قصر عصب الساقين,disable (his leg ),disability,1
+656,22924,NA,8/12/2020 0:00,NA,al.hamdaniya,112,health_issue_other,Flag if not NA,Translate,NA,عوق ولادي/ 40% فقرات الظهر,Spondylolisthesis 40% +childbrith dislocation,dislocation,1
+657,22925,NA,8/12/2020 0:00,NA,al.hamdaniya,112,health_issue_other,Flag if not NA,Translate,NA,عدم اكتمال نمو الساقين,legs are not growing completely,chronic,1
+658,28865,NA,8/17/2020 0:00,NA,al.kufa,19,health_issue_other,Flag if not NA,Translate,NA,امراض جلديه,skin diseases,chronic,1
+659,25533,NA,8/14/2020 0:00,NA,al.adhamiya,19,health_issue_other,Flag if not NA,Translate,NA,ضغط ومفاصل,arthritis,chronic,1
+660,25543,NA,8/14/2020 0:00,NA,al.adhamiya,19,health_issue_other,Flag if not NA,Translate,NA,ربو ضيق تنفس,Asthma,chronic,1
+661,25627,NA,8/15/2020 0:00,NA,al.karkh,20,health_issue_other,Flag if not NA,Translate,NA,"مصاب بالصرع 
+ومصاب بكاَبة شديدة",Epilepsy,chronic,1
+662,25632,NA,8/15/2020 0:00,NA,al.karkh,20,health_issue_other,Flag if not NA,Translate,NA,صعوبة بالنطق,difficulty in speech,disability,1
+663,25633,NA,8/15/2020 0:00,NA,al.karkh,20,health_issue_other,Flag if not NA,Translate,NA,اخرس واطرش من الولادة,Deaf,deaf,1
+664,40739,NA,9/20/2020 0:00,NA,tilkaef,105,health_issue_other,Flag if not NA,Translate,NA,انزلاق حاد في الفقرة الرابعة,Spinal disc herniation,chronic,1
+665,40822,NA,9/20/2020 0:00,NA,tilkaef,106,health_issue_other,Flag if not NA,Translate,NA,مشاكل بالغدة الدرقية,Hypothyroidism,chronic,1
+666,40829,NA,9/20/2020 0:00,NA,tilkaef,106,health_issue_other,Flag if not NA,Translate,NA,ربو مزمن,Asthma,chronic,1
+667,40830,NA,9/20/2020 0:00,NA,tilkaef,106,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+668,40831,NA,9/20/2020 0:00,NA,tilkaef,106,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+669,40885,NA,9/20/2020 0:00,NA,tilkaef,106,health_issue_other,Flag if not NA,Translate,NA,عقيمة,Inability to have children,gynecological disorder,1
+670,23939,NA,8/13/2020 0:00,NA,al.mahmoudiya,112,health_issue_other,Flag if not NA,Translate,NA,امراض الدم المزمن/همو بيليه,Blood diseases,chronic,1
+671,24081,NA,8/13/2020 0:00,NA,al.mahmoudiya,105,health_issue_other,Flag if not NA,Translate,NA,حساسية بالدم,Blood diseases,chronic,1
+672,24108,NA,8/13/2020 0:00,NA,al.mahmoudiya,105,health_issue_other,Flag if not NA,Translate,NA,تخثر بالدم,Blood clotting,chronic,1
+673,24310,NA,8/13/2020 0:00,NA,al.mahmoudiya,19,health_issue_other,Flag if not NA,Translate,NA,حصو في الكليه,stone in his kidney,chronic,1
+674,26341,NA,8/15/2020 0:00,NA,al.karkh,18,health_issue_other,Flag if not NA,Translate,NA,ماء في العين,eye disease,weak eyesight,1
+675,26343,NA,8/15/2020 0:00,NA,al.karkh,18,health_issue_other,Flag if not NA,Translate,NA,مقعدة,disable,disability,1
+676,26350,NA,8/15/2020 0:00,NA,al.karkh,18,health_issue_other,Flag if not NA,Translate,NA,غدة سامة,Problems with the glands,chronic,1
+677,26372,NA,8/15/2020 0:00,NA,al.karkh,18,health_issue_other,Flag if not NA,Translate,NA,عوق ولادي,Childbirth dislocation,dislocation,1
+678,24817,NA,8/14/2020 0:00,NA,al.adhamiya,18,health_issue_other,Flag if not NA,Translate,NA,معوقة,Handicapped,disability,1
+679,24818,NA,8/14/2020 0:00,NA,al.adhamiya,18,health_issue_other,Flag if not NA,Translate,NA,شلل رباعي,Tetraplegia,chronic,1
+680,39300,NA,9/18/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,تمزق بالركبة,his knee is torn ,bone disorder,1
+681,39312,NA,9/18/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,ضعف حاد في البصر,Eye disorder,weak eyesight,1
+682,39313,NA,9/18/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,خرساء,deaf,deaf,1
+683,39314,NA,9/18/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,اخرس,Deaf,deaf,1
+684,40788,NA,9/20/2020 0:00,NA,tilkaef,105,health_issue_other,Flag if not NA,Translate,NA,معاق في رجله,disable (his leg ),disability,1
+685,40790,NA,9/20/2020 0:00,NA,tilkaef,105,health_issue_other,Flag if not NA,Translate,NA,ربو مزمن و حاد,Asthma,chronic,1
+686,37642,NA,9/15/2020 0:00,NA,al.mosul,106,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+687,37647,NA,9/15/2020 0:00,NA,al.mosul,106,health_issue_other,Flag if not NA,Translate,NA,داء الشقيقة, Migraine,migraine,1
+688,40785,NA,9/20/2020 0:00,NA,tilkaef,105,health_issue_other,Flag if not NA,Translate,NA,حساسية بالدم,Blood diseases,chronic,1
+689,40786,NA,9/20/2020 0:00,NA,tilkaef,105,health_issue_other,Flag if not NA,Translate,NA,حساسية بالدم مع تحسس من البروتين,Blood diseases,chronic,1
+690,38101,NA,9/16/2020 0:00,NA,al.hatra,105,health_issue_other,Flag if not NA,Translate,NA,بروستات,Prostate disease,chronic,1
+691,39299,NA,9/18/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,سوفان في الفقرات,Spondylolisthesis,spinal disorder,1
+692,37846,NA,9/15/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,ربو مزمن,Asthma,chronic,1
+693,39327,NA,9/18/2020 0:00,NA,al.mosul,105,health_issue_other,Flag if not NA,Translate,NA,اصابة في يده تمنعه من تحريكها,injuredin her hand so she can't use it,conflict_related,1
+694,19,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Disable,,disability,1
+695,21,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Disable,,disability,1
+696,27,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغي,cerebral palsy,chronic,1
+697,72,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,لديه مرض مفاصل,arthritis,chronic,1
+698,121,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+699,187,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,تخلف عقلي و الصرع,mental retardation + epilepsy,mental disability,1
+700,218,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+701,260,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,جيوب انفية,paranasal sinuses,communicable,1
+702,282,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقدان شخصية,schizophrenia,mental disability,1
+703,284,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ورم في رحم,Tumor in the womb,gynecological disorder,1
+704,365,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+705,416,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,تخلف عقلى,mentally retarded,mental disability,1
+706,508,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوقة,Handicapped,disability,1
+707,512,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غير عاقل,mental case,mental disability,1
+708,514,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غير عاقل,mental case,mental disability,1
+709,515,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غير عاقل,mental case,mental disability,1
+710,537,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مختل عقلي,mentally retarded,mental disability,1
+711,575,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اعاقة جسدية,Handicapped,disability,1
+712,587,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Palsy,,chronic,1
+713,635,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+714,660,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,محروق,burn,conflict_related,1
+715,734,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع و حالة نفسية,Epilepsy,chronic,1
+716,817,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,امراض نسائيه لم يوضحها رب الاسره,women diseases,gynecological disorder,1
+717,1309,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فايروس روماتيز العين الذي ادى الى فقدان البصر,Rheumatism +blind,chronic,1
+718,1325,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ضمور في المخ,Brain damage,chronic,1
+719,1337,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,داء الصدفية,Psoriasis,chronic,1
+720,1400,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشكلة فقرات اثناء العمل,Spondylolisthesis,spinal disorder,1
+721,1403,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهابات بالصدر والارجل,Infections of the chest and legs,infection,1
+722,1460,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهاب البلاعيم,sore throat,ache,1
+723,1490,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,pain in his back,,backache,1
+724,1499,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,pain in his back,,backache,1
+725,1500,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Psychological issue,,psychological disorder,1
+726,1517,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,pain in his back,,backache,1
+727,1518,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,pain in her neck,,backache,1
+728,1553,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,المرارة, problems inGallbladder,chronic,1
+729,1585,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مفاصل,arthritis,chronic,1
+730,1586,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ضغط وفقرات,Spondylolisthesis,spinal disorder,1
+731,1591,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+732,1602,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,عملية فقرات وعمود فقري,Spondylolisthesis,spinal disorder,1
+733,1603,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,عملية في الراس,surgery in head,surgery,1
+734,1606,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشكلة مسالك بولية,Urinary problems,urinary disorder,1
+735,1609,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشكلة مسالك بولية,Urinary problems,urinary disorder,1
+736,1619,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+737,1621,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+738,1632,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,لا يعرف,don't know,NA,1
+739,1719,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اعاقة جسدية,Handicapped,disability,1
+740,1746,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شقيقة,Migraine,migraine,1
+741,1762,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,روماتيزم,Rheumatism,chronic,1
+742,1785,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,قصور عقلي,mentally retarded,mental disability,1
+743,1934,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ألعمود الفقري انحراف,Sliding spine,spinal disorder,1
+744,1999,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+745,2015,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+746,2047,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+747,2061,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+748,2189,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Disabled,,disability,1
+749,2407,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,امراض جلديه,skin diseases,chronic,1
+750,2476,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+751,2481,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ماء في العين+ امراض نفسية,eye disease +Psychological case,psychological disorder,1
+752,2483,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+753,2484,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حساسية في العيون,eyes are very sensitive,weak eyesight,1
+754,2485,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حساسية في العيون,eyes are very sensitive,weak eyesight,1
+755,2489,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فاقدة البصر,blind,blind,1
+756,2605,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,psychological issue,,psychological disorder,1
+757,2807,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشكلة سمع ونطق واعاقة في اليد والرجل,Disable,disability,1
+758,2828,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق عمود فقري,Sliding spine,spinal disorder,1
+759,2835,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشكلة الصرع اثناء احداث النزاع,Epilepsy,chronic,1
+760,2843,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,رمل والتهابات في الكلية,Sand and infections in his kidney,infection,1
+761,2847,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,نظرها ضعيف,Eye disorder,weak eyesight,1
+762,2917,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق غضروفي بالفقرات القطنية,Spondylolisthesis,spinal disorder,1
+763,2927,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اعاقة,Handicapped,disability,1
+764,2932,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,جلطة دماغية,Cerebrovascular accident – STROKE,chronic,1
+765,3043,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق خلع ولادي,Childbirth dislocation,dislocation,1
+766,3103,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Miawq,,NA,1
+767,3575,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غدة درقية,Goiter,chronic,1
+768,3787,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,بطئ في النمو,delayed in growth,chronic,1
+769,3794,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقدان الصبغات الجلدية,skin diseases,chronic,1
+770,3989,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,سوفان بالفقرات العنقية,Spondylolisthesis,spinal disorder,1
+771,4101,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+772,4109,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+773,4121,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التوحد,Autism,autism,1
+774,4125,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فتق,Hernia,spinal disorder,1
+775,4140,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,داء الصدفية,Psoriasis,chronic,1
+776,4289,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,لدى زوجة الابن اي الكنة مرض الصرع,epilepsy for his Daughter-in-law,chronic,1
+777,5092,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,هشاشة في العظام (تمنعها من المشي),Osteoporosis (prevent him to walk),bone disorder,1
+778,5109,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,خلع ولادي بالكتف يجعل استخدام اليد شبه مستحيل,Childbirth dislocation,dislocation,1
+779,5175,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهاب بالعصب السابع,Inflammation of the seventh nerve,nerve disorder,1
+780,5194,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشلول شلل نصفي بسبب جلطة دماغية,Hemiplegia because of brain stroke,chronic,1
+781,5195,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مصابة بالصداع النصفي, Migraine,migraine,1
+782,5197,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهاب بالرحم مع نزيف,Inflammation of the uterus with bleeding,gynecological disorder,1
+783,5579,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+784,5694,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,متخلف عقلي,mentally retarded,mental disability,1
+785,5728,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غدة سامة,Problems with the glands,chronic,1
+786,5906,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,روماتيزم وفقرات وضغط,Spondylolisthesis + Rheumatism,chronic,1
+787,5917,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غدة,Problems with the glands,chronic,1
+788,5966,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+789,5982,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Ophelia,,chronic,1
+790,6012,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,هيموفيليا مرض في الدم,Blood diseases,chronic,1
+791,6014,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,هيموفيليا مرض في الدم,Blood diseases,chronic,1
+792,6047,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغي,cerebral palsy,chronic,1
+793,6190,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,إنزلاق بالظهر, Spondylolisthesis,spinal disorder,1
+794,6218,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,psychological issue,,psychological disorder,1
+795,6422,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,الم مفاصل,arthritis,chronic,1
+796,6438,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+797,6748,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+798,6766,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+799,6769,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,جيوب انفية,paranasal sinuses,communicable,1
+800,6776,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+801,6780,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+802,7116,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انتفاخ رئوي,The lungs swell abnormally,chronic,1
+803,7119,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,تعاني من حالة نفسية,psychological  problems,psychological disorder,1
+804,7122,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,البهق, Vitiligo,chronic,1
+805,7133,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,روماتزم بالمفاصل يؤدي الى ضعف البنية,Rheumatism,chronic,1
+806,7135,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,الحالة النفسية,Psychological  problems,psychological disorder,1
+807,7145,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,البهق, Vitiligo,chronic,1
+808,7182,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,متخلف عقليا,mentally retarded,mental disability,1
+809,7192,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهاب الكبد الفايروسي, Hepatitis,communicable,1
+810,7502,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فتحة في القلب,heart disease (hole in it),chronic,1
+811,7522,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل الاطفال,poliomyelitis,communicable,1
+812,7541,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+813,7548,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+814,7556,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر دم,Anemia,chronic,1
+815,7607,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مجرة دمع مسدود,The channel of the tear of the eye is blocked,,1
+816,7715,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+817,7716,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,الام ظهر وفقرات, Spondylolisthesis,spinal disorder,1
+818,7720,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,تشوه خلقي,Childbirth dislocation,dislocation,1
+819,7751,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,نقص في العقب,mentally retarded,mental disability,1
+820,7864,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ديسك,Disc,disability,1
+821,7874,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شقيقة,Migraine,migraine,1
+822,7875,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر الدم,Anemia,chronic,1
+823,7893,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق الضهر, Spondylolisthesis,spinal disorder,1
+824,7922,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+825,7923,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهابات معده,Stomach diseases,bowel disorder,1
+826,7986,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,امراض معدة,Stomach diseases,bowel disorder,1
+827,7990,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ضغط دم,Blood Pressure ,chronic,1
+828,7995,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,الم غدة الدرقية,Hypothyroidism,chronic,1
+829,8001,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+830,8030,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,داء السمك,Ichthyosis,chronic,1
+831,8068,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اعاقة,Handicapped,disability,1
+832,8069,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شقيقة,Migraine,migraine,1
+833,8071,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,تخلف عاقلي,mentally retarded,mental disability,1
+834,8073,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اكياس الماء على رجله, there are water bags on his foot,,1
+835,8107,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+836,8211,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+837,8216,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+838,8383,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشاكل بالكلية ومسالك البولية,kidney and Urinary problems,chronic,1
+839,8411,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اعاقة في اليد,Disable (his hand ),disability,1
+840,8507,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مصاب باطلاقات نارية في ساقه,He was shot in the leg,conflict_related,1
+841,8741,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,قرحة بالمعدة,Sour stomach,bowel disorder,1
+842,8744,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,قرحة,sour stomach,bowel disorder,1
+843,8754,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشاكل نفسية,Psychological  problems,psychological disorder,1
+844,8759,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+845,8816,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مرض الصرع,Epilepsy,chronic,1
+846,8946,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,سرع, Epilepsy,chronic,1
+847,8952,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ماتشوف,Eye disorder,weak eyesight,1
+848,9011,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+849,9020,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مرض الصدفية,Psoriasis,chronic,1
+850,9021,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+851,9030,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+852,9038,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+853,9049,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,كسور في القدمين,legs are broken,bone disorder,1
+854,9050,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+855,9076,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ابكم واصم,blind and deaf,disability,1
+856,9078,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشاكل تنفس,difficulty in breath,chronic,1
+857,9083,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,كوليسترول,cholesterol,chronic,1
+858,9267,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+859,9395,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,دوران الرأس,headache,ache,1
+860,9397,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهاب الاذن,Otitis media,infection,1
+861,9483,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقرات العنق,Spondylolisthesis,spinal disorder,1
+862,9507,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالات نفسيه والكأبه,Psychological  problems,psychological disorder,1
+863,9512,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشاكل جينيه بالمبيض طفل ببطنه بدون ان يتزوج  علي اساس توئم هي.. و هس حاليا ورا العمليه  سراه صاير عقم. اي  (ماينجب الطفل  بالمستقبل نهائيا).,"Genetic problems , she was a pregnant  Although she didn't marry .and after the surgery ,she suffers from Sterility (infertility)",chronic,1
+864,9526,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوقة,Handicapped,disability,1
+865,9528,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,الم مفاصل,arthritis,chronic,1
+866,9536,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,الم غدة الدرقية,Hypothyroidism,chronic,1
+867,9564,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+868,9661,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+869,9677,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,psychological issue,,psychological disorder,1
+870,9729,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+871,10076,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اجراء عملية في المعدة,Stomach diseases,bowel disorder,1
+872,10099,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,الفقرات,Spondylolisthesis,spinal disorder,1
+873,10272,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+874,10274,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,تخلف عاقلي,mentally retarded,mental disability,1
+875,10285,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+876,10306,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل اطفال,poliomyelitis,communicable,1
+877,10316,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+878,10429,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فتحة في البطن, A hole in his body,conflict_related,1
+879,10434,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل بالعصب السابع و التهاب في العصب الخامس,Paralysis of the seventh nerve and inflammation of the fifth nerve,chronic,1
+880,10436,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر دم + بطئ في النمو,Anemia +delay in growth,chronic,1
+881,10437,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر دم + بطئ في النمو,Anemia +delay in growth,chronic,1
+882,10438,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,بطئ في النمو + فقر دم,delayed in growth + Anemia,chronic,1
+883,10439,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر دم + بطئ في النمو,Anemia +delay in growth,chronic,1
+884,10440,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فاقد البصر في احدى عينيه,"blind ,  he can't see with one eye at all",blind,1
+885,10467,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+886,10483,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حساسية,Chronic allergy,chronic,1
+887,10484,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,نوبات صرع,sometimes suffer from epilepsy,chronic,1
+888,10693,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,الصرعة,Epilepsy,chronic,1
+889,10701,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,muscular spasm,,chronic,1
+890,10800,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهاب الكبد, Hepatitis,communicable,1
+891,10801,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,التهاب الكبد, Hepatitis,communicable,1
+892,10823,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل نصفي,Hemiplegia,chronic,1
+893,10828,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+894,10832,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+895,10915,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,العقم,Sterility (infertility),gynecological disorder,1
+896,10963,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,عمليات في الغدة,Problems with the glands,chronic,1
+897,10982,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوقة,Handicapped,disability,1
+898,11054,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+899,11099,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ضعيف الجسم,body is too thin,weight disorder,1
+900,11121,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+901,11201,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+902,11208,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغي,cerebral palsy,chronic,1
+903,11215,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+904,11216,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشاكل بالعيون,Eye disorder,weak eyesight,1
+905,11219,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشكلة في الرؤية,Eye disorder,weak eyesight,1
+906,11328,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل رباعي,Tetraplegia,chronic,1
+907,11330,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقرات, Spondylolisthesis,spinal disorder,1
+908,11331,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشكلة انه عند انجاب اي طفل يكون مصاب بالشلل,"when she born a new  baby ,all of them suffer from Poliomyelitis",communicable,1
+909,11332,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغي,cerebral palsy,chronic,1
+910,11333,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغي,cerebral palsy,chronic,1
+911,11338,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر دم,Anemia,chronic,1
+912,11347,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,هيموفيليا,haemophilia,chronic,1
+913,11348,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,هيموفيليا,haemophilia,chronic,1
+914,11352,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+915,11491,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+916,11532,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات و شقية و حالة نفسية,Spondylolisthesis +Migraine +Psychological case ,mental disability,1
+917,11542,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غدة,Problems with the glands,chronic,1
+918,11550,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+919,11556,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Maawaq,Maawaq,NA,1
+920,11557,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Rabo,,chronic,1
+921,11562,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Maawaq,Maawaq,NA,1
+922,11571,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Hala nafsia,Hala nafsia,psychological disorder,1
+923,11572,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Romatiz,,NA,1
+924,11585,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Maawaq,Maawaq,NA,1
+925,11589,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Nazar,,NA,1
+926,11594,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Maawaq,Maawaq,NA,1
+927,11674,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غدة,Problems with the glands,chronic,1
+928,11688,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,عين واحدة,Eye disorder,weak eyesight,1
+929,11760,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+930,11781,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+931,11789,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+932,11799,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقرات, Spondylolisthesis,spinal disorder,1
+933,11830,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+934,11833,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل رباعي,Tetraplegia,chronic,1
+935,11835,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,تلف العضلي الوراثي,Hereditary muscle damage,muscle disorder,1
+936,11841,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق فقرات, Spondylolisthesis,spinal disorder,1
+937,11845,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,تسرع بنبضات القلب,heart disease (Accelerated heartbeat),chronic,1
+938,11885,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق, Spondylolisthesis,spinal disorder,1
+939,11897,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شقيقة,Migraine,migraine,1
+940,11902,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+941,11903,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,غدة,Problems with the glands,chronic,1
+942,12005,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+943,12010,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاق,Handicapped,disability,1
+944,12017,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Mental disorder,,mental disability,1
+945,12061,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة النفسية ايضأ,Psychological  problems,psychological disorder,1
+946,12094,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشاكل في المسالك البولية,Urinary problems,urinary disorder,1
+947,12118,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,خلع ولادة,Childbirth dislocation,dislocation,1
+948,12126,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اعاقة عقلية,mentally retarded,mental disability,1
+949,12219,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,زيادة دهون,fat are increased in his body,weight disorder,1
+950,12220,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,مشكلة نفسية,Psychological  problems,psychological disorder,1
+951,12228,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,عدم الانجاب,Inability to have children,gynecological disorder,1
+952,12241,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,عقم,Sterility (infertility),gynecological disorder,1
+953,12246,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,عدم الرؤية,Eye disorder,weak eyesight,1
+954,12249,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,نقص كالسيوم,lack of Calcium,communicable,1
+955,12256,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حساسية,Chronic allergy,chronic,1
+956,12262,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+957,12263,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر دم,Anemia,chronic,1
+958,12497,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوق,Handicapped,disability,1
+959,12521,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+960,12738,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Eiwn,Eiwn,NA,1
+961,12859,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,disabled,,disability,1
+962,12863,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,infantile paralysis,,chronic,1
+963,12887,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,allergy,,chronic,1
+964,12894,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,disabled,,disability,1
+965,12953,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Maida,,NA,1
+966,13116,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,disabled,,disability,1
+967,13155,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,بحاجه الى عمليه بلاذن الوسطه,Otitis media,infection,1
+968,13157,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فيروس بلكبد,Hepatitis,communicable,1
+969,13214,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,Maawaq,Maawaq,NA,1
+970,13422,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معوقة,Handicapped,disability,1
+971,13467,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حساسية مزمنه بلعين,eyes are very sensitive,weak eyesight,1
+972,13649,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,"قرحة في المعدة
+غدة درقيه",Sour stomach + Hypothyroidism,chronic,1
+973,13650,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ضعف في النضر بحاجة الى عمليه,Eye disorder,weak eyesight,1
+974,13669,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اعمى, blind,blind,1
+975,13672,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاق اعمى,blind,blind,1
+976,13673,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,معاقه اعمى,blind,blind,1
+977,13704,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر الدم,Anemia,chronic,1
+978,13758,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقرات,Spondylolisthesis,spinal disorder,1
+979,13764,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+980,13771,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+981,13774,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,شلل دماغ,cerebral palsy,chronic,1
+982,13804,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,نقص حديد,Lack of Vitamin (Iron ),NA,1
+983,13824,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,جلطة دماغية,Cerebrovascular accident – STROKE,chronic,1
+984,14031,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,روماتيز مفاصل,Rheumatism,chronic,1
+985,14042,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر دم,Anemia,chronic,1
+986,14045,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,اتهاب كبد, Hepatitis,communicable,1
+987,14048,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ضمور بلدماغ,Brain atrophy,chronic,1
+988,14057,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,بحاجه الى عمله في الفتق,Hernia,spinal disorder,1
+989,14156,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,فقر دم,Anemia,chronic,1
+990,14158,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انسداد الامعاء,Bowel obstruction,bowel disorder,1
+991,14205,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,انزلاق الفقرات, Spondylolisthesis,spinal disorder,1
+992,14467,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حالة نفسية,Psychological  problems,psychological disorder,1
+993,14473,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,امراض نفسية,psychological  diseases,psychological disorder,1
+994,14474,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ازمات نفسية,Psychological  problems,psychological disorder,1
+995,14476,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,صرع,Epilepsy,chronic,1
+996,14540,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,عوق,disable,disability,1
+997,14545,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,ضغط الدم,Blood Pressure ,chronic,1
+998,14722,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حاله نفسيه مزمنه جراء القصف,Psychological  problems because of the bombing,conflict_related,1
+999,14774,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,حساسية حادة في الصدر,Chronic allergy in the chest,chronic,1
+1000,14791,NA,NA,NA,NA,NA,health_issue_other,Flag if not NA,Translate,NA,هشاشة عظام حادة,Osteoporosis,bone disorder,1

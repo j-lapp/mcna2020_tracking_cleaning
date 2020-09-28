@@ -1,0 +1,928 @@
+Place.id,strata_id,Location.name.in.English,Location.name.in.Arabic,Latitude,Longitude,COD_Subdistrict,district_mcna,governorate_mcna,SumDist,proba,num_households,num_surveys,pop_group,pop_group_dist
+33940,Al-Falluja,Amriyat Al-Fallujahsector 3,?????? ??????,33.141111,44.018056,Al-Amirya,al.falluja,al.anbar,2281,0.050416484,115,6,idp_out_camp,idp_out_camp_al.falluja
+107,Al-Falluja,Al Amiriyah,???????? ,33.1787573,43.85698918,Al-Amirya,al.falluja,al.anbar,2281,0.288469969,658,18,idp_out_camp,idp_out_camp_al.falluja
+26088,Al-Falluja,Ahl Al-Ramadi 74,??? ??????? 74,33.14309313,44.02116816,Al-Amirya,al.falluja,al.anbar,2281,0.028057869,64,12,idp_out_camp,idp_out_camp_al.falluja
+26092,Al-Falluja,Al-Amirya-Al Mouilha,????????,33.13698726,43.98735577,Al-Amirya,al.falluja,al.anbar,2281,0.105655414,241,6,idp_out_camp,idp_out_camp_al.falluja
+33941,Al-Falluja,Amriyat Al-Fallujahsector 50,???? ???????,33.1475,44.015278,Al-Amirya,al.falluja,al.anbar,2281,0.032880316,75,6,idp_out_camp,idp_out_camp_al.falluja
+26087,Al-Falluja,Al-Amirya-Albu Salman,??????????,33.15645263,44.00187874,Al-Amirya,al.falluja,al.anbar,2281,0.075843928,173,18,idp_out_camp,idp_out_camp_al.falluja
+26036,Al-Falluja,Al-Amirya-Albu Jasim,????????,33.19858251,43.89964342,Al-Amirya,al.falluja,al.anbar,2281,0.00832968,19,6,idp_out_camp,idp_out_camp_al.falluja
+26085,Al-Falluja,Al-Amirya-Albu Jaber,????????,33.12114643,44.04230199,Al-Amirya,al.falluja,al.anbar,2281,0.095572117,218,6,idp_out_camp,idp_out_camp_al.falluja
+33939,Al-Falluja,Amriyat Al-Fallujah sector 4,?????? ??????,33.145831,44.015278,Al-Amirya,al.falluja,al.anbar,2281,0.049101271,112,6,idp_out_camp,idp_out_camp_al.falluja
+26037,Al-Falluja,Al-Amirya-Albu Jwad,????????,33.15117657,43.98967868,Al-Amirya,al.falluja,al.anbar,2281,0.070144673,160,6,idp_out_camp,idp_out_camp_al.falluja
+26091,Al-Falluja,Al-Amirya-Al Hmedin,????????,33.15811464,43.93617748,Al-Amirya,al.falluja,al.anbar,2281,0.048224463,110,6,idp_out_camp,idp_out_camp_al.falluja
+23853,Al-Falluja,Hay Al-Madani,???? ?????? ,33.3781144,43.59524276,Markaz Al-Falluja,al.falluja,al.anbar,2281,0.005260851,12,6,idp_out_camp,idp_out_camp_al.falluja
+23858,Al-Ramadi,Abu Fless,??? ????,33.39270541,43.53247477,Al-Habbaniya,al.ramadi,al.anbar,1117,0.051029543,57,6,idp_out_camp,idp_out_camp_al.ramadi
+33826,Al-Ramadi,AL-Karama complex,???? ???????,33.0388385,43.097082,Al-Rahhaliya,al.ramadi,al.anbar,1117,0.068934646,77,18,idp_out_camp,idp_out_camp_al.ramadi
+23889,Al-Ramadi,7 Killo-al-mojamaa al-sakany,?????? ????-?????? ??????,33.41413197,43.19138708,Markaz Al-Ramadi,al.ramadi,al.anbar,1117,0.42435094,474,84,idp_out_camp,idp_out_camp_al.ramadi
+308,Al-Ramadi,5 Kilo,?????? ????,33.42115,43.24550264,Markaz Al-Ramadi,al.ramadi,al.anbar,1117,0.115487914,129,30,idp_out_camp,idp_out_camp_al.ramadi
+115,Al-Ramadi,Al Sofeya,???????,33.44031066,43.32196121,Markaz Al-Ramadi,al.ramadi,al.anbar,1117,0.201432408,225,42,idp_out_camp,idp_out_camp_al.ramadi
+182,Al-Ramadi,Qadisiya-1,???????? ??????,33.41244969,43.2749091,Markaz Al-Ramadi,al.ramadi,al.anbar,1117,0.047448523,53,6,idp_out_camp,idp_out_camp_al.ramadi
+166,Al-Rutba,Hay Al Meethagh,?? ???????,33.03197354,40.29047217,Markaz Al-Rutba,al.rutba,al.anbar,516,0.19379845,100,18,idp_out_camp,idp_out_camp_al.rutba
+231,Al-Rutba,Al Wadi,?? ??????,33.03966421,40.28365262,Markaz Al-Rutba,al.rutba,al.anbar,516,0.166666667,86,18,idp_out_camp,idp_out_camp_al.rutba
+165,Al-Rutba,Al Askaree,?? ???????,33.03800189,40.30263444,Markaz Al-Rutba,al.rutba,al.anbar,516,0.15503876,80,12,idp_out_camp,idp_out_camp_al.rutba
+150,Al-Rutba,Al Haara,?? ??????,33.03761591,40.28426443,Markaz Al-Rutba,al.rutba,al.anbar,516,0.104651163,54,6,idp_out_camp,idp_out_camp_al.rutba
+167,Al-Rutba,Antesar,?? ????????,33.03126564,40.29901479,Markaz Al-Rutba,al.rutba,al.anbar,516,0.122093023,63,24,idp_out_camp,idp_out_camp_al.rutba
+23935,Al-Rutba,Al-Daraemah Village,???? ????????,33.04302668,40.38038346,Markaz Al-Rutba,al.rutba,al.anbar,516,0.07751938,40,18,idp_out_camp,idp_out_camp_al.rutba
+233,Al-Rutba,Hay Al-Matar,?? ??????,33.03461084,40.28668013,Markaz Al-Rutba,al.rutba,al.anbar,516,0.083333333,43,6,idp_out_camp,idp_out_camp_al.rutba
+23888,Al-Rutba,Gharb Al-Wadi,?? ??? ??????,33.04245523,40.27803907,Markaz Al-Rutba,al.rutba,al.anbar,516,0.03875969,20,12,idp_out_camp,idp_out_camp_al.rutba
+34002,Heet,Al-shuhdaa  1,??????? ??????,33.88568,42.5227,Al-Baghdady,heet,al.anbar,232,0.120689655,28,18,idp_out_camp,idp_out_camp_heet
+152,Heet,Al Muhamdee,??????? ,33.55951649,42.90148478,Al-Forat,heet,al.anbar,232,0.280172414,65,30,idp_out_camp,idp_out_camp_heet
+312,Heet,Al-Ummal,?????? ,33.63415572,42.8268459,Markaz Heet,heet,al.anbar,232,0.068965517,16,24,idp_out_camp,idp_out_camp_heet
+219,Heet,Hay Al-Jabal,????? ,33.63892885,42.81853543,Markaz Heet,heet,al.anbar,232,0.206896552,48,24,idp_out_camp,idp_out_camp_heet
+33822,Heet,Hay- Amina,?? ?????,33.65005,42.7969,Markaz Heet,heet,al.anbar,232,0.034482759,8,6,idp_out_camp,idp_out_camp_heet
+23885,Heet,Hay Al-jamyah 2,??????? ???????,33.62821377,42.84729981,Markaz Heet,heet,al.anbar,232,0.060344828,14,12,idp_out_camp,idp_out_camp_heet
+857,Al-Basrah,As-safat-Al Qadima,?????? ???????-??????,30.495005,47.81752492,Markaz Al-Basrah,al.basrah,al.basrah,287,0.020905923,6,6,idp_out_camp,idp_out_camp_al.basrah
+21097,Al-Basrah,Manawi Lajim Quarter,????? ??? ,30.49566639,47.83856165,Markaz Al-Basrah,al.basrah,al.basrah,287,0.059233449,17,12,idp_out_camp,idp_out_camp_al.basrah
+1308,Al-Basrah,Al-Baker & Al-Ahrar,????? ????????,30.4999937,47.81254713,Markaz Al-Basrah,al.basrah,al.basrah,287,0.027874564,8,6,idp_out_camp,idp_out_camp_al.basrah
+847,Al-Basrah,Al-meshraq al-qadeem,??????-??????? ??????,30.49082406,47.81616005,Markaz Al-Basrah,al.basrah,al.basrah,287,0.034843206,10,12,idp_out_camp,idp_out_camp_al.basrah
+891,Al-Basrah,Manawi pasha,????? ????,30.50843105,47.84106138,Markaz Al-Basrah,al.basrah,al.basrah,287,0.041811847,12,6,idp_out_camp,idp_out_camp_al.basrah
+24126,Al-Basrah,Hay Al Jamiah,??????-??????-?? ???????,30.4735456,47.80490113,Markaz Al-Basrah,al.basrah,al.basrah,287,0.034843206,10,6,idp_out_camp,idp_out_camp_al.basrah
+907,Al-Basrah,Braiha,????? ,30.51312952,47.83821038,Markaz Al-Basrah,al.basrah,al.basrah,287,0.024390244,7,6,idp_out_camp,idp_out_camp_al.basrah
+893,Al-Basrah,Kut al-hejaj,??????-??? ??????,30.50441634,47.8008913,Markaz Al-Basrah,al.basrah,al.basrah,287,0.034843206,10,6,idp_out_camp,idp_out_camp_al.basrah
+898,Al-Basrah,Al Khaleej1,??????-????????-?? ?????? 1,30.4881858,47.79440625,Markaz Al-Basrah,al.basrah,al.basrah,287,0.020905923,6,6,idp_out_camp,idp_out_camp_al.basrah
+1295,Al-Basrah,Door Al Dubbat,??? ??????,30.53411916,47.78872555,Markaz Al-Basrah,al.basrah,al.basrah,287,0.031358885,9,6,idp_out_camp,idp_out_camp_al.basrah
+24182,Al-Basrah,Casino Lebnan,??????-?????? ?????,30.5077651,47.80811705,Markaz Al-Basrah,al.basrah,al.basrah,287,0.034843206,10,6,idp_out_camp,idp_out_camp_al.basrah
+20340,Al-Kufa,Al Hureya,??????,32.10190244,44.54306633,Al-Huriya,al.kufa,al.najaf,504,0.011904762,6,6,idp_out_camp,idp_out_camp_al.kufa
+25890,Al-Kufa,Sader 3,????? ??????,32.01241003,44.40323051,Markaz Al-Kufa,al.kufa,al.najaf,504,0.029761905,15,18,idp_out_camp,idp_out_camp_al.kufa
+20298,Al-Kufa,Al Barakiya,????????,32.00931304,44.40037318,Markaz Al-Kufa,al.kufa,al.najaf,504,0.134920635,68,36,idp_out_camp,idp_out_camp_al.kufa
+20046,Al-Kufa,Al Kreishat 2,???????? 2,32.03102475,44.40649951,Markaz Al-Kufa,al.kufa,al.najaf,504,0.011904762,6,6,idp_out_camp,idp_out_camp_al.kufa
+24311,Al-Kufa,Alwat Al Fahal,???? ?????,32.07811637,44.37170203,Markaz Al-Kufa,al.kufa,al.najaf,504,0.248015873,125,30,idp_out_camp,idp_out_camp_al.kufa
+20304,Al-Kufa,AL-RADHAWIYA,??????? 1,31.96229384,44.4136399,Markaz Al-Kufa,al.kufa,al.najaf,504,0.501984127,253,114,idp_out_camp,idp_out_camp_al.kufa
+29598,Al-Najaf,Al Salam Complex,???? ??????,32.17414489,44.30752607,Al-Haydariya,al.najaf,al.najaf,1418,0.130465444,185,12,idp_out_camp,idp_out_camp_al.najaf
+34007,Al-Najaf,Hay AL Karrar,?? ??????,32.28396373,44.27828808,Al-Haydariya,al.najaf,al.najaf,1418,0.176304654,250,24,idp_out_camp,idp_out_camp_al.najaf
+20341,Al-Najaf,Al-Qasim,??????,32.31013278,44.27654775,Al-Haydariya,al.najaf,al.najaf,1418,0.042313117,60,12,idp_out_camp,idp_out_camp_al.najaf
+25431,Al-Najaf,Hay Al Ameer,?? ??????,32.31602166,44.26900962,Al-Haydariya,al.najaf,al.najaf,1418,0.047249647,67,6,idp_out_camp,idp_out_camp_al.najaf
+29658,Al-Najaf,Al-Shaheed Al-Sadar-Shareet,?? ?????? ?????-??????,32.07339081,44.32647878,Markaz Al-Najaf,al.najaf,al.najaf,1418,0.029619182,42,6,idp_out_camp,idp_out_camp_al.najaf
+26015,Al-Najaf,Al-Ameriya,????????,31.9869246,44.31483768,Markaz Al-Najaf,al.najaf,al.najaf,1418,0.007052186,10,6,idp_out_camp,idp_out_camp_al.najaf
+29621,Al-Najaf,Mazara Al-Hawli,????? ??????,32.0964973,44.3313444,Markaz Al-Najaf,al.najaf,al.najaf,1418,0.084626234,120,24,idp_out_camp,idp_out_camp_al.najaf
+20338,Al-Najaf,AL JEDAIDA,??????? 4,31.9902017,44.31782205,Markaz Al-Najaf,al.najaf,al.najaf,1418,0.039492243,56,12,idp_out_camp,idp_out_camp_al.najaf
+20287,Al-Najaf,Al-Ghadeer Village complex,???? ???? ??????,32.09036773,44.33345076,Markaz Al-Najaf,al.najaf,al.najaf,1418,0.070521862,100,6,idp_out_camp,idp_out_camp_al.najaf
+20122,Al-Najaf,Hay missan 230,?? ????? 230,32.06442413,44.36229196,Markaz Al-Najaf,al.najaf,al.najaf,1418,0.04583921,65,6,idp_out_camp,idp_out_camp_al.najaf
+25568,Al-Diwaniya,Hay Al-Amin 2,?? ?????? 2,32.00629877,44.84477322,Al-Saniya,al.diwaniya,al.qadissiya,354,0.031073446,11,6,idp_out_camp,idp_out_camp_al.diwaniya
+25070,Al-Diwaniya,Hay Al-Hussain,?? ??????,32.0701463,44.76765688,Al-Saniya,al.diwaniya,al.qadissiya,354,0.019774011,7,6,idp_out_camp,idp_out_camp_al.diwaniya
+24436,Al-Diwaniya,Albo Hasan village,???? ???? ???,32.02082742,44.81889837,Al-Saniya,al.diwaniya,al.qadissiya,354,0.028248588,10,12,idp_out_camp,idp_out_camp_al.diwaniya
+24903,Al-Diwaniya,Hay Al Sadir 2,?? ????? ??????,32.00637806,44.93735746,Markaz Al-Diwaniya,al.diwaniya,al.qadissiya,354,0.02259887,8,6,idp_out_camp,idp_out_camp_al.diwaniya
+2943,Al-Diwaniya,Al hamad village,???? ?????,32.00409165,44.99900237,Markaz Al-Diwaniya,al.diwaniya,al.qadissiya,354,0.056497175,20,18,idp_out_camp,idp_out_camp_al.diwaniya
+22815,Al-Diwaniya,Hay Al Jumhori Al Sharqi,?? ???????? ??????,31.99175319,44.92138221,Markaz Al-Diwaniya,al.diwaniya,al.qadissiya,354,0.019774011,7,6,idp_out_camp,idp_out_camp_al.diwaniya
+22326,Al-Diwaniya,Al Mojamaa Al Sakani,?????? ??????,31.98188312,44.97298646,Markaz Al-Diwaniya,al.diwaniya,al.qadissiya,354,0.093220339,33,12,idp_out_camp,idp_out_camp_al.diwaniya
+23681,Al-Diwaniya,Hay Al Furat-2,?? ?????? ???????,32.02006081,44.90036536,Markaz Al-Diwaniya,al.diwaniya,al.qadissiya,354,0.016949153,6,6,idp_out_camp,idp_out_camp_al.diwaniya
+23715,Al-Diwaniya,Hay Al-Hadarah,?? ???????,32.01567693,44.9173569,Markaz Al-Diwaniya,al.diwaniya,al.qadissiya,354,0.033898305,12,6,idp_out_camp,idp_out_camp_al.diwaniya
+22452,Al-Diwaniya,Qaryat Al Ensaf,???? ???????,31.99916497,45.01540678,Markaz Al-Diwaniya,al.diwaniya,al.qadissiya,354,0.050847458,18,6,idp_out_camp,idp_out_camp_al.diwaniya
+25509,Al-Diwaniya,Al-Taamem-2,??????? ???????,31.97978115,44.94216732,Markaz Al-Diwaniya,al.diwaniya,al.qadissiya,354,0.016949153,6,6,idp_out_camp,idp_out_camp_al.diwaniya
+5808,Al-Sulaymaniyah,Bazyan-shwankara,??????-????????,35.5657573,45.1954297,Bazian,al.sulaymaniyah,al.sulaymaniyah,12488,0.002802691,35,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+5930,Al-Sulaymaniyah,Wluba 326,????? 326,35.5342375,45.4295163,Qaradagh,al.sulaymaniyah,al.sulaymaniyah,12488,0.01305253,163,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+23926,Al-Sulaymaniyah,Dargazen,??????,35.5523088,45.4402254,Qaradagh,al.sulaymaniyah,al.sulaymaniyah,12488,0.003122998,39,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+21021,Al-Sulaymaniyah,Sabun karan Qt,???? ????,35.5540113,45.4456441,Qaradagh,al.sulaymaniyah,al.sulaymaniyah,12488,0.00512492,64,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+5122,Al-Sulaymaniyah,Arbat-Kharajian,????-??????,35.4650972,45.567977,Qaradagh,al.sulaymaniyah,al.sulaymaniyah,12488,0.000560538,7,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+5744,Al-Sulaymaniyah,Bardakar,???? ??,35.4513021,45.4479993,Qaradagh,al.sulaymaniyah,al.sulaymaniyah,12488,0.004724536,59,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+21033,Al-Sulaymaniyah,Tavga,?????,35.5983231,45.3944926,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.007206919,90,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+21036,Al-Sulaymaniyah,Farmanbaran,?????????,35.5897164,45.4053795,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.01305253,163,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+5737,Al-Sulaymaniyah,Awbara,??????,35.5515613,45.3801727,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.015534914,194,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+33357,Al-Sulaymaniyah,Mushirawa 406 & 206,???????? 406&206,35.5571112,45.416484,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.004083921,51,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+4441,Al-Sulaymaniyah,Sarchnar,??????,35.5802839,45.3835801,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.034593209,432,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+33348,Al-Sulaymaniyah,Chwar chra New,???? ??? ???,35.5465155,45.3972155,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.001040999,13,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+24816,Al-Sulaymaniyah,Saib City,???? ???,35.5342187,45.4131846,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.018818065,235,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+24255,Al-Sulaymaniyah,Sarwary 142,????? 142,35.5834097,45.416355,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.008327995,104,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+31982,Al-Sulaymaniyah,Handren 109,?????? 109,35.5662087,45.4024649,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.003283152,41,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+31988,Al-Sulaymaniyah,Khwar kurdsat 134,???? ??????? 134,35.5827336,45.4378381,Sarchnar,al.sulaymaniyah,al.sulaymaniyah,12488,0.005044843,63,6,idp_out_camp,idp_out_camp_al.sulaymaniyah
+21719,Chamchamal,Shahidan,??????,35.7458189,44.8987014,Agjalare,chamchamal,al.sulaymaniyah,1692,0.003546099,6,6,idp_out_camp,idp_out_camp_chamchamal
+3461,Chamchamal,hashazini,???? ????,35.4038402,45.1180675,Cenkaw,chamchamal,al.sulaymaniyah,1692,0.003546099,6,6,idp_out_camp,idp_out_camp_chamchamal
+33380,Chamchamal,Awa Spi,??? ???,35.0232578,45.1011726,Kadr Karam,chamchamal,al.sulaymaniyah,1692,0.021867612,37,6,idp_out_camp,idp_out_camp_chamchamal
+24894,Chamchamal,Chamchamal-Raparin,??????-??????,35.52360502,44.822298,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.108747045,184,24,idp_out_camp,idp_out_camp_chamchamal
+6159,Chamchamal,Chamchamal-Rizgari,??????-??????,35.53982645,44.8236395,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.019503546,33,12,idp_out_camp,idp_out_camp_chamchamal
+21976,Chamchamal,Ashti,????,35.53578579,44.8256465,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.054964539,93,6,idp_out_camp,idp_out_camp_chamchamal
+24688,Chamchamal,Asuda,?????,35.5269308,44.8137438,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.108747045,184,6,idp_out_camp,idp_out_camp_chamchamal
+21717,Chamchamal,Qadir Kir Mikan,???????????,35.5037607,44.8523393,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.046099291,78,6,idp_out_camp,idp_out_camp_chamchamal
+24250,Chamchamal,Qarahanjiriakan,???????????,35.5032536,44.8426528,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.022458629,38,6,idp_out_camp,idp_out_camp_chamchamal
+4933,Chamchamal,Piryadi,???????,35.5130974,44.8489363,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.066193853,112,12,idp_out_camp,idp_out_camp_chamchamal
+20813,Chamchamal,SANGAWIAKAN,?????????,35.51058,44.8367107,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.034869976,59,6,idp_out_camp,idp_out_camp_chamchamal
+24813,Chamchamal,Takya-Azadi,????-?????,35.6238672,44.9548877,Markaz Chamchamal,chamchamal,al.sulaymaniyah,1692,0.020685579,35,6,idp_out_camp,idp_out_camp_chamchamal
+6301,Derbendikhan,Hawara barza,????????,35.1241329,45.6826464,Markaz Derbendikhan,derbendikhan,al.sulaymaniyah,1053,0.085470085,90,24,idp_out_camp,idp_out_camp_derbendikhan
+24251,Derbendikhan,Kanito,???? ???,35.1124805,45.6896322,Markaz Derbendikhan,derbendikhan,al.sulaymaniyah,1053,0.108262108,114,12,idp_out_camp,idp_out_camp_derbendikhan
+29515,Derbendikhan,Shoresh,????,35.1140736,45.6796988,Markaz Derbendikhan,derbendikhan,al.sulaymaniyah,1053,0.021842355,23,12,idp_out_camp,idp_out_camp_derbendikhan
+24670,Derbendikhan,Sara,???,35.1079729,45.6886106,Markaz Derbendikhan,derbendikhan,al.sulaymaniyah,1053,0.075973409,80,6,idp_out_camp,idp_out_camp_derbendikhan
+24253,Derbendikhan,Campe khwarw,???? ?????,35.0974312,45.6949014,Markaz Derbendikhan,derbendikhan,al.sulaymaniyah,1053,0.032288699,34,12,idp_out_camp,idp_out_camp_derbendikhan
+29517,Derbendikhan,Khelan,?????,35.1101359,45.6839061,Markaz Derbendikhan,derbendikhan,al.sulaymaniyah,1053,0.106362773,112,12,idp_out_camp,idp_out_camp_derbendikhan
+22996,Derbendikhan,Mamostayan,??????????,35.3198684,45.6948361,Markaz Derbendikhan,derbendikhan,al.sulaymaniyah,1053,0.038936372,41,6,idp_out_camp,idp_out_camp_derbendikhan
+23078,Derbendikhan,Rezgari,??????,35.3217373,45.6791641,Markaz Derbendikhan,derbendikhan,al.sulaymaniyah,1053,0.054131054,57,42,idp_out_camp,idp_out_camp_derbendikhan
+5000,Dokan,Shekh Mansourian,??? ????????,36.07103,44.7817368,Gnareen,dokan,al.sulaymaniyah,774,0.009043928,7,6,idp_out_camp,idp_out_camp_dokan
+23721,Dokan,Chawa spy,?????,35.9313984,44.9690877,Gnareen,dokan,al.sulaymaniyah,774,0.067183463,52,6,idp_out_camp,idp_out_camp_dokan
+23923,Dokan,Sarcham,????,35.9279122,44.9622742,Gnareen,dokan,al.sulaymaniyah,774,0.034883721,27,6,idp_out_camp,idp_out_camp_dokan
+23924,Dokan,Banwan,??????,35.9328361,44.9642292,Gnareen,dokan,al.sulaymaniyah,774,0.036175711,28,12,idp_out_camp,idp_out_camp_dokan
+5068,Dokan,Topzawa,???????,35.9572654,44.9861496,Sourdash,dokan,al.sulaymaniyah,774,0.012919897,10,6,idp_out_camp,idp_out_camp_dokan
+24554,Dokan,Tokma,?????,35.7246294,45.1440548,Sourdash,dokan,al.sulaymaniyah,774,0.025839793,20,6,idp_out_camp,idp_out_camp_dokan
+24213,Dokan,Sara,???,35.7270477,45.1524679,Sourdash,dokan,al.sulaymaniyah,774,0.127906977,99,24,idp_out_camp,idp_out_camp_dokan
+23333,Dokan,Pishowa,?????,35.7378464,45.1423851,Sourdash,dokan,al.sulaymaniyah,774,0.118863049,92,6,idp_out_camp,idp_out_camp_dokan
+6305,Dokan,Shaheedan,??????,35.7314435,45.1374075,Sourdash,dokan,al.sulaymaniyah,774,0.055555556,43,6,idp_out_camp,idp_out_camp_dokan
+3593,Dokan,Timar,?????,35.8574417,45.0769418,Sourdash,dokan,al.sulaymaniyah,774,0.010335917,8,6,idp_out_camp,idp_out_camp_dokan
+5238,Dokan,Mergapan,???????,35.7956429,45.2535359,Sourdash,dokan,al.sulaymaniyah,774,0.04005168,31,12,idp_out_camp,idp_out_camp_dokan
+22460,Halabcha,Ardalan,??????,35.2991993,46.0343419,Khourmal,halabcha,al.sulaymaniyah,613,0.014681892,9,6,idp_out_camp,idp_out_camp_halabcha
+21862,Halabcha,Gulan,????? ,35.1744373,45.9810664,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.060358891,37,6,idp_out_camp,idp_out_camp_halabcha
+21961,Halabcha,Kani ishqan,???? ??????,35.1696168,45.983114,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.128874388,79,6,idp_out_camp,idp_out_camp_halabcha
+21863,Halabcha,Mamostaian,??????????,35.1822314,45.993632,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.014681892,9,6,idp_out_camp,idp_out_camp_halabcha
+21857,Halabcha,Sharwani,???????,35.1891217,45.9950623,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.045676998,28,6,idp_out_camp,idp_out_camp_halabcha
+21962,Halabcha,Marzboto,???? ????,35.1819165,45.9844709,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.021207178,13,12,idp_out_camp,idp_out_camp_halabcha
+21960,Halabcha,Farmanbaran,?????????,35.185482,45.9802875,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.026101142,16,6,idp_out_camp,idp_out_camp_halabcha
+25757,Halabcha,Darwazay Shar,?????? ???,35.1993777,45.9665141,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.037520392,23,6,idp_out_camp,idp_out_camp_halabcha
+31863,Halabcha,Shahidan,??????,35.2543788,45.9398683,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.019575856,12,6,idp_out_camp,idp_out_camp_halabcha
+31862,Halabcha,Raparine,??????,35.2555589,45.9361248,Markaz Halabja,halabcha,al.sulaymaniyah,613,0.070146819,43,6,idp_out_camp,idp_out_camp_halabcha
+25647,Halabcha,Grda naze village,???? ??? ????,35.3424268,45.9255147,Shahrazur,halabcha,al.sulaymaniyah,613,0.024469821,15,6,idp_out_camp,idp_out_camp_halabcha
+22920,Halabcha,Hassar,????,35.3515587,45.8727816,Shahrazur,halabcha,al.sulaymaniyah,613,0.060358891,37,12,idp_out_camp,idp_out_camp_halabcha
+24096,Halabcha,Barkew,?????,35.3553403,45.8688337,Shahrazur,halabcha,al.sulaymaniyah,613,0.091353997,56,6,idp_out_camp,idp_out_camp_halabcha
+23767,Kalar,Goran,?????,34.63677433,45.3383341,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.014242555,33,6,idp_out_camp,idp_out_camp_kalar
+32001,Kalar,Mamostayan,??????????,34.634237,45.3205974,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.04013811,93,6,idp_out_camp,idp_out_camp_kalar
+6286,Kalar,Kalar Kon,???? ???,34.63803133,45.3031242,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.081570997,189,12,idp_out_camp,idp_out_camp_kalar
+23769,Kalar,Sherwana,???????,34.61085768,45.3166238,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.016400518,38,6,idp_out_camp,idp_out_camp_kalar
+5995,Kalar,Grda Gozina,???? ??????,34.58637894,45.2896874,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.043159258,100,18,idp_out_camp,idp_out_camp_kalar
+24890,Kalar,Sirwan,??????,34.6223123,45.3304388,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.020716444,48,6,idp_out_camp,idp_out_camp_kalar
+3939,Kalar,Barda Sur,??????,34.64159387,45.3475832,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.034527406,80,6,idp_out_camp,idp_out_camp_kalar
+24962,Kalar,Sharawani,???????,34.63964372,45.3129032,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.063875701,148,12,idp_out_camp,idp_out_camp_kalar
+31929,Kalar,Zhalla,????,34.65595341,45.2575523,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.039706517,92,6,idp_out_camp,idp_out_camp_kalar
+31932,Kalar,Azadi,?????,34.65783716,45.2387876,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.022442814,52,6,idp_out_camp,idp_out_camp_kalar
+21861,Kalar,Garmyan,??????,34.66004781,45.2319431,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.067760035,157,12,idp_out_camp,idp_out_camp_kalar
+21852,Kalar,Awbarik,???????,34.6656446,45.241458,Markaz Kalar,kalar,al.sulaymaniyah,2317,0.095381959,221,6,idp_out_camp,idp_out_camp_kalar
+25298,Rania,Koling city,????? ???,36.2287787,44.8485077,Markaz Rania,rania,al.sulaymaniyah,406,0.184729064,75,12,idp_out_camp,idp_out_camp_rania
+25293,Rania,Raparine,??????,36.20458,44.8215052,Markaz Rania,rania,al.sulaymaniyah,406,0.022167488,9,6,idp_out_camp,idp_out_camp_rania
+25297,Rania,Rozhhalat,???????,36.2114866,44.836857,Markaz Rania,rania,al.sulaymaniyah,406,0.041871921,17,18,idp_out_camp,idp_out_camp_rania
+5568,Rania,kurdistan,????????,36.2205991,44.8359597,Markaz Rania,rania,al.sulaymaniyah,406,0.041871921,17,6,idp_out_camp,idp_out_camp_rania
+25296,Rania,Qandil,?????,36.2097303,44.8337084,Markaz Rania,rania,al.sulaymaniyah,406,0.044334975,18,6,idp_out_camp,idp_out_camp_rania
+29686,Rania,Saraa,????,36.2112346,44.8277604,Markaz Rania,rania,al.sulaymaniyah,406,0.07635468,31,12,idp_out_camp,idp_out_camp_rania
+31869,Rania,Azadi 2,????? 2,36.2527794,44.8751276,Markaz Rania,rania,al.sulaymaniyah,406,0.032019704,13,12,idp_out_camp,idp_out_camp_rania
+25522,Rania,Kewa Rash,????? ?,36.2633631,44.8813414,Markaz Rania,rania,al.sulaymaniyah,406,0.032019704,13,6,idp_out_camp,idp_out_camp_rania
+24814,Rania,Mamostayan,??????????,36.2589441,44.8900763,Markaz Rania,rania,al.sulaymaniyah,406,0.022167488,9,6,idp_out_camp,idp_out_camp_rania
+24101,Rania,Nawroz,?????,36.2494431,44.8741161,Markaz Rania,rania,al.sulaymaniyah,406,0.110837438,45,12,idp_out_camp,idp_out_camp_rania
+24984,Al-Mussyab,Hay Al-Rafedain,????? ??????????-?? ????????,32.88290099,44.34190731,Al-Iskandaria,al.mussyab,babil,2341,0.055104656,129,18,idp_out_camp,idp_out_camp_al.mussyab
+24985,Al-Mussyab,Hay Alaskarey,????? ??????????-?? ???????,32.88258483,44.34809365,Al-Iskandaria,al.mussyab,babil,2341,0.037590773,88,6,idp_out_camp,idp_out_camp_al.mussyab
+25613,Al-Mussyab,Al-Iskandaria-Hay Al-Muthana,?? ??????,32.88429675,44.38653827,Al-Iskandaria,al.mussyab,babil,2341,0.009397693,22,6,idp_out_camp,idp_out_camp_al.mussyab
+24296,Al-Mussyab,Al Iskandariyah Area-Mowelha,????? ??????????-??????,32.87783,44.41548,Al-Iskandaria,al.mussyab,babil,2341,0.014523708,34,6,idp_out_camp,idp_out_camp_al.mussyab
+24707,Al-Mussyab,Hay Al Ataba,?? ???????,32.79055304,44.27722478,Jurf Al-Sakhar,al.mussyab,babil,2341,0.101238787,237,18,idp_out_camp,idp_out_camp_al.mussyab
+7126,Al-Mussyab,Al Hamiyah-Al Mutaqedin 1,???????-?????????? 1,32.81393002,44.26428293,Jurf Al-Sakhar,al.mussyab,babil,2341,0.046988466,110,12,idp_out_camp,idp_out_camp_al.mussyab
+24165,Al-Mussyab,Al Hamiyah-Oayef village,???????-???? ????,32.80751183,44.26748722,Jurf Al-Sakhar,al.mussyab,babil,2341,0.04015378,94,6,idp_out_camp,idp_out_camp_al.mussyab
+26119,Al-Mussyab,Hay Al Ghadeer 3,?????? 3,32.78266858,44.26577385,Jurf Al-Sakhar,al.mussyab,babil,2341,0.02007689,47,6,idp_out_camp,idp_out_camp_al.mussyab
+24171,Al-Mussyab,Hay Al Moatnen 3,?? ????????? 3,32.78355036,44.26641899,Jurf Al-Sakhar,al.mussyab,babil,2341,0.061939342,145,6,idp_out_camp,idp_out_camp_al.mussyab
+29582,Al-Mussyab,Hay Al Moatnen 1,?? ????????? 1,32.78803072,44.26797728,Jurf Al-Sakhar,al.mussyab,babil,2341,0.039299445,92,6,idp_out_camp,idp_out_camp_al.mussyab
+7220,Al-Mussyab,Albo Hamdan,???? ?????,32.78539749,44.28417791,Jurf Al-Sakhar,al.mussyab,babil,2341,0.01409654,33,6,idp_out_camp,idp_out_camp_al.mussyab
+26125,Al-Mussyab,Hay Al Ghadeer 1,?????? 1,32.78810361,44.26738627,Jurf Al-Sakhar,al.mussyab,babil,2341,0.027765912,65,6,idp_out_camp,idp_out_camp_al.mussyab
+27255,Al-Adhamiya,Hay Al Rabee-334,?? ??????-334,33.40111532,44.35124615,Al-Fahama,al.adhamiya,baghdad,491,0.016293279,8,6,idp_out_camp,idp_out_camp_al.adhamiya
+25394,Al-Adhamiya,Bob Al Sham-361,??? ?????-361,33.46695109,44.38525036,Al-Fahama,al.adhamiya,baghdad,491,0.022403259,11,6,idp_out_camp,idp_out_camp_al.adhamiya
+24176,Al-Adhamiya,Hay Al Rabee-332,?? ??????-332,33.39802228,44.3537499,Al-Fahama,al.adhamiya,baghdad,491,0.061099796,30,6,idp_out_camp,idp_out_camp_al.adhamiya
+25397,Al-Adhamiya,Bob Al Sham-365,??? ?????-365,33.44643956,44.38621141,Al-Fahama,al.adhamiya,baghdad,491,0.018329939,9,6,idp_out_camp,idp_out_camp_al.adhamiya
+22777,Al-Adhamiya,Hay Al Rabee-340,?? ??????-340,33.40538339,44.3593348,Al-Fahama,al.adhamiya,baghdad,491,0.040733198,20,6,idp_out_camp,idp_out_camp_al.adhamiya
+22538,Al-Adhamiya,Tunis-330,????-330,33.40567668,44.36590738,Al-Fahama,al.adhamiya,baghdad,491,0.036659878,18,6,idp_out_camp,idp_out_camp_al.adhamiya
+23728,Al-Adhamiya,Adhamiya-310,????????-310,33.36576245,44.35338848,Markaz Al-Adhamiya,al.adhamiya,baghdad,491,0.022403259,11,6,idp_out_camp,idp_out_camp_al.adhamiya
+7730,Al-Adhamiya,Adhamia-312,????????-312,33.3702673,44.35609192,Markaz Al-Adhamiya,al.adhamiya,baghdad,491,0.107942974,53,6,idp_out_camp,idp_out_camp_al.adhamiya
+23999,Al-Adhamiya,Al Qahira-307,???????-307,33.37876786,44.39037264,Markaz Al-Adhamiya,al.adhamiya,baghdad,491,0.052953157,26,6,idp_out_camp,idp_out_camp_al.adhamiya
+24003,Al-Adhamiya,Al Shamasiyah-320,????????-320,33.38242472,44.37745988,Markaz Al-Adhamiya,al.adhamiya,baghdad,491,0.061099796,30,6,idp_out_camp,idp_out_camp_al.adhamiya
+7717,Al-Adhamiya,Adhamia-308,????????-308,33.36889192,44.36206417,Markaz Al-Adhamiya,al.adhamiya,baghdad,491,0.026476578,13,6,idp_out_camp,idp_out_camp_al.adhamiya
+23646,Al-Adhamiya,Adhamia-314,????????-314,33.37231728,44.36462593,Markaz Al-Adhamiya,al.adhamiya,baghdad,491,0.091649695,45,6,idp_out_camp,idp_out_camp_al.adhamiya
+24002,Al-Adhamiya,Al Shamasiyah-316,????????-316,33.37283799,44.37454008,Markaz Al-Adhamiya,al.adhamiya,baghdad,491,0.048879837,24,6,idp_out_camp,idp_out_camp_al.adhamiya
+24004,Al-Adhamiya,Al Maghreb-302,??????-302,33.35775724,44.38098462,Markaz Al-Adhamiya,al.adhamiya,baghdad,491,0.022403259,11,6,idp_out_camp,idp_out_camp_al.adhamiya
+23867,Al-Kadhmiyah,Al-Nasir Walsalam-1000,????? ???????-1000,33.30058432,44.04183549,Abu Ghraib,al.kadhmiyah,baghdad,1870,0.009090909,17,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+31711,Al-Kadhmiyah,Al Zaidan-Al sultan village,???????-???? ???????,33.2687573,44.04619052,Abu Ghraib,al.kadhmiyah,baghdad,1870,0.004812834,9,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+25126,Al-Kadhmiyah,Khan Dhari Center,??? ???? ????,33.2994514,44.05792398,Abu Ghraib,al.kadhmiyah,baghdad,1870,0.013368984,25,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+21173,Al-Kadhmiyah,1 Athar,1 ????,33.30332135,44.18543633,Abu Ghraib,al.kadhmiyah,baghdad,1870,0.03315508,62,12,idp_out_camp,idp_out_camp_al.kadhmiyah
+31714,Al-Kadhmiyah,Shuhada Markza-Shuhdda the second,??????? ??????-????? ???????,33.30905301,44.15002481,Abu Ghraib,al.kadhmiyah,baghdad,1870,0.03315508,62,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+7658,Al-Kadhmiyah,Al-Resalah,???????,33.29721044,44.11908434,Abu Ghraib,al.kadhmiyah,baghdad,1870,0.023529412,44,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+27247,Al-Kadhmiyah,Al Shams complex,???? ?????,33.31451807,44.02124715,Abu Ghraib,al.kadhmiyah,baghdad,1870,0.073796791,138,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+25185,Al-Kadhmiyah,Awad Al Hussain village,???? ???? ??????,33.55010522,44.19331218,Al-Taji,al.kadhmiyah,baghdad,1870,0.003743316,7,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+27413,Al-Kadhmiyah,Al Ahnaf-Al Rakia Fadel village,??????-????? ?????,33.43497456,44.24392406,Al-Taji,al.kadhmiyah,baghdad,1870,0.020320856,38,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+25164,Al-Kadhmiyah,Sabea Al Buor-8000,??? ?????-8000,33.45256226,44.15676736,Al-Taji,al.kadhmiyah,baghdad,1870,0.004812834,9,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+24063,Al-Kadhmiyah,Al-Abayechi-1,????????-1,33.73487167,44.39270793,Al-Tarmiya,al.kadhmiyah,baghdad,1870,0.010160428,19,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+21685,Al-Kadhmiyah,Al Khadraa village,???? ???????,33.67630777,44.37298674,Al-Tarmiya,al.kadhmiyah,baghdad,1870,0.011229947,21,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+25424,Al-Kadhmiyah,Hai Al Qadessia-2,?? ????????-2,33.67153192,44.37190248,Al-Tarmiya,al.kadhmiyah,baghdad,1870,0.022459893,42,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+25022,Al-Kadhmiyah,Al Gserin Village,???? ??????,33.69205073,44.43516278,Al-Tarmiya,al.kadhmiyah,baghdad,1870,0.012834225,24,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+27312,Al-Kadhmiyah,Shoala-448,??????-448,33.36076863,44.29700415,Markaz Al-Kadhimiya,al.kadhmiyah,baghdad,1870,0.003208556,6,6,idp_out_camp,idp_out_camp_al.kadhmiyah
+24073,Al-Karkh,Shurtah Al Hader-846,???? ?????-846,33.24231078,44.40771872,Al-Mamoon,al.karkh,baghdad,1489,0.02014775,30,6,idp_out_camp,idp_out_camp_al.karkh
+7640,Al-Karkh,Hay al jamiyah (Al Masfi)-842,?? ???????-842(???????),33.25248127,44.42333828,Al-Mamoon,al.karkh,baghdad,1489,0.016789792,25,6,idp_out_camp,idp_out_camp_al.karkh
+23984,Al-Karkh,Al Toma(Al Masfi)-826,??????-826(???????),33.24922773,44.39374898,Al-Mamoon,al.karkh,baghdad,1489,0.065815984,98,6,idp_out_camp,idp_out_camp_al.karkh
+21460,Al-Karkh,Al Khadraa-639,???????-639,33.3202051,44.2975542,Al-Mansour,al.karkh,baghdad,1489,0.0161182,24,6,idp_out_camp,idp_out_camp_al.karkh
+24065,Al-Karkh,Al Ghazaliyah-685,????????-685,33.33179204,44.27015784,Al-Mansour,al.karkh,baghdad,1489,0.0080591,12,6,idp_out_camp,idp_out_camp_al.karkh
+23727,Al-Karkh,Al Jameah-627,???????-627,33.31017679,44.32510784,Al-Mansour,al.karkh,baghdad,1489,0.0080591,12,6,idp_out_camp,idp_out_camp_al.karkh
+21450,Al-Karkh,Al Amerya-634,????????-634,33.29144128,44.29513377,Al-Mansour,al.karkh,baghdad,1489,0.012760242,19,6,idp_out_camp,idp_out_camp_al.karkh
+21448,Al-Karkh,Al Amreya-630,????????-630,33.30167331,44.29399727,Al-Mansour,al.karkh,baghdad,1489,0.009402283,14,6,idp_out_camp,idp_out_camp_al.karkh
+25206,Al-Karkh,Al Khadraa-640,???????-640,33.32343766,44.29545214,Al-Mansour,al.karkh,baghdad,1489,0.02014775,30,6,idp_out_camp,idp_out_camp_al.karkh
+26041,Al-Karkh,Al Jameah-635,??????? 635,33.32690839,44.31788627,Al-Mansour,al.karkh,baghdad,1489,0.013431833,20,6,idp_out_camp,idp_out_camp_al.karkh
+27409,Al-Karkh,Al Saydia-835,???????-835,33.23276431,44.35908273,Al-Mansour,al.karkh,baghdad,1489,0.008730692,13,6,idp_out_camp,idp_out_camp_al.karkh
+27191,Al-Karkh,Al Resala-855,???????-855,33.24271644,44.32232939,Al-Mansour,al.karkh,baghdad,1489,0.009402283,14,6,idp_out_camp,idp_out_camp_al.karkh
+25221,Al-Karkh,Al Forat-893,??????-893,33.27592422,44.27631613,Al-Mansour,al.karkh,baghdad,1489,0.021490934,32,6,idp_out_camp,idp_out_camp_al.karkh
+26100,Al-Karkh,Hay Al Jehad-881,?? ??????-881,33.2811269,44.29810131,Al-Mansour,al.karkh,baghdad,1489,0.0080591,12,6,idp_out_camp,idp_out_camp_al.karkh
+27289,Al-Karkh,Al Salahiya-222,????????-222,33.32542042,44.39021553,Markaz Al-Karkh,al.karkh,baghdad,1489,0.006044325,9,6,idp_out_camp,idp_out_camp_al.karkh
+25150,Al-Mahmoudiya,Al Latefia-Al Qadessia,????????-?? ????????,32.9704057,44.35331546,Al-Latifya,al.mahmoudiya,baghdad,955,0.164397906,157,18,idp_out_camp,idp_out_camp_al.mahmoudiya
+23618,Al-Mahmoudiya,14 Tamooz,?? 14 ????,32.96256919,44.3553264,Al-Latifya,al.mahmoudiya,baghdad,955,0.086910995,83,12,idp_out_camp,idp_out_camp_al.mahmoudiya
+25149,Al-Mahmoudiya,Al Latefia-Al Salam,????????-??????,32.99962534,44.36111224,Al-Latifya,al.mahmoudiya,baghdad,955,0.093193717,89,30,idp_out_camp,idp_out_camp_al.mahmoudiya
+7733,Al-Mahmoudiya,Hay Al Zuhoor,?? ??????,32.9673387,44.36388038,Al-Latifya,al.mahmoudiya,baghdad,955,0.062827225,60,12,idp_out_camp,idp_out_camp_al.mahmoudiya
+25152,Al-Mahmoudiya,Kilo 18,???? 18,32.96327341,44.36306106,Al-Latifya,al.mahmoudiya,baghdad,955,0.187434555,179,12,idp_out_camp,idp_out_camp_al.mahmoudiya
+7583,Al-Mahmoudiya,Hoor Rajab,??? ???,33.19381632,44.41457366,Al-Rasheed,al.mahmoudiya,baghdad,955,0.021989529,21,6,idp_out_camp,idp_out_camp_al.mahmoudiya
+7587,Al-Mahmoudiya,Al Radwania,????? ?????????,33.14601121,44.29942013,Al-Rasheed,al.mahmoudiya,baghdad,955,0.062827225,60,18,idp_out_camp,idp_out_camp_al.mahmoudiya
+29523,Al-Mahmoudiya,Hay Al Shuhada(Al kragolyia),?? ???????(?????????),33.06663345,44.23348447,Al-Yousifya,al.mahmoudiya,baghdad,955,0.015706806,15,6,idp_out_camp,idp_out_camp_al.mahmoudiya
+27252,Al-Mahmoudiya,Hay Al Rasul,?? ??????,33.04667553,44.35823423,Markaz Al-Mahmoudiya,al.mahmoudiya,baghdad,955,0.009424084,9,6,idp_out_camp,idp_out_camp_al.mahmoudiya
+24194,Al-Khalis,Dalli Abass-Al-Dhobat Qtr,??? ????-?? ??????,34.07345133,44.85486611,Al-Mansouriyah,al.khalis,diyala,732,0.034153005,25,6,idp_out_camp,idp_out_camp_al.khalis
+25036,Al-Khalis,Hibhib-Al Shohadaa Qtr,????-?? ???????,33.78024649,44.51435203,Hibhib,al.khalis,diyala,732,0.051912568,38,6,idp_out_camp,idp_out_camp_al.khalis
+10445,Al-Khalis,Markaz Hibhib,???? ????,33.78385382,44.5147,Hibhib,al.khalis,diyala,732,0.148907104,109,24,idp_out_camp,idp_out_camp_al.khalis
+25032,Al-Khalis,Hibhib-Al Askary Qtr,???? ???????,33.78239452,44.51642267,Hibhib,al.khalis,diyala,732,0.017759563,13,6,idp_out_camp,idp_out_camp_al.khalis
+25027,Al-Khalis,Hibhib-Al Asry Qtr,???? ??????,33.78093491,44.51431992,Hibhib,al.khalis,diyala,732,0.016393443,12,6,idp_out_camp,idp_out_camp_al.khalis
+25815,Al-Khalis,Al Hadid-Al Benook Qtr,??????-?? ??????,33.76017127,44.55013006,Hibhib,al.khalis,diyala,732,0.027322404,20,6,idp_out_camp,idp_out_camp_al.khalis
+22041,Al-Khalis,Al Qadissiya Qtr,?? ????????,33.78479677,44.50173849,Hibhib,al.khalis,diyala,732,0.054644809,40,6,idp_out_camp,idp_out_camp_al.khalis
+11195,Al-Khalis,Al Ghalbiya,????????,33.73158221,44.4798689,Hibhib,al.khalis,diyala,732,0.080601093,59,6,idp_out_camp,idp_out_camp_al.khalis
+25814,Al-Khalis,Al Hadid Old,?????? ???????,33.76917611,44.55980974,Hibhib,al.khalis,diyala,732,0.027322404,20,12,idp_out_camp,idp_out_camp_al.khalis
+11206,Al-Khalis,Hawaish Village,???? ??????,33.68388191,44.42372425,Hibhib,al.khalis,diyala,732,0.009562842,7,6,idp_out_camp,idp_out_camp_al.khalis
+11425,Al-Khalis,Jadidat Al Shat village,???? ????? ????,33.6419951,44.42236362,Hibhib,al.khalis,diyala,732,0.081967213,60,12,idp_out_camp,idp_out_camp_al.khalis
+11463,Baquba,Had Mekser,?? ????,33.84365721,44.64439696,Beni Saad,baquba,diyala,3702,0.01269584,47,12,idp_out_camp,idp_out_camp_baquba
+11411,Baquba,Al Sabtiyah village,???? ???????,33.78342225,44.62301762,Beni Saad,baquba,diyala,3702,0.010264722,38,6,idp_out_camp,idp_out_camp_baquba
+23740,Baquba,Al Hawidar,???????,33.77258785,44.62592738,Beni Saad,baquba,diyala,3702,0.008373852,31,6,idp_out_camp,idp_out_camp_baquba
+24915,Baquba,Al Gatoon-Al rahma,???????-??????,33.75714188,44.60148087,Beni Saad,baquba,diyala,3702,0.113452188,420,6,idp_out_camp,idp_out_camp_baquba
+24805,Baquba,Al Gatoon-Al Yarmook Qtr,???????-?? ???????,33.72419303,44.6079515,Beni Saad,baquba,diyala,3702,0.18719611,693,12,idp_out_camp,idp_out_camp_baquba
+11189,Baquba,Al Mafraq,??????,33.74319557,44.6104473,Beni Saad,baquba,diyala,3702,0.06915181,256,12,idp_out_camp,idp_out_camp_baquba
+24914,Baquba,Um Al Edam Village,???? ?? ??????,33.71895833,44.62231116,Beni Saad,baquba,diyala,3702,0.008373852,31,6,idp_out_camp,idp_out_camp_baquba
+11177,Baquba,Al Gatoon-Al Mujama Qtr,???????-?? ??????,33.75767092,44.58205894,Beni Saad,baquba,diyala,3702,0.022960562,85,6,idp_out_camp,idp_out_camp_baquba
+24917,Baquba,Al Sadah Village,???? ?????? ,33.48143074,44.52537636,Beni Saad,baquba,diyala,3702,0.003511615,13,6,idp_out_camp,idp_out_camp_baquba
+23694,Baquba,Al Intesar-1 Qtr,?? ???????? 1,33.58422006,44.55428868,Beni Saad,baquba,diyala,3702,0.018098325,67,6,idp_out_camp,idp_out_camp_baquba
+11178,Baquba,Al Tahreer,???????,33.73856555,44.64968108,Buhriz,baquba,diyala,3702,0.098595354,365,6,idp_out_camp,idp_out_camp_baquba
+11250,Baquba,Al Dawasir Qtr,?? ???????,33.7012487,44.65803445,Buhriz,baquba,diyala,3702,0.008103728,30,6,idp_out_camp,idp_out_camp_baquba
+25042,Baquba,Sesbana Village,???? ???????,33.68877239,44.82864561,Kanan,baquba,diyala,3702,0.004051864,15,6,idp_out_camp,idp_out_camp_baquba
+25257,Khanaqin,Bakhtiari Qtr,?? ???????,34.31442726,45.35651784,Markaz Khanaqin,khanaqin,diyala,1806,0.212624585,384,30,idp_out_camp,idp_out_camp_khanaqin
+24312,Khanaqin,Imam Abass Qtr,?? ???? ????,34.34230051,45.36063392,Markaz Khanaqin,khanaqin,diyala,1806,0.088039867,159,6,idp_out_camp,idp_out_camp_khanaqin
+24403,Khanaqin,darwish village,???? ?????,34.39173275,45.30702866,Markaz Khanaqin,khanaqin,diyala,1806,0.003875969,7,6,idp_out_camp,idp_out_camp_khanaqin
+24351,Khanaqin,Mazrah Qtr,?? ?????,34.34415943,45.3888891,Markaz Khanaqin,khanaqin,diyala,1806,0.022702104,41,6,idp_out_camp,idp_out_camp_khanaqin
+25247,Khanaqin,Rapren-1 Qtr,?? ??????-1,34.32011997,45.38204111,Markaz Khanaqin,khanaqin,diyala,1806,0.019379845,35,6,idp_out_camp,idp_out_camp_khanaqin
+10666,Khanaqin,Jibraoh village,???? ??????,34.30690846,45.3884229,Markaz Khanaqin,khanaqin,diyala,1806,0.016611296,30,6,idp_out_camp,idp_out_camp_khanaqin
+24393,Khanaqin,Zurab village,???? ?????,34.35205123,45.34729711,Markaz Khanaqin,khanaqin,diyala,1806,0.023255814,42,12,idp_out_camp,idp_out_camp_khanaqin
+11047,Khanaqin,Tula Frosh Qtr,?? ???? ????,34.35788763,45.37631834,Markaz Khanaqin,khanaqin,diyala,1806,0.11627907,210,6,idp_out_camp,idp_out_camp_khanaqin
+24354,Khanaqin,Al Askari Qtr,?? ?????,34.34024972,45.40024431,Markaz Khanaqin,khanaqin,diyala,1806,0.027685493,50,6,idp_out_camp,idp_out_camp_khanaqin
+24405,Khanaqin,aldarawsha village,???? ????????,34.36014375,45.22063411,Markaz Khanaqin,khanaqin,diyala,1806,0.004429679,8,6,idp_out_camp,idp_out_camp_khanaqin
+10403,Khanaqin,Salih Agha village,???? ???? ???,34.5746093,45.3412701,Qaratu,khanaqin,diyala,1806,0.071982281,130,12,idp_out_camp,idp_out_camp_khanaqin
+3903,Kifri,Kulajo,????,34.4647981,45.1647359,Jabarra,kifri,diyala,2188,0.128427788,281,6,idp_out_camp,idp_out_camp_kifri
+6000,Kifri,Shaykh Lankar,??? ????,34.5555857,45.2481505,Jabarra,kifri,diyala,2188,0.08820841,193,12,idp_out_camp,idp_out_camp_kifri
+25429,Kifri,Markaz Jabara,?????,34.59153193,44.93544045,Jabarra,kifri,diyala,2188,0.061700183,135,12,idp_out_camp,idp_out_camp_kifri
+33394,Kifri,shahidan,??????,34.6841669,44.9520007,Jabarra,kifri,diyala,2188,0.021480804,47,6,idp_out_camp,idp_out_camp_kifri
+28430,Kifri,raparin,??????,34.6795417,44.9548963,Jabarra,kifri,diyala,2188,0.030621572,67,6,idp_out_camp,idp_out_camp_kifri
+28427,Kifri,Hawari new,????? ???,34.6906938,44.9505876,Jabarra,kifri,diyala,2188,0.035648995,78,6,idp_out_camp,idp_out_camp_kifri
+28429,Kifri,shoresh,????,34.6865702,44.9527278,Jabarra,kifri,diyala,2188,0.024680073,54,6,idp_out_camp,idp_out_camp_kifri
+31930,Kifri,Sangaw,?????,34.66792962,45.2251869,Markaz Kifri,kifri,diyala,2188,0.084095064,184,6,idp_out_camp,idp_out_camp_kifri
+6161,Kifri,Shakal,?????,34.66556899,45.2202165,Markaz Kifri,kifri,diyala,2188,0.091407678,200,6,idp_out_camp,idp_out_camp_kifri
+28424,Kifri,mamostayan,??????????,34.6897689,44.9563149,Markaz Kifri,kifri,diyala,2188,0.015996344,35,6,idp_out_camp,idp_out_camp_kifri
+11023,Kifri,sar qala,???????,34.7427975,45.0653236,Markaz Kifri,kifri,diyala,2188,0.058500914,128,6,idp_out_camp,idp_out_camp_kifri
+28422,Kifri,awbrey,?????,34.7036343,44.968331,Markaz Kifri,kifri,diyala,2188,0.035191956,77,6,idp_out_camp,idp_out_camp_kifri
+28428,Kifri,rezgari,??????,34.6936463,44.9614081,Markaz Kifri,kifri,diyala,2188,0.02559415,56,6,idp_out_camp,idp_out_camp_kifri
+10592,Kifri,Qaratappa,??? ???,34.43031631,44.9289786,Qara Tabe,kifri,diyala,2188,0.052559415,115,6,idp_out_camp,idp_out_camp_kifri
+23903,Al-Amadiya,Kaniya Mala,????? ????,37.10090442,43.4951567,Markaz Al-Amadiya,al.amadiya,duhok,507,0.049309665,25,12,idp_out_camp,idp_out_camp_al.amadiya
+8171,Al-Amadiya,Aradin,?????,37.10861067,43.31982766,Sarsank,al.amadiya,duhok,507,0.013806706,7,6,idp_out_camp,idp_out_camp_al.amadiya
+8335,Al-Amadiya,Spindare,????????,36.97084612,43.3169068,Sarsank,al.amadiya,duhok,507,0.037475345,19,6,idp_out_camp,idp_out_camp_al.amadiya
+7770,Al-Amadiya,Chamanke,??????,36.9379561,43.4127922,Sarsank,al.amadiya,duhok,507,0.191321499,97,24,idp_out_camp,idp_out_camp_al.amadiya
+7768,Al-Amadiya,Mizi Village,???? ????,36.94530948,43.39186787,Sarsank,al.amadiya,duhok,507,0.102564103,52,12,idp_out_camp,idp_out_camp_al.amadiya
+27120,Al-Amadiya,Nahla Area,????? ????,36.86370972,43.69317721,Sarsank,al.amadiya,duhok,507,0.088757396,45,6,idp_out_camp,idp_out_camp_al.amadiya
+7867,Al-Amadiya,Sikreen,?????,37.03908289,43.27967089,Sarsank,al.amadiya,duhok,507,0.013806706,7,6,idp_out_camp,idp_out_camp_al.amadiya
+7862,Al-Amadiya,Qadish Collective,???,37.10053202,43.38539942,Sarsank,al.amadiya,duhok,507,0.027613412,14,6,idp_out_camp,idp_out_camp_al.amadiya
+7896,Al-Amadiya,Benata,??????,37.08602186,43.37602869,Sarsank,al.amadiya,duhok,507,0.01183432,6,6,idp_out_camp,idp_out_camp_al.amadiya
+7835,Al-Amadiya,Sarsink,?????,37.03931455,43.34292255,Sarsank,al.amadiya,duhok,507,0.136094675,69,12,idp_out_camp,idp_out_camp_al.amadiya
+26047,Duhok,Botan,?????,36.87030083,42.9719216,Markaz Duhok,duhok,duhok,5152,0.016886646,87,12,idp_out_camp,idp_out_camp_duhok
+24092,Duhok,Masik-1,????? 1,36.8811634,42.94833432,Markaz Duhok,duhok,duhok,5152,0.031638199,163,6,idp_out_camp,idp_out_camp_duhok
+23711,Duhok,Gali Dohuk,??? ????,36.86387487,43.00612433,Markaz Duhok,duhok,duhok,5152,0.004076087,21,6,idp_out_camp,idp_out_camp_duhok
+21509,Duhok,Kari Basi,??? ????,36.86809225,42.99187388,Markaz Duhok,duhok,duhok,5152,0.034743789,179,12,idp_out_camp,idp_out_camp_duhok
+8867,Duhok,Zeri Land,??? ????,36.87028339,42.95867599,Markaz Duhok,duhok,duhok,5152,0.097826087,504,6,idp_out_camp,idp_out_camp_duhok
+21971,Duhok,Shorash (Al Jamyah),???? (???????),36.87048266,42.99201547,Markaz Duhok,duhok,duhok,5152,0.024456522,126,6,idp_out_camp,idp_out_camp_duhok
+26052,Duhok,Bintika,??????,36.84552054,43.00882806,Markaz Duhok,duhok,duhok,5152,0.005046584,26,6,idp_out_camp,idp_out_camp_duhok
+24186,Duhok,Zirka,????,36.87113012,42.9301075,Markaz Duhok,duhok,duhok,5152,0.023680124,122,6,idp_out_camp,idp_out_camp_duhok
+7945,Duhok,Baroshke,??????,36.85521913,43.02227054,Markaz Duhok,duhok,duhok,5152,0.052600932,271,18,idp_out_camp,idp_out_camp_duhok
+24628,Duhok,Etit,?????,36.84470408,43.08233021,Zawita,duhok,duhok,5152,0.041149068,212,6,idp_out_camp,idp_out_camp_duhok
+8687,Duhok,Bablu,?????,36.8763063,43.12508353,Zawita,duhok,duhok,5152,0.009704969,50,6,idp_out_camp,idp_out_camp_duhok
+7949,Duhok,Eminke,??????,36.85985898,43.09515691,Zawita,duhok,duhok,5152,0.024456522,126,6,idp_out_camp,idp_out_camp_duhok
+25898,Duhok,Avrike,??????,36.83176403,43.11903998,Zawita,duhok,duhok,5152,0.04076087,210,6,idp_out_camp,idp_out_camp_duhok
+8044,Sumail,Bajit Kandala,???? ?????,37.04725789,42.45105377,Bateel,sumail,duhok,13647,0.006375027,87,6,idp_out_camp,idp_out_camp_sumail
+24596,Sumail,Tanahi,?????,36.86240581,42.90319996,Markaz Sumail,sumail,duhok,13647,0.016340588,223,6,idp_out_camp,idp_out_camp_sumail
+27125,Sumail,Old Qasr Yazddin,???????? ?????,36.82102052,42.80731936,Markaz Sumail,sumail,duhok,13647,0.011431084,156,6,idp_out_camp,idp_out_camp_sumail
+24800,Sumail,Avro City,???? ????,36.85742887,42.90769701,Markaz Sumail,sumail,duhok,13647,0.076353777,1042,6,idp_out_camp,idp_out_camp_sumail
+8873,Sumail,Misereek,??????,36.86255038,42.80520153,Markaz Sumail,sumail,duhok,13647,0.068586503,936,6,idp_out_camp,idp_out_camp_sumail
+29614,Sumail,Kar City,??? ???,36.89144536,42.79901263,Markaz Sumail,sumail,duhok,13647,0.010844874,148,6,idp_out_camp,idp_out_camp_sumail
+7989,Sumail,Seje,????,36.91326388,42.88533819,Markaz Sumail,sumail,duhok,13647,0.036491537,498,12,idp_out_camp,idp_out_camp_sumail
+25622,Sumail,Moaskar Domiz,????? ?????,36.78763716,42.90502026,Sindi,sumail,duhok,13647,0.026672529,364,12,idp_out_camp,idp_out_camp_sumail
+8369,Sumail,Shariya,?????,36.78613016,42.97378716,Sindi,sumail,duhok,13647,0.287975379,3930,36,idp_out_camp,idp_out_camp_sumail
+8800,Sumail,Kherava,??????,36.77553199,42.78317992,Sindi,sumail,duhok,13647,0.02051733,280,6,idp_out_camp,idp_out_camp_sumail
+27124,Sumail,New Zinya,????? ?????,36.78585152,42.78014831,Sindi,sumail,duhok,13647,0.03048289,416,6,idp_out_camp,idp_out_camp_sumail
+32029,Zakho,Rkawa Sector,???? ?????,37.14479623,42.68527911,Dercar,zakho,duhok,8473,0.020653842,175,6,idp_out_camp,idp_out_camp_zakho
+32033,Zakho,Kochka Honari,???? ????? ??????,37.16704305,42.68757245,Dercar,zakho,duhok,8473,0.101498879,860,6,idp_out_camp,idp_out_camp_zakho
+32030,Zakho,Shabaniya Sector,???? ???????,37.14830789,42.68457356,Dercar,zakho,duhok,8473,0.090286793,765,6,idp_out_camp,idp_out_camp_zakho
+32024,Zakho,Ashe Chami Sector,???? ??? ???,37.14905058,42.67507105,Dercar,zakho,duhok,8473,0.043786144,371,6,idp_out_camp,idp_out_camp_zakho
+32028,Zakho,Khrababka Sector,???? ????????,37.14817588,42.74712896,Markaz Zakho,zakho,duhok,8473,0.095715803,811,24,idp_out_camp,idp_out_camp_zakho
+32032,Zakho,Firqa Sector,???? ????,37.15799712,42.70888115,Markaz Zakho,zakho,duhok,8473,0.101380857,859,12,idp_out_camp,idp_out_camp_zakho
+32027,Zakho,Bedar Sector,???? ?????,37.14667665,42.6455226,Markaz Zakho,zakho,duhok,8473,0.137613596,1166,18,idp_out_camp,idp_out_camp_zakho
+32031,Zakho,Abasiya Sector,???? ??????,37.14531861,42.7077838,Markaz Zakho,zakho,duhok,8473,0.11365514,963,24,idp_out_camp,idp_out_camp_zakho
+25992,Zakho,Diraboon,??????,37.08555153,42.42724897,Markaz Zakho,zakho,duhok,8473,0.06951493,589,6,idp_out_camp,idp_out_camp_zakho
+8620,Zakho,Qarawla,?????,37.12356417,42.43683536,Markaz Zakho,zakho,duhok,8473,0.001888351,16,6,idp_out_camp,idp_out_camp_zakho
+20980,Erbil,Ainkawa(108),108 ??????,36.24349834,43.983621,Markaz Erbil,erbil,erbil,31104,0.023115998,719,6,idp_out_camp,idp_out_camp_erbil
+13685,Erbil,Andazyaran,?? ?????????,36.2005896,44.1217624,Markaz Erbil,erbil,erbil,31104,0.013117284,408,6,idp_out_camp,idp_out_camp_erbil
+25973,Erbil,Harem,????,36.11937226,44.0630427,Markaz Erbil,erbil,erbil,31104,0.002925669,91,12,idp_out_camp,idp_out_camp_erbil
+24308,Erbil,Zaiton Collective,???? ?????,36.13702177,44.0659664,Markaz Erbil,erbil,erbil,31104,0.050797325,1580,6,idp_out_camp,idp_out_camp_erbil
+12826,Erbil,Mamzawa,???????,36.11909237,43.963592,Markaz Erbil,erbil,erbil,31104,0.047614455,1481,18,idp_out_camp,idp_out_camp_erbil
+25727,Erbil,Kani Qarzhala,???? ??????,36.2067298,43.8592122,Markaz Erbil,erbil,erbil,31104,0.006526492,203,6,idp_out_camp,idp_out_camp_erbil
+33883,Erbil,Nazimawa,???????,36.11368557,43.95286573,Markaz Erbil,erbil,erbil,31104,0.01244213,387,6,idp_out_camp,idp_out_camp_erbil
+21899,Erbil,Rizgari,??????,36.2797368,43.7341817,Markaz Erbil,erbil,erbil,31104,0.021476337,668,12,idp_out_camp,idp_out_camp_erbil
+27214,Erbil,Shorsh(Malayan),????(??????),36.213827,44.02088648,Markaz Erbil,erbil,erbil,31104,0.006526492,203,6,idp_out_camp,idp_out_camp_erbil
+20997,Erbil,Runaki,??????,36.16957159,44.01818971,Markaz Erbil,erbil,erbil,31104,0.003247171,101,6,idp_out_camp,idp_out_camp_erbil
+20790,Erbil,Havalan,??????,36.1898498,44.04897347,Markaz Erbil,erbil,erbil,31104,0.009484311,295,6,idp_out_camp,idp_out_camp_erbil
+33878,Erbil,Mizori,?????,35.9961654,44.0386959,Qushtappa,erbil,erbil,31104,0.007716049,240,6,idp_out_camp,idp_out_camp_erbil
+25630,Erbil,Kawa Collective,???? ????,35.9790143,44.0373527,Qushtappa,erbil,erbil,31104,0.027970679,870,6,idp_out_camp,idp_out_camp_erbil
+24598,Koysinjaq,Azady,?????,36.0848782,44.6389829,Markaz Koysinjaq,koysinjaq,erbil,587,0.102214651,60,24,idp_out_camp,idp_out_camp_koysinjaq
+27222,Koysinjaq,Nawdaran,????????,36.0572663,44.6371874,Markaz Koysinjaq,koysinjaq,erbil,587,0.025553663,15,12,idp_out_camp,idp_out_camp_koysinjaq
+24597,Koysinjaq,Bazar koya(Bafri qndeel),????? ????(???? ?????),36.083679,44.6287855,Markaz Koysinjaq,koysinjaq,erbil,587,0.102214651,60,18,idp_out_camp,idp_out_camp_koysinjaq
+12371,Koysinjaq,Bayizagha,???????,36.0874678,44.629339,Markaz Koysinjaq,koysinjaq,erbil,587,0.093696763,55,18,idp_out_camp,idp_out_camp_koysinjaq
+24484,Koysinjaq,Armota,??????,36.0681566,44.6072378,Markaz Koysinjaq,koysinjaq,erbil,587,0.042589438,25,6,idp_out_camp,idp_out_camp_koysinjaq
+23280,Koysinjaq,Qalat,????,36.0863765,44.6269879,Markaz Koysinjaq,koysinjaq,erbil,587,0.161839864,95,18,idp_out_camp,idp_out_camp_koysinjaq
+33885,Koysinjaq,Sarbasti,??????,35.8920885,44.5878719,Taq Taq,koysinjaq,erbil,587,0.090289608,53,6,idp_out_camp,idp_out_camp_koysinjaq
+11887,Koysinjaq,Taqtaq,????,35.8872085,44.5837756,Taq Taq,koysinjaq,erbil,587,0.166950596,98,12,idp_out_camp,idp_out_camp_koysinjaq
+13141,Rawanduz,Soran District,???? ???? ?????,36.6552912,44.5406644,Diana,rawanduz,erbil,407,0.577395577,235,60,idp_out_camp,idp_out_camp_rawanduz
+31780,Rawanduz,Delzyan,??????,36.6681032,44.5273977,Diana,rawanduz,erbil,407,0.029484029,12,12,idp_out_camp,idp_out_camp_rawanduz
+27199,Rawanduz,kawrarash,?????,36.6093691,44.4027153,Khailfan,rawanduz,erbil,407,0.024570025,10,6,idp_out_camp,idp_out_camp_rawanduz
+27198,Rawanduz,Hay mameel al qeer,?? ???? ?????,36.5919395,44.3860076,Khailfan,rawanduz,erbil,407,0.024570025,10,6,idp_out_camp,idp_out_camp_rawanduz
+12277,Rawanduz,Khalifan(center),????(??????),36.6098454,44.4056227,Khailfan,rawanduz,erbil,407,0.051597052,21,6,idp_out_camp,idp_out_camp_rawanduz
+12597,Rawanduz,Rawanduz District,???? ???????,36.61405134,44.5269909,Markaz Rawanduz,rawanduz,erbil,407,0.098280098,40,6,idp_out_camp,idp_out_camp_rawanduz
+27200,Rawanduz,Hamya,?????,36.6221652,44.5447272,Markaz Rawanduz,rawanduz,erbil,407,0.029484029,12,6,idp_out_camp,idp_out_camp_rawanduz
+27225,Rawanduz,Markaz Mergasur,???? ???????,36.8353167,44.3131953,Mergasur,rawanduz,erbil,407,0.085995086,35,12,idp_out_camp,idp_out_camp_rawanduz
+13372,Shaqlawa,Harir-Batas,????-?????,36.5603397,44.33427473,Harir,shaqlawa,erbil,852,0.041079812,35,6,idp_out_camp,idp_out_camp_shaqlawa
+12172,Shaqlawa,Harir,????,36.5502052,44.3453688,Harir,shaqlawa,erbil,852,0.146713615,125,12,idp_out_camp,idp_out_camp_shaqlawa
+12079,Shaqlawa,Hiran,????? ,36.2772151,44.49314569,Khoshnaw,shaqlawa,erbil,852,0.071596244,61,6,idp_out_camp,idp_out_camp_shaqlawa
+12948,Shaqlawa,Sarmidan-1(Ashti),??????? 1(????),36.4129364,44.3029433,Khoshnaw,shaqlawa,erbil,852,0.096244131,82,18,idp_out_camp,idp_out_camp_shaqlawa
+23698,Shaqlawa,Sabirawa,????????,36.4015164,44.3458974,Khoshnaw,shaqlawa,erbil,852,0.085680751,73,6,idp_out_camp,idp_out_camp_shaqlawa
+23713,Shaqlawa,Betrma,??????,36.3946488,44.3424598,Khoshnaw,shaqlawa,erbil,852,0.105633803,90,18,idp_out_camp,idp_out_camp_shaqlawa
+12957,Shaqlawa,Spigra,???????,36.3829007,44.3770004,Khoshnaw,shaqlawa,erbil,852,0.029342723,25,12,idp_out_camp,idp_out_camp_shaqlawa
+23741,Shaqlawa,Safeen,????,36.4035677,44.3126218,Khoshnaw,shaqlawa,erbil,852,0.083333333,71,18,idp_out_camp,idp_out_camp_shaqlawa
+23742,Shaqlawa,Shahedan,??????,36.4075659,44.3186095,Khoshnaw,shaqlawa,erbil,852,0.15258216,130,12,idp_out_camp,idp_out_camp_shaqlawa
+26060,Kerbela,Al Ameshea 2,???????? 2,32.65803488,44.05852714,Al-Hassainya,kerbela,kerbala,2208,0.015851449,35,6,idp_out_camp,idp_out_camp_kerbela
+14167,Kerbela,Al-Abrahmeiah (Al hafed),??????????? (??????),32.66017843,44.14028872,Al-Hassainya,kerbela,kerbala,2208,0.028532609,63,6,idp_out_camp,idp_out_camp_kerbela
+24285,Kerbela,Al-Safiya 2,??????? 2,32.65702365,44.0509545,Al-Hassainya,kerbela,kerbala,2208,0.211956522,468,30,idp_out_camp,idp_out_camp_kerbela
+14037,Kerbela,Al-zabaylah,???????? ,32.60069416,44.1040392,Al-Hassainya,kerbela,kerbala,2208,0.027173913,60,6,idp_out_camp,idp_out_camp_kerbela
+32057,Kerbela,Abu Tharr complex,???? ??? ??,32.54620523,44.08923593,Markaz Kerbela,kerbela,kerbala,2208,0.022644928,50,6,idp_out_camp,idp_out_camp_kerbela
+25061,Kerbela,Al Hurr Al Sager,???? ??????,32.6524887,43.9948325,Markaz Kerbela,kerbela,kerbala,2208,0.020833333,46,6,idp_out_camp,idp_out_camp_kerbela
+14324,Kerbela,Al Muamnen(Elegal),????? ????????,32.64302658,43.9779922,Markaz Kerbela,kerbela,kerbala,2208,0.004528986,10,6,idp_out_camp,idp_out_camp_kerbela
+25262,Kerbela,Al Zohor,??????,32.59325,44.05294,Markaz Kerbela,kerbela,kerbala,2208,0.007246377,16,12,idp_out_camp,idp_out_camp_kerbela
+27265,Kerbela,Shuihadaa Al Amam Ali,????? ?????? ??? 2,32.5719858,44.0210812,Markaz Kerbela,kerbela,kerbala,2208,0.004528986,10,6,idp_out_camp,idp_out_camp_kerbela
+25780,Kerbela,Hay Al-Naser14,?? ?????14,32.5771676,44.00587049,Markaz Kerbela,kerbela,kerbala,2208,0.002717391,6,6,idp_out_camp,idp_out_camp_kerbela
+25358,Kerbela,Al Salam-1,??????1,32.5876564,44.00071746,Markaz Kerbela,kerbela,kerbala,2208,0.004076087,9,6,idp_out_camp,idp_out_camp_kerbela
+24137,Kerbela,Maitham Al Tammar,???? ?????? ,32.6180031,44.04344232,Markaz Kerbela,kerbela,kerbala,2208,0.012681159,28,6,idp_out_camp,idp_out_camp_kerbela
+25869,Daquq,Hay Shoraw-1,?????? 1 ?????,35.07323983,44.50280738,Markaz Daquq,daquq,kirkuk,861,0.037166086,32,6,idp_out_camp,idp_out_camp_daquq
+25739,Daquq,Laylan-Bash Bulaq village,???? ??? ?????,35.25255176,44.39470309,Markaz Daquq,daquq,kirkuk,861,0.139372822,120,12,idp_out_camp,idp_out_camp_daquq
+14786,Daquq,Fareeq Awa,?? ???? ???,35.13463604,44.43721897,Markaz Daquq,daquq,kirkuk,861,0.075493612,65,6,idp_out_camp,idp_out_camp_daquq
+33476,Daquq,Hay Al-Salam ( Daquq ),?? ?????? ( ????? ),35.15292917,44.44352438,Markaz Daquq,daquq,kirkuk,861,0.174216028,150,30,idp_out_camp,idp_out_camp_daquq
+15110,Daquq,Hay Klisa 1,?? ????? 1,35.1603029,44.4443694,Markaz Daquq,daquq,kirkuk,861,0.116144019,100,6,idp_out_camp,idp_out_camp_daquq
+21483,Daquq,Hay Nawroz ( Daquq),?? ????? ( ????? ),35.13885842,44.4397158,Markaz Daquq,daquq,kirkuk,861,0.099883856,86,6,idp_out_camp,idp_out_camp_daquq
+21453,Daquq,Hay Ashti,?? ????,35.14922041,44.44050858,Markaz Daquq,daquq,kirkuk,861,0.132404181,114,18,idp_out_camp,idp_out_camp_daquq
+33477,Daquq,Hay Runaki / Daquq,?? ?????? \ ?????,35.14833029,44.45463889,Markaz Daquq,daquq,kirkuk,861,0.104529617,90,12,idp_out_camp,idp_out_camp_daquq
+14960,Daquq,Taza-Omer Bin Khattab,???? ??? ?? ??????,35.23892701,44.38953719,Markaz Daquq,daquq,kirkuk,861,0.098722416,85,12,idp_out_camp,idp_out_camp_daquq
+14375,Dibis,Altun Kupri Center,???? ????? ????? ?????,35.75626625,44.13871317,Altun Qupri,dibis,kirkuk,348,0.08045977,28,5,idp_out_camp,idp_out_camp_dibis
+15449,Dibis,Bajwan,???? ??????,35.54110409,44.28188016,Altun Qupri,dibis,kirkuk,348,0.316091954,110,22,idp_out_camp,idp_out_camp_dibis
+15674,Dibis,Hay Al-Shuhadaa,?? ???????,35.6705349,44.06921792,Markaz Dibis,dibis,kirkuk,348,0.215517241,75,19,idp_out_camp,idp_out_camp_dibis
+24632,Dibis,Hay Al Muaasker,?? ???????,35.66729671,44.0748884,Markaz Dibis,dibis,kirkuk,348,0.158045977,55,13,idp_out_camp,idp_out_camp_dibis
+24631,Dibis,Hay Al Tanak,?? ?????,35.6605481,44.08992829,Markaz Dibis,dibis,kirkuk,348,0.229885057,80,6,idp_out_camp,idp_out_camp_dibis
+21016,Kirkuk,Hay Al Nassir,?? ?????,35.42784533,44.4071896,Markaz Kirkuk,kirkuk,kirkuk,13629,0.030816641,420,6,idp_out_camp,idp_out_camp_kirkuk
+31729,Kirkuk,Hay Al-Askary 2,?? ??????? 2,35.4061092,44.41361086,Markaz Kirkuk,kirkuk,kirkuk,13629,0.031550371,430,6,idp_out_camp,idp_out_camp_kirkuk
+15550,Kirkuk,Hay Al-Urooba,?? ???????,35.4296511,44.39183605,Markaz Kirkuk,kirkuk,kirkuk,13629,0.042482941,579,6,idp_out_camp,idp_out_camp_kirkuk
+31726,Kirkuk,Al-Qadisssiya(Rabareen) first,?? ?????????-??????-(???????? ?????) ???,35.41471699,44.41914669,Markaz Kirkuk,kirkuk,kirkuk,13629,0.029716047,405,18,idp_out_camp,idp_out_camp_kirkuk
+31728,Kirkuk,Hay Al-Askary 1,?? ??????? 1,35.40713495,44.40463988,Markaz Kirkuk,kirkuk,kirkuk,13629,0.035952748,490,6,idp_out_camp,idp_out_camp_kirkuk
+24084,Kirkuk,Al Tadamon(Hawkari),?? ???????-???????-,35.41012372,44.38730494,Markaz Kirkuk,kirkuk,kirkuk,13629,0.066035659,900,18,idp_out_camp,idp_out_camp_kirkuk
+22296,Kirkuk,Hay Al Jamia-Mahalla 622,?? ???????-622,35.40793818,44.32673626,Taza Khormato,kirkuk,kirkuk,13629,0.165822878,2260,36,idp_out_camp,idp_out_camp_kirkuk
+24453,Kirkuk,Al Takhi Village,???? ????,35.37670134,44.34932099,Taza Khormato,kirkuk,kirkuk,13629,0.024213075,330,6,idp_out_camp,idp_out_camp_kirkuk
+15648,Kirkuk,Al-Sayada Complex,???? ???????,35.3806587,44.33244497,Taza Khormato,kirkuk,kirkuk,13629,0.020177563,275,6,idp_out_camp,idp_out_camp_kirkuk
+23900,Kirkuk,Yaychi-Qaryat Turklan,???? ??????,35.38814883,44.27595199,Yaijy,kirkuk,kirkuk,13629,0.010639078,145,6,idp_out_camp,idp_out_camp_kirkuk
+20844,Al-Kahla,Hay Al Karar,?? ??????,31.84989086,47.1203488,Al-Msharah,al.kahla,maysan,204,0.044117647,9,12,idp_out_camp,idp_out_camp_al.kahla
+16835,Al-Kahla,Hay 15 Sahaban,?? 15 ?????,31.84490493,47.13287912,Al-Msharah,al.kahla,maysan,204,0.049019608,10,6,idp_out_camp,idp_out_camp_al.kahla
+15991,Al-Kahla,Hay Al Rasool,?? ??????,31.81918766,47.11993291,Al-Msharah,al.kahla,maysan,204,0.039215686,8,6,idp_out_camp,idp_out_camp_al.kahla
+24808,Al-Kahla,Eye of Missan,???? ?????,31.88447879,47.16787029,Al-Msharah,al.kahla,maysan,204,0.073529412,15,6,idp_out_camp,idp_out_camp_al.kahla
+22208,Al-Kahla,Al Salam,????? ??????-???? ???????,31.87811839,47.14734611,Al-Msharah,al.kahla,maysan,204,0.06372549,13,6,idp_out_camp,idp_out_camp_al.kahla
+24532,Al-Kahla,Al Hay Al JameI,???? ???????,31.80705921,47.17830026,Al-Msharah,al.kahla,maysan,204,0.524509804,107,42,idp_out_camp,idp_out_camp_al.kahla
+23622,Al-Kahla,Hay Al-Ameer,?? ??????,31.53134617,47.28924227,Markaz Al-Kahla,al.kahla,maysan,204,0.044117647,9,12,idp_out_camp,idp_out_camp_al.kahla
+34009,Al-Baaj,Al Intisar,?? ????????,36.049594,41.71278,Markaz Al-Baaj,al.baaj,ninewa,1188,0.179292929,213,42,idp_out_camp,idp_out_camp_al.baaj
+34010,Al-Baaj,Al-Dubaat,?? ??????,36.042967,41.711898,Markaz Al-Baaj,al.baaj,ninewa,1188,0.082491582,98,24,idp_out_camp,idp_out_camp_al.baaj
+34014,Al-Baaj,Hateen,?? ????,36.04616,41.722867,Markaz Al-Baaj,al.baaj,ninewa,1188,0.101851852,121,6,idp_out_camp,idp_out_camp_al.baaj
+34013,Al-Baaj,Al Askari,?? ???????,36.038799,41.718269,Markaz Al-Baaj,al.baaj,ninewa,1188,0.063131313,75,6,idp_out_camp,idp_out_camp_al.baaj
+34012,Al-Baaj,Alqadisya,?? ????????,36.038939,41.714346,Markaz Al-Baaj,al.baaj,ninewa,1188,0.067340067,80,12,idp_out_camp,idp_out_camp_al.baaj
+34008,Al-Baaj,Al-Risalah,?? ???????,36.044509,41.714508,Markaz Al-Baaj,al.baaj,ninewa,1188,0.185185185,220,18,idp_out_camp,idp_out_camp_al.baaj
+18349,Al-Baaj,Al-Yarmuk,?? ???????,36.044635,41.720289,Markaz Al-Baaj,al.baaj,ninewa,1188,0.106060606,126,6,idp_out_camp,idp_out_camp_al.baaj
+34011,Al-Baaj,Al-Thawra,?? ??????,36.038552,41.711969,Markaz Al-Baaj,al.baaj,ninewa,1188,0.157407407,187,36,idp_out_camp,idp_out_camp_al.baaj
+25816,Al-Hamdaniya,Bishryan,??????,36.3098007,43.67426823,Markaz Al-Hamdaniya,al.hamdaniya,ninewa,4340,0.006221198,27,6,idp_out_camp,idp_out_camp_al.hamdaniya
+24581,Al-Hamdaniya,Kalak,????,36.27122321,43.63670332,Markaz Al-Hamdaniya,al.hamdaniya,ninewa,4340,0.132258065,574,36,idp_out_camp,idp_out_camp_al.hamdaniya
+33475,Al-Hamdaniya,Zangal,????,36.23354303,43.60799284,Markaz Al-Hamdaniya,al.hamdaniya,ninewa,4340,0.011059908,48,18,idp_out_camp,idp_out_camp_al.hamdaniya
+12821,Al-Hamdaniya,Khabat,????,36.2768827,43.6727879,Markaz Al-Hamdaniya,al.hamdaniya,ninewa,4340,0.8359447,3628,312,idp_out_camp,idp_out_camp_al.hamdaniya
+17903,Al-Hamdaniya,Al-Salamiyah Village,???? ????????,36.14467202,43.31096659,Namroud,al.hamdaniya,ninewa,4340,0.005760369,25,6,idp_out_camp,idp_out_camp_al.hamdaniya
+27271,Al-Hatra,Tal abta,?? ????,35.94612983,42.5718261,Markaz Hatra,al.hatra,ninewa,211,0.744075829,157,33,idp_out_camp,idp_out_camp_al.hatra
+33114,Al-Hatra,Al-Amilah Village,???? ???????,35.78730103,42.99964293,Markaz Hatra,al.hatra,ninewa,211,0.061611374,13,6,idp_out_camp,idp_out_camp_al.hatra
+33115,Al-Hatra,Zaaziaa Village,???? ???????,35.81036035,43.02302444,Markaz Hatra,al.hatra,ninewa,211,0.028436019,6,2,idp_out_camp,idp_out_camp_al.hatra
+33164,Al-Hatra,Rmothaniat Al-rdin Village,???? ???????? ?????,35.61702195,42.9889707,Markaz Hatra,al.hatra,ninewa,211,0.028436019,6,4,idp_out_camp,idp_out_camp_al.hatra
+17126,Al-Hatra,Markaz AL-Hatra,???? ?????,35.57722514,42.73185209,Markaz Hatra,al.hatra,ninewa,211,0.137440758,29,14,idp_out_camp,idp_out_camp_al.hatra
+24549,Al-Mosul,Al Harmaat,???????,36.3624,43.0716,Al-Muhamadath,al.mosul,ninewa,16145,0.045401053,733,6,idp_out_camp,idp_out_camp_al.mosul
+18314,Al-Mosul,Hay Al Intisar,????????,36.32160352,43.2184224,Al-Muhamadath,al.mosul,ninewa,16145,0.042366058,684,12,idp_out_camp,idp_out_camp_al.mosul
+23933,Al-Mosul,Hay Al Samah,?? ??????,36.36599222,43.2208356,Al-Muhamadath,al.mosul,ninewa,16145,0.031279034,505,12,idp_out_camp,idp_out_camp_al.mosul
+23875,Al-Mosul,Al-Quds,?????,36.34899562,43.22555348,Al-Muhamadath,al.mosul,ninewa,16145,0.036419944,588,6,idp_out_camp,idp_out_camp_al.mosul
+21332,Al-Mosul,HAY-FALISTINE,?? ??????,36.30750923,43.1910329,Al-Muhamadath,al.mosul,ninewa,16145,0.00799009,129,6,idp_out_camp,idp_out_camp_al.mosul
+25066,Al-Mosul,Al Tanak,?????,36.341839,43.052996,Al-Muhamadath,al.mosul,ninewa,16145,0.017652524,285,6,idp_out_camp,idp_out_camp_al.mosul
+18339,Al-Mosul,Al-Karamah,???????,36.34434032,43.21393334,Al-Muhamadath,al.mosul,ninewa,16145,0.079715082,1287,12,idp_out_camp,idp_out_camp_al.mosul
+18357,Al-Mosul,Al-sukar,?? ?????,36.38996165,43.16955564,Al-Muhamadath,al.mosul,ninewa,16145,0.006069991,98,6,idp_out_camp,idp_out_camp_al.mosul
+18346,Al-Mosul,Al-Maamon,???????,36.30882013,43.10854328,Al-Muhamadath,al.mosul,ninewa,16145,0.026633633,430,6,idp_out_camp,idp_out_camp_al.mosul
+21336,Al-Mosul,HAY-SUMMER,?? ????,36.29892135,43.19245944,Al-Muhamadath,al.mosul,ninewa,16145,0.019882317,321,6,idp_out_camp,idp_out_camp_al.mosul
+18368,Al-Mosul,Wadi Hajar,???? ???,36.32112548,43.12549664,Al-Muhamadath,al.mosul,ninewa,16145,0.012945184,209,6,idp_out_camp,idp_out_camp_al.mosul
+18313,Al-Mosul,Hay Al Islah Al Zirai,?? ??????? ???????,36.35024315,43.08515874,Al-Muhamadath,al.mosul,ninewa,16145,0.016042118,259,6,idp_out_camp,idp_out_camp_al.mosul
+18370,Al-Mosul,Hay Al Tammem,???????,36.3555135,43.19195727,Al-Muhamadath,al.mosul,ninewa,16145,0.021554661,348,6,idp_out_camp,idp_out_camp_al.mosul
+17128,Al-Mosul,Hamam Alaleel Center,???? ???? ??????,36.16758811,43.25494788,Hammam Al-Alil,al.mosul,ninewa,16145,0.010529576,170,6,idp_out_camp,idp_out_camp_al.mosul
+17338,Al-Shikhan,Atrush,?????,36.8377966,43.33373387,Atreesh,al.shikhan,ninewa,3633,0.019267823,70,6,idp_out_camp,idp_out_camp_al.shikhan
+25945,Al-Shikhan,Esiyan Village,???? ??????,36.7148436,43.29448621,Markaz Al-Shikhan,al.shikhan,ninewa,3633,0.030828516,112,6,idp_out_camp,idp_out_camp_al.shikhan
+17752,Al-Shikhan,Baadre,??????,36.72342984,43.25205126,Markaz Al-Shikhan,al.shikhan,ninewa,3633,0.184971098,672,24,idp_out_camp,idp_out_camp_al.shikhan
+17333,Al-Shikhan,Shekhan,?????,36.68585032,43.34714326,Markaz Al-Shikhan,al.shikhan,ninewa,3633,0.419488026,1524,60,idp_out_camp,idp_out_camp_al.shikhan
+17535,Al-Shikhan,Mahad,???,36.64666962,43.41472644,Markaz Al-Shikhan,al.shikhan,ninewa,3633,0.066061107,240,12,idp_out_camp,idp_out_camp_al.shikhan
+25278,Al-Shikhan,Kabara,???? ??????,36.69783949,43.22252412,Markaz Al-Shikhan,al.shikhan,ninewa,3633,0.002202037,8,6,idp_out_camp,idp_out_camp_al.shikhan
+18199,Al-Shikhan,Qasrok,?????,36.69973886,43.59700937,Qasruk,al.shikhan,ninewa,3633,0.099642169,362,36,idp_out_camp,idp_out_camp_al.shikhan
+21008,Al-Shikhan,Chira,???,36.64066507,43.52486353,Qasruk,al.shikhan,ninewa,3633,0.050371594,183,6,idp_out_camp,idp_out_camp_al.shikhan
+8783,Aqra,Bardarash,?????,36.50505246,43.59559858,Bardarash,aqra,ninewa,4136,0.235009671,972,54,idp_out_camp,idp_out_camp_aqra
+8776,Aqra,Daratu,?????,36.47780181,43.72601916,Bardarash,aqra,ninewa,4136,0.025386847,105,18,idp_out_camp,idp_out_camp_aqra
+24580,Aqra,Roviya,?????,36.61804222,43.70120265,Bardarash,aqra,ninewa,4136,0.175290135,725,36,idp_out_camp,idp_out_camp_aqra
+16953,Aqra,Dinarta,???????,36.79299167,43.97959825,Dinarta,aqra,ninewa,4136,0.014748549,61,6,idp_out_camp,idp_out_camp_aqra
+17802,Aqra,Grdasin,??????,36.65457561,43.80706832,Kurdsein,aqra,ninewa,4136,0.070841393,293,24,idp_out_camp,idp_out_camp_aqra
+17734,Aqra,Akre,????,36.73616411,43.87036764,Kurdsein,aqra,ninewa,4136,0.414168279,1713,84,idp_out_camp,idp_out_camp_aqra
+27361,Sinjar,Wary Bahdo,???? ????,36.38116896,41.79193799,Al-Shamal,sinjar,ninewa,4273,0.026445121,113,6,idp_out_camp,idp_out_camp_sinjar
+27366,Sinjar,Balif,????,36.4286986,41.69891914,Al-Shamal,sinjar,ninewa,4273,0.02948748,126,6,idp_out_camp,idp_out_camp_sinjar
+17928,Sinjar,Sinuni center,???? ?????,36.46593984,41.71338533,Al-Shamal,sinjar,ninewa,4273,0.212497075,908,18,idp_out_camp,idp_out_camp_sinjar
+27283,Sinjar,Dokri,?????,36.47017334,41.73811846,Al-Shamal,sinjar,ninewa,4273,0.007020828,30,6,idp_out_camp,idp_out_camp_sinjar
+27285,Sinjar,Borek,????,36.49436739,41.86820613,Al-Shamal,sinjar,ninewa,4273,0.037444418,160,6,idp_out_camp,idp_out_camp_sinjar
+17845,Sinjar,Khana sor,??????,36.46474075,41.62757861,Al-Shamal,sinjar,ninewa,4273,0.117013808,500,12,idp_out_camp,idp_out_camp_sinjar
+27362,Sinjar,Sardashty,??????,36.37382358,41.74922358,Al-Shamal,sinjar,ninewa,4273,0.062485373,267,18,idp_out_camp,idp_out_camp_sinjar
+23274,Sinjar,Hay Alqadseya,?? ????????,36.32342149,41.87365479,Markaz Sinjar,sinjar,ninewa,4273,0.033934004,145,12,idp_out_camp,idp_out_camp_sinjar
+22490,Sinjar,Hay Al Naser,?? ?????,36.32051324,41.84688259,Markaz Sinjar,sinjar,ninewa,4273,0.052656213,225,6,idp_out_camp,idp_out_camp_sinjar
+32090,Sinjar,Hay Alzeraee,?? ???????,36.32152311,41.86595494,Markaz Sinjar,sinjar,ninewa,4273,0.025977065,111,6,idp_out_camp,idp_out_camp_sinjar
+23273,Sinjar,Hay Alshuhada,?? ???????,36.31811,41.85867361,Markaz Sinjar,sinjar,ninewa,4273,0.06669787,285,12,idp_out_camp,idp_out_camp_sinjar
+22923,Telafar,Kakhirta,??????,36.55740589,42.34905226,Al-Ayadiya,telafar,ninewa,1478,0.0067659,10,6,idp_out_camp,idp_out_camp_telafar
+17814,Telafar,Tal alhuaa,???? ?? ?????,36.74910112,42.30417192,Rabia,telafar,ninewa,1478,0.01826793,27,6,idp_out_camp,idp_out_camp_telafar
+28453,Telafar,Albawtha vilage,???? ??????,36.7311007,42.2585845,Rabia,telafar,ninewa,1478,0.0135318,20,6,idp_out_camp,idp_out_camp_telafar
+18262,Telafar,abu khushub,???? ??????,36.74144385,42.12177344,Rabia,telafar,ninewa,1478,0.01150203,17,6,idp_out_camp,idp_out_camp_telafar
+18308,Telafar,Hay Al Askari,?? ???????,36.80246191,42.09715448,Rabia,telafar,ninewa,1478,0.375507442,555,30,idp_out_camp,idp_out_camp_telafar
+24701,Telafar,Hay Al laban,?? ?????,36.80849199,42.09016157,Rabia,telafar,ninewa,1478,0.103518268,153,12,idp_out_camp,idp_out_camp_telafar
+28450,Telafar,Ewaynat vilage,???? ??????,36.68093122,42.40219667,Rabia,telafar,ninewa,1478,0.040595399,60,12,idp_out_camp,idp_out_camp_telafar
+25687,Telafar,Hay Al Sikak,?? ?????,36.79930633,42.09378266,Rabia,telafar,ninewa,1478,0.025033829,37,12,idp_out_camp,idp_out_camp_telafar
+25808,Telafar,Hay Alasreya,?? ???????,36.80483492,42.0867173,Rabia,telafar,ninewa,1478,0.055480379,82,6,idp_out_camp,idp_out_camp_telafar
+25944,Telafar,Qasabat Zummar,???? ????,36.65599757,42.59801338,Zummar,telafar,ninewa,1478,0.087956698,130,6,idp_out_camp,idp_out_camp_telafar
+25695,Telafar,kirver village,???? ????,36.68823497,42.59559437,Zummar,telafar,ninewa,1478,0.00473613,7,6,idp_out_camp,idp_out_camp_telafar
+17134,Tilkaef,Alqosh,?????,36.731975,43.095524,Al-Qosh,tilkaef,ninewa,3230,0.036842105,119,12,idp_out_camp,idp_out_camp_tilkaef
+22365,Tilkaef,Shaykhaka,???? ?????,36.6900264,43.16280158,Al-Qosh,tilkaef,ninewa,3230,0.044582043,144,18,idp_out_camp,idp_out_camp_tilkaef
+17830,Tilkaef,Jarahiya,????????,36.7017796,43.21302722,Al-Qosh,tilkaef,ninewa,3230,0.004643963,15,6,idp_out_camp,idp_out_camp_tilkaef
+24703,Tilkaef,Jambour Village,???? ?????,36.71678789,42.95407047,Al-Qosh,tilkaef,ninewa,3230,0.020123839,65,6,idp_out_camp,idp_out_camp_tilkaef
+24637,Tilkaef,Kalata Farhan village,???? ????? ?????(?????),36.59573094,43.21033799,Al-Qosh,tilkaef,ninewa,3230,0.006811146,22,6,idp_out_camp,idp_out_camp_tilkaef
+18377,Tilkaef,Al rasheediya,????????,36.40323668,43.0935171,Markaz Tilkaef,tilkaef,ninewa,3230,0.482043344,1557,60,idp_out_camp,idp_out_camp_tilkaef
+17959,Tilkaef,Tallsquf,??????,36.59768094,43.10565343,Markaz Tilkaef,tilkaef,ninewa,3230,0.06625387,214,12,idp_out_camp,idp_out_camp_tilkaef
+24600,Tilkaef,Al Qawsiyat,????????,36.44442116,43.09490804,Markaz Tilkaef,tilkaef,ninewa,3230,0.142724458,461,24,idp_out_camp,idp_out_camp_tilkaef
+23913,Balad,Hay al Zahraa 204,?? ??????? ?(9-?? ?????)???? 204,33.83851491,44.24768232,Al-Dujeel,balad,salah.al.din,1307,0.06503443,85,6,idp_out_camp,idp_out_camp_balad
+25916,Balad,Al Sejla village,???? ??????,33.90931473,44.1980154,Al-Dujeel,balad,salah.al.din,1307,0.068859985,90,6,idp_out_camp,idp_out_camp_balad
+25746,Balad,Markaz Al-Dujeel-Hay Al Wihda Mahala 101,???? 101,33.84887071,44.23246813,Al-Dujeel,balad,salah.al.din,1307,0.03289977,43,6,idp_out_camp,idp_out_camp_balad
+23920,Balad,Hay Al Hussien,?? ??????,33.84296372,44.24168261,Al-Dujeel,balad,salah.al.din,1307,0.075745983,99,30,idp_out_camp,idp_out_camp_balad
+25747,Balad,Markaz Al-Dujeel-Al Shabab village,???? ??????,33.77310581,44.30544923,Al-Dujeel,balad,salah.al.din,1307,0.057383321,75,6,idp_out_camp,idp_out_camp_balad
+25742,Balad,Al-Duloeyah-Hay Al Jubor,???? ?????? ??????,34.03255609,44.23111624,Al-Duloeyah,balad,salah.al.din,1307,0.058148432,76,6,idp_out_camp,idp_out_camp_balad
+20770,Balad,Al-Duloeyah-Hay khazraj,???? ????,34.04808189,44.21884053,Al-Duloeyah,balad,salah.al.din,1307,0.051262433,67,6,idp_out_camp,idp_out_camp_balad
+20771,Balad,Albu Farraj Village,???? ???? ????,34.08612811,44.19097743,Al-Duloeyah,balad,salah.al.din,1307,0.076511094,100,6,idp_out_camp,idp_out_camp_balad
+20774,Balad,AL-Eshaqi center,???? ????? ????????,34.047534,43.98844416,Al-Esshaqi,balad,salah.al.din,1307,0.03213466,42,18,idp_out_camp,idp_out_camp_balad
+29601,Balad,Eshaqi Complex,???? ????????,34.04860604,43.98265867,Al-Esshaqi,balad,salah.al.din,1307,0.022953328,30,6,idp_out_camp,idp_out_camp_balad
+24912,Balad,Al Sindiyah village,???? ???????,33.87815361,44.4443865,Yathreb,balad,salah.al.din,1307,0.038255547,50,12,idp_out_camp,idp_out_camp_balad
+23140,Samarra,Al Hardaniyah,???? ????????? ,34.07240208,44.15670572,Al-Muotasim,samarra,salah.al.din,3039,0.032905561,100,6,idp_out_camp,idp_out_camp_samarra
+21724,Samarra,Hay Al Mutasim-mahala 105,???? 105,34.19421015,43.87824353,Markaz Samarra,samarra,salah.al.din,3039,0.022704837,69,6,idp_out_camp,idp_out_camp_samarra
+21725,Samarra,Hay Al Wathiq-Mahala 314,?? ??????(22-??????)???? 314,34.18605355,43.89418088,Markaz Samarra,samarra,salah.al.din,3039,0.076999013,234,12,idp_out_camp,idp_out_camp_samarra
+20569,Samarra,Hay Al-Khathraa Mahala 322,?? ??????? ?(25-???????)???? 322,34.19773851,43.90743795,Markaz Samarra,samarra,salah.al.din,3039,0.073050346,222,6,idp_out_camp,idp_out_camp_samarra
+22474,Samarra,Hay Al Dhubbat-Mahalla 334,?? ?????? ?(25-???????)???? 334,34.19306987,43.8913851,Markaz Samarra,samarra,salah.al.din,3039,0.020401448,62,6,idp_out_camp,idp_out_camp_samarra
+21588,Samarra,Al Jubairiyah Al Thalitha,?? ??????(22-??????)???????? ???????,34.18151073,43.90937853,Markaz Samarra,samarra,salah.al.din,3039,0.072063179,219,12,idp_out_camp,idp_out_camp_samarra
+21590,Samarra,Hay Salah Al-Din(Mahala 302),?? ???? ????? ???? 302,34.20472059,43.91261897,Markaz Samarra,samarra,salah.al.din,3039,0.075353735,229,6,idp_out_camp,idp_out_camp_samarra
+23877,Samarra,Hay Al-Ziraa(Sharqiyah)113,?? ???????(?????)???? 113,34.18825585,43.87307567,Markaz Samarra,samarra,salah.al.din,3039,0.016781836,51,6,idp_out_camp,idp_out_camp_samarra
+25518,Samarra,Al Mahalla Al Gharbiah,?????? ???????,34.19354152,43.87038482,Markaz Samarra,samarra,salah.al.din,3039,0.016123725,49,6,idp_out_camp,idp_out_camp_samarra
+23876,Samarra,Al Jibariya Mahala 316,?? ??????(22-??????)???? 316,34.18445265,43.90318531,Markaz Samarra,samarra,salah.al.din,3039,0.040802896,124,6,idp_out_camp,idp_out_camp_samarra
+20675,Samarra,Al-Efraz area,?? ???????,34.20589121,43.90987038,Markaz Samarra,samarra,salah.al.din,3039,0.047384008,144,6,idp_out_camp,idp_out_camp_samarra
+22473,Samarra,Hay Al Muthanna-Mahalla 312,?? ??????-???? 312,34.19323408,43.91680473,Markaz Samarra,samarra,salah.al.din,3039,0.137545245,418,24,idp_out_camp,idp_out_camp_samarra
+24247,Tikrit,Hay Al baladiyah,?? ???????-?(27-?????? ???????),34.68755009,43.71769524,Al-Alam,tikrit,salah.al.din,3113,0.051397366,160,12,idp_out_camp,idp_out_camp_tikrit
+28449,Tikrit,Mahalla Al Aed,?? ??????(27-?????? ???????)???? ??????,34.70181064,43.71575489,Al-Alam,tikrit,salah.al.din,3113,0.067459043,210,18,idp_out_camp,idp_out_camp_tikrit
+21592,Tikrit,Hay Al sinay-Al samad,?? ???????-?(51-?????? ??? ????)???? ?????,34.71326825,43.70669107,Al-Alam,tikrit,salah.al.din,3113,0.053003534,165,6,idp_out_camp,idp_out_camp_tikrit
+23145,Tikrit,Al Ahad Al Jadid village,???? ????? ??????,34.72016511,43.69896303,Al-Alam,tikrit,salah.al.din,3113,0.013813042,43,6,idp_out_camp,idp_out_camp_tikrit
+24212,Tikrit,Al khuzamiya Village,???? ????????,34.768545,43.65085705,Al-Alam,tikrit,salah.al.din,3113,0.013813042,43,6,idp_out_camp,idp_out_camp_tikrit
+25923,Tikrit,Qadisya 2 Mahala 216,?? ????????(??????2)?????? 7-???? 216,34.64904267,43.66291122,Um Al-Qura,tikrit,salah.al.din,3113,0.044972695,140,6,idp_out_camp,idp_out_camp_tikrit
+22468,Tikrit,Hay Al Zuhour-422,?? ?????? ????-422,34.59060412,43.67237859,Um Al-Qura,tikrit,salah.al.din,3113,0.069386444,216,6,idp_out_camp,idp_out_camp_tikrit
+24211,Tikrit,Al Namah Al ShamaliyahVillage,???? ??????? ????????,34.66263782,43.92081141,Um Al-Qura,tikrit,salah.al.din,3113,0.030517186,95,12,idp_out_camp,idp_out_camp_tikrit
+20618,Tikrit,Hammad Shihab,???? ???? ????,34.69869525,43.61826052,Um Al-Qura,tikrit,salah.al.din,3113,0.02088018,65,6,idp_out_camp,idp_out_camp_tikrit
+22058,Tikrit,Hay Aldiuom,?? ??????-?????? 211-???? ?????,34.59618062,43.65522036,Um Al-Qura,tikrit,salah.al.din,3113,0.033087054,103,6,idp_out_camp,idp_out_camp_tikrit
+27367,Tikrit,Hay Alziraa,?? ???????,34.58463421,43.68255174,Um Al-Qura,tikrit,salah.al.din,3113,0.006424671,20,6,idp_out_camp,idp_out_camp_tikrit
+25962,Tikrit,Hay Salma Altaghlubia,?? ???? ????????-???? 401,34.60974451,43.68082171,Um Al-Qura,tikrit,salah.al.din,3113,0.007067138,22,12,idp_out_camp,idp_out_camp_tikrit
+25866,Tooz Khurmato,Hay Komari-120,?? ?????? ?(5-?????)???? 120,34.89631116,44.62618562,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,3975,0.184150943,732,24,idp_out_camp,idp_out_camp_tooz.khurmato
+25748,Tooz Khurmato,Markaz Tooz-Jesir Dara,??? ????,34.95107121,44.59455173,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,3975,0.014339623,57,6,idp_out_camp,idp_out_camp_tooz.khurmato
+25754,Tooz Khurmato,Markaz Tooz-Hay Al Askari,?? ???????,34.87893383,44.61564474,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,3975,0.140628931,559,24,idp_out_camp,idp_out_camp_tooz.khurmato
+25872,Tooz Khurmato,Unformal Shelter,??? ??? ????,34.9051509,44.63581838,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,3975,0.068679245,273,12,idp_out_camp,idp_out_camp_tooz.khurmato
+25752,Tooz Khurmato,Markaz Tooz-Hay Al Taiyar 122,???? 122,34.90215812,44.62048832,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,3975,0.157987421,628,30,idp_out_camp,idp_out_camp_tooz.khurmato
+20405,Tooz Khurmato,Sankur,?????,35.0088073,44.53832744,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,3975,0.011823899,47,6,idp_out_camp,idp_out_camp_tooz.khurmato
+25868,Tooz Khurmato,Hay Rizgari-114,?? ?????? ?(5-?????)???? 114,34.88670149,44.64114867,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,3975,0.074716981,297,6,idp_out_camp,idp_out_camp_tooz.khurmato
+33153,Tooz Khurmato,Zinana,?????,34.8799657,44.8496409,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,3975,0.025157233,100,6,idp_out_camp,idp_out_camp_tooz.khurmato
+25870,Tooz Khurmato,Tal Al Naqqar,?? ??????,34.732738,44.800704,Sulaiman Baig,tooz.khurmato,salah.al.din,3975,0.095597484,380,12,idp_out_camp,idp_out_camp_tooz.khurmato
+10301,Al-Nasiriya,Hay Al Fidaa,?? ??????,31.06973001,46.27874198,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.039647577,9,6,idp_out_camp,idp_out_camp_al.nasiriya
+9396,Al-Nasiriya,Al-zielat,????????,31.0154237,46.26344175,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.066079295,15,6,idp_out_camp,idp_out_camp_al.nasiriya
+24494,Al-Nasiriya,Al Aker,?????,31.02771088,46.21821474,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.030837004,7,12,idp_out_camp,idp_out_camp_al.nasiriya
+10259,Al-Nasiriya,Hay Al Tadhihiya,?? ???????,31.05015718,46.27335321,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.074889868,17,6,idp_out_camp,idp_out_camp_al.nasiriya
+21208,Al-Nasiriya,Hay Al Mualimeen,?? ????????,31.06777925,46.24967456,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.030837004,7,6,idp_out_camp,idp_out_camp_al.nasiriya
+9427,Al-Nasiriya,Hay AL-Mansouria,????????? ,31.03044192,46.21559912,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.066079295,15,12,idp_out_camp,idp_out_camp_al.nasiriya
+10335,Al-Nasiriya,Al-Salhiya,?? ????????,31.05063835,46.2693433,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.044052863,10,12,idp_out_camp,idp_out_camp_al.nasiriya
+23683,Al-Nasiriya,Hay Mehidiya,?? ????????,31.03290329,46.25155243,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.066079295,15,6,idp_out_camp,idp_out_camp_al.nasiriya
+10263,Al-Nasiriya,Sadir City,?? ????? ?????,31.0802066,46.2356939,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.061674009,14,6,idp_out_camp,idp_out_camp_al.nasiriya
+10260,Al-Nasiriya,Al Iskan Al Sinaie,??????? ???????,31.01345748,46.28240815,Markaz Al-Nasiriya,al.nasiriya,thi.qar,227,0.123348018,28,6,idp_out_camp,idp_out_camp_al.nasiriya
+19555,Al-Kut,Damook 150,????? 150,32.53161253,45.82103463,Markaz Al-Kut,al.kut,wassit,664,0.030120482,20,6,idp_out_camp,idp_out_camp_al.kut
+25322,Al-Kut,Anwar Al Sadur-Al-Ghader,????? ?????-??????,32.5131733,45.84019899,Markaz Al-Kut,al.kut,wassit,664,0.015060241,10,6,idp_out_camp,idp_out_camp_al.kut
+27277,Al-Kut,Al Hakeem Al-Ula,?????? ??????,32.52988171,45.83964831,Markaz Al-Kut,al.kut,wassit,664,0.018072289,12,6,idp_out_camp,idp_out_camp_al.kut
+27275,Al-Kut,Al-Hassan Al-Askari Al-Thania,????? ??????? ???????,32.53247892,45.7912212,Markaz Al-Kut,al.kut,wassit,664,0.030120482,20,6,idp_out_camp,idp_out_camp_al.kut
+19070,Al-Kut,Hay al-zahraa,?? ???????,32.52291874,45.81870231,Markaz Al-Kut,al.kut,wassit,664,0.015060241,10,6,idp_out_camp,idp_out_camp_al.kut
+23256,Al-Kut,Al Hasan Al Askari,????? ???????,32.53075098,45.7473125,Markaz Al-Kut,al.kut,wassit,664,0.081325301,54,6,idp_out_camp,idp_out_camp_al.kut
+27278,Al-Kut,Al Hakeem Al-Thania,?????? ???????,32.53589111,45.85707997,Markaz Al-Kut,al.kut,wassit,664,0.018072289,12,6,idp_out_camp,idp_out_camp_al.kut
+24786,Al-Kut,Al Hakeem Al-Khdhra,?????? ???????,32.54525026,45.85184353,Markaz Al-Kut,al.kut,wassit,664,0.015060241,10,12,idp_out_camp,idp_out_camp_al.kut
+27383,Al-Kut,Hay Al Jawadeen Al-Thalitha,?? ???????? ???????,32.51103961,45.85696859,Markaz Al-Kut,al.kut,wassit,664,0.021084337,14,6,idp_out_camp,idp_out_camp_al.kut
+19548,Al-Kut,Al Batar village,???? ??????,32.56659569,45.64940515,Markaz Al-Kut,al.kut,wassit,664,0.042168675,28,6,idp_out_camp,idp_out_camp_al.kut
+25103,Al-Kut,Al-Jihad Al-Zahraa,?????? ???????,32.47834063,45.8128393,Wasit,al.kut,wassit,664,0.037650602,25,6,idp_out_camp,idp_out_camp_al.kut
+25106,Al-Kut,Al-Jihad-Al-Sajad,??????-??????,32.4737597,45.82086882,Wasit,al.kut,wassit,664,0.037650602,25,6,idp_out_camp,idp_out_camp_al.kut
+24261,Al-Kut,Hay Al-Hawaraa 3,?? ??????? ???????,32.48702633,45.84528154,Wasit,al.kut,wassit,664,0.087349398,58,12,idp_out_camp,idp_out_camp_al.kut
+106,Zakho,Al-Amen,?? ??????,37.06,42.38,Markaz Zakho,zakho,duhok,1304,0.901840491,1176,64,returnee,returnee_zakho
+23792,Al-Kaim,Al Angaa,?? ???????,34.38025462,41.05022726,Al-Karabla,al.kaim,al.anbar,15084,0.062582869,944,12,returnee,returnee_al.kaim
+18349,Al-Baaj,Al-Yarmuk,?? ???????,36.044635,41.720289,Markaz Al-Baaj,al.baaj,ninewa,6162,0.05712431,352,6,returnee,returnee_al.baaj
+34013,Al-Baaj,Al Askari,???????,36.038799,41.718269,Markaz Al-Baaj,al.baaj,ninewa,6162,0.03002272,185,6,returnee,returnee_al.baaj
+34069,Al-Baaj,Al-sahlan,???????,36.054272,41.391497,Markaz Al-Baaj,al.baaj,ninewa,6162,0.008114249,50,6,returnee,returnee_al.baaj
+34011,Al-Baaj,Al-Thawra,?? ??????,36.038552,41.711969,Markaz Al-Baaj,al.baaj,ninewa,6162,0.104024667,641,6,returnee,returnee_al.baaj
+34090,Al-Baaj,Al-khader,?????,36.056533,41.696036,Markaz Al-Baaj,al.baaj,ninewa,6162,0.003732554,23,6,returnee,returnee_al.baaj
+17131,Al-Hamdaniya,Bartalla center,???? ????? ?????,36.353862,43.38319564,Bartilla,al.hamdaniya,ninewa,29874,0.137243088,4100,24,returnee,returnee_al.hamdaniya
+22214,Al-Hamdaniya,Muafaqiyah village,???? ????????,36.357627,43.32886537,Bartilla,al.hamdaniya,ninewa,29874,0.028954944,865,6,returnee,returnee_al.hamdaniya
+17903,Al-Hamdaniya,Al-Salamiyah Village,???? ????????,36.14467202,43.31096659,Namroud,al.hamdaniya,ninewa,29874,0.00451898,135,6,returnee,returnee_al.hamdaniya
+29613,Al-Hamdaniya,Tal Al-Laban,?? ?????,36.20844,43.53488145,Markaz Al-Hamdaniya,al.hamdaniya,ninewa,29874,0.018912767,565,6,returnee,returnee_al.hamdaniya
+17386,Al-Hamdaniya,Blawat Village,???? ?????? ,36.227551,43.41814873,Namroud,al.hamdaniya,ninewa,29874,0.007364263,220,6,returnee,returnee_al.hamdaniya
+17373,Al-Hamdaniya,Mnara Shabak Village,???? ????? ?????,36.314426,43.3300402,Bartilla,al.hamdaniya,ninewa,29874,0.033473924,1000,6,returnee,returnee_al.hamdaniya
+21939,Al-Hamdaniya,Shaquli village,???? ??????,36.321536,43.44990978,Bartilla,al.hamdaniya,ninewa,29874,0.021657629,647,6,returnee,returnee_al.hamdaniya
+17399,Al-Hamdaniya,Jlewkhan village,???? ???????,36.288059,43.2428429,Bartilla,al.hamdaniya,ninewa,29874,0.013088304,391,12,returnee,returnee_al.hamdaniya
+22216,Al-Hamdaniya,Shiek Ameer Village,???? ??? ???? ,36.318867,43.47387555,Markaz Al-Hamdaniya,al.hamdaniya,ninewa,29874,0.005556671,166,6,returnee,returnee_al.hamdaniya
+17376,Al-Hamdaniya,Kabarly Village,???? ????? ,36.242985,43.44905944,Markaz Al-Hamdaniya,al.hamdaniya,ninewa,29874,0.031331593,936,6,returnee,returnee_al.hamdaniya
+22433,Al-Hamdaniya,Knehash 2 Village,???? ???? ??????,36.060894,43.474475,Namroud,al.hamdaniya,ninewa,29874,0.001941488,58,6,returnee,returnee_al.hamdaniya
+23699,Al-Hamdaniya,Khazna Tappa,???? ???,36.363317,43.35960454,Bartilla,al.hamdaniya,ninewa,29874,0.050210886,1500,6,returnee,returnee_al.hamdaniya
+17930,Al-Hamdaniya,Tahrawa Village,???? ??????,36.343993,43.3264564,Bartilla,al.hamdaniya,ninewa,29874,0.025908817,774,6,returnee,returnee_al.hamdaniya
+18267,Al-Shikhan,Taq Harb,???? ??? ???,36.585999,43.30133748,Markaz Al-Shikhan,al.shikhan,ninewa,299,0.02006689,6,3,returnee,returnee_al.shikhan
+21648,Al-Shikhan,Taq Mekail,???? ??? ???????,36.573488,43.30365621,Markaz Al-Shikhan,al.shikhan,ninewa,299,0.08361204,25,4,returnee,returnee_al.shikhan
+17875,Al-Shikhan,Nargizlia Village,???? ???????,36.602573,43.27893045,Markaz Al-Shikhan,al.shikhan,ninewa,299,0.153846154,46,10,returnee,returnee_al.shikhan
+17051,Al-Shikhan,Big Rikaba Village,???? ????? ?????,36.565376,43.25221304,Markaz Al-Shikhan,al.shikhan,ninewa,299,0.086956522,26,10,returnee,returnee_al.shikhan
+17049,Al-Shikhan,Small Rikaba Village,???? ????? ?????,36.567179,43.23635996,Markaz Al-Shikhan,al.shikhan,ninewa,299,0.210702341,63,21,returnee,returnee_al.shikhan
+17045,Al-Shikhan,Sheikh Milwan Village,???? ??? ?????,36.583357,43.24351923,Markaz Al-Shikhan,al.shikhan,ninewa,299,0.334448161,100,12,returnee,returnee_al.shikhan
+33774,Al-Hatra,Estielah Village,???? ??????,35.807841,43.053191,Markaz Hatra,al.hatra,ninewa,7566,0.006344171,48,6,returnee,returnee_al.hatra
+33859,Al-Hatra,Abu sanam wasataa Village,???? ??? ???? ????,36.1764,42.322414,Markaz Hatra,al.hatra,ninewa,7566,0.015860428,120,6,returnee,returnee_al.hatra
+22606,Al-Falluja,Albu Shejel,???????,33.39894123,43.63390187,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.012529599,1180,12,returnee,returnee_al.falluja
+27271,Al-Hatra,Tal abta,?? ????,35.94612983,42.5718261,Markaz Hatra,al.hatra,ninewa,7566,0.317208565,2400,48,returnee,returnee_al.hatra
+33991,Al-Hatra,Easilah algharbia,???? ??????  ??????? ,35.8246,42.9021,Markaz Hatra,al.hatra,ninewa,7566,0.010044938,76,6,returnee,returnee_al.hatra
+33728,Al-Hatra,Majmae khams talul,???? ???? ??? ????,35.85746,42.21516,Markaz Hatra,al.hatra,ninewa,7566,0.006608512,50,6,returnee,returnee_al.hatra
+318,Al-Falluja,Albu Khanfar,???????? ,33.44080496,43.82623441,Al-Garma,al.falluja,al.anbar,94177,0.023530161,2216,6,returnee,returnee_al.falluja
+33393,Al-Hatra,Ashwa village,???? ????,36.005233,42.35309117,Markaz Hatra,al.hatra,ninewa,7566,0.039915411,302,6,returnee,returnee_al.hatra
+33193,Al-Hatra,Mreka Village,???? ?????,35.854687,42.894362,Markaz Hatra,al.hatra,ninewa,7566,0.003568596,27,6,returnee,returnee_al.hatra
+17126,Al-Hatra,Markaz AL-Hatra,???? ?????,35.57722514,42.73185209,Markaz Hatra,al.hatra,ninewa,7566,0.121596616,920,24,returnee,returnee_al.hatra
+33861,Al-Hatra,Abu sanam janubi iVillage,???? ??? ???? ?????,36.162066,42.323913,Markaz Hatra,al.hatra,ninewa,7566,0.026434047,200,18,returnee,returnee_al.hatra
+33265,Al-Mosul,Al-Nafit,?? ?????,36.317533,43.12389785,Al-Muhamadath,al.mosul,ninewa,167465,0.003564924,597,6,returnee,returnee_al.mosul
+33289,Al-Mosul,Al Sikak,?? ?????,36.34052888,43.08680814,Al-Muhamadath,al.mosul,ninewa,167465,0.005332458,893,6,returnee,returnee_al.mosul
+33257,Al-Mosul,Msherfa 2,?????? 2,36.37883671,43.07380498,Al-Muhamadath,al.mosul,ninewa,167465,0.005625056,942,6,returnee,returnee_al.mosul
+277,Al-Kaim,Hay Al-Maamon,?? ???????,34.39362133,41.000431,Al-Rummaneh,al.kaim,al.anbar,15084,0.090426942,1364,12,returnee,returnee_al.kaim
+21201,Al-Falluja,Albu Shihab,????????,33.39917258,43.58249848,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.011234165,1058,6,returnee,returnee_al.falluja
+33252,Al-Mosul,Al-Sinaa Al-Qadema,??????? ???????,36.33732899,43.10615109,Al-Muhamadath,al.mosul,ninewa,167465,0.008067357,1351,6,returnee,returnee_al.mosul
+33404,Tilkaef,AL-sheek Maaroof village,???? ????? ?????,36.384447,42.99617734,Markaz Tilkaef,tilkaef,ninewa,20512,0.002193838,45,6,returnee,returnee_tilkaef
+33342,Al-Falluja,Hay Jbeal,?? ????,33.32421,43.77623968,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.033288383,3135,6,returnee,returnee_al.falluja
+31775,Al-Mosul,Al-Areej Village,???? ??????,36.19146914,43.20713996,Hammam Al-Alil,al.mosul,ninewa,167465,0.017914191,3000,6,returnee,returnee_al.mosul
+33174,Tilkaef,Tel Al-raes Al-thania Village,???? ?? ????? ???????,36.412192,42.96872791,Markaz Tilkaef,tilkaef,ninewa,20512,0.058648596,1203,18,returnee,returnee_tilkaef
+18367,Al-Mosul,Al-Yarmuk,?? ???????,36.33808679,43.08332718,Al-Muhamadath,al.mosul,ninewa,167465,0.014134297,2367,6,returnee,returnee_al.mosul
+31912,Al-Mosul,Bahzani,?????? ,36.457312,43.33830961,Bashiqa,al.mosul,ninewa,167465,0.01970561,3300,12,returnee,returnee_al.mosul
+23811,Haditha,Hay Barwanah Al Gharbiyah,?? ?????? ?????,34.09547956,42.38043973,Barwana,haditha,al.anbar,4525,0.04640884,210,12,returnee,returnee_haditha
+24315,Haditha,Hay Al Rahman,?? ??????,34.08711253,42.376353,Barwana,haditha,al.anbar,4525,0.057458564,260,12,returnee,returnee_haditha
+21007,Al-Mosul,Zanjili,????????,36.34975751,43.11049303,Al-Muhamadath,al.mosul,ninewa,167465,0.021126803,3538,6,returnee,returnee_al.mosul
+23812,Haditha,Hay Ibn Bittar,?? ??? ?????,34.08381752,42.38563715,Barwana,haditha,al.anbar,4525,0.048618785,220,6,returnee,returnee_haditha
+21258,Al-Mosul,Tal Al-Rumman,?? ??????,36.31561638,43.08996264,Al-Muhamadath,al.mosul,ninewa,167465,0.016504941,2764,12,returnee,returnee_al.mosul
+18372,Al-Mosul,Al-Wahda,??????,36.32498049,43.18981081,Al-Muhamadath,al.mosul,ninewa,167465,0.013871555,2323,6,returnee,returnee_al.mosul
+33820,Haditha,Hay Al_salam,?? ??????,34.0898,42.38123,Barwana,haditha,al.anbar,4525,0.03160221,143,6,returnee,returnee_haditha
+21580,Al-Mosul,Orta akrab Village,???? ????? ????,36.422829,43.23208311,Bashiqa,al.mosul,ninewa,167465,0.00324844,544,6,returnee,returnee_al.mosul
+23813,Haditha,Hay Al Shuhadaa,?? ???????,34.09260433,42.397337,Barwana,haditha,al.anbar,4525,0.025414365,115,6,returnee,returnee_haditha
+18369,Al-Mosul,Al-Khadraa,???????,36.35689079,43.2227368,Al-Muhamadath,al.mosul,ninewa,167465,0.004878631,817,6,returnee,returnee_al.mosul
+272,Al-Kaim,Hay 12 Rabee Alawal,?? 12???? ?????,34.39208833,40.98504599,Al-Rummaneh,al.kaim,al.anbar,15084,0.040705383,614,6,returnee,returnee_al.kaim
+79,Haditha,Hay Al-Subhani,?? ????????,34.11291371,42.38267137,Barwana,haditha,al.anbar,4525,0.032044199,145,6,returnee,returnee_haditha
+18009,Al-Mosul,Mjareen Village,???? ??????,36.35986,42.71071761,Al-Muhamadath,al.mosul,ninewa,167465,0.007165676,1200,6,returnee,returnee_al.mosul
+20782,Al-Mosul,Al-Muharibeen,?????????,36.38366231,43.19343104,Al-Muhamadath,al.mosul,ninewa,167465,0.00294987,494,6,returnee,returnee_al.mosul
+27285,Sinjar,Borek,????,36.49436739,41.86820613,Al-Shamal,sinjar,ninewa,12041,0.159704343,1923,6,returnee,returnee_sinjar
+33655,Sinjar,Kani Edo,???? ????      ,36.3013473,41.8505089,Markaz Sinjar,sinjar,ninewa,12041,0.001079645,13,12,returnee,returnee_sinjar
+34036,Sinjar,Hay Al Shafaa,?? ??????,36.15406,42.039688,Al-Qairawan,sinjar,ninewa,12041,0.0098829,119,6,returnee,returnee_sinjar
+27399,Sinjar,Sharaf Alddin,??? ?????,36.42984078,41.86808233,Al-Shamal,sinjar,ninewa,12041,0.013287933,160,6,returnee,returnee_sinjar
+33998,Sinjar,Hazeel Al-Kabeer Village,???? ???? ??????,36.154129,42.052066,Al-Qairawan,sinjar,ninewa,12041,0.011377793,137,6,returnee,returnee_sinjar
+34038,Sinjar,Hay Al Mamoon,?? ???????,36.16286,42.034429,Al-Qairawan,sinjar,ninewa,12041,0.032389336,390,6,returnee,returnee_sinjar
+18048,Sinjar,Guhbal and shorka,???? +?????  ,36.50572952,41.95736199,Al-Shamal,sinjar,ninewa,12041,0.053982227,650,6,returnee,returnee_sinjar
+27358,Sinjar,Kolka,?????,36.37152891,41.72511078,Al-Shamal,sinjar,ninewa,12041,0.006727016,81,12,returnee,returnee_sinjar
+33651,Sinjar,Zaytoniya,???????,36.3069755,41.8797018,Markaz Sinjar,sinjar,ninewa,12041,0.003571132,43,6,returnee,returnee_sinjar
+24117,Haditha,Haqlaniyah-Hay Al-Faroq,?? ???????-???????,34.08341069,42.35196982,Al-Haqlaniya,haditha,al.anbar,4525,0.011049724,50,6,returnee,returnee_haditha
+33873,Sinjar,Sibaya harrush,?????? ????,36.227443,42.124177,Al-Qairawan,sinjar,ninewa,12041,0.003737231,45,12,returnee,returnee_sinjar
+23274,Sinjar,Hay Alqadseya,?? ????????,36.32342149,41.87365479,Markaz Sinjar,sinjar,ninewa,12041,0.007391413,89,6,returnee,returnee_sinjar
+23820,Haditha,Hay K 28,???? ? 28 (( ?? ??? )),34.07182393,42.36524882,Al-Haqlaniya,haditha,al.anbar,4525,0.083977901,380,6,returnee,returnee_haditha
+27287,Sinjar,Zorava and zirwa,??????+????? ,36.47246728,42.01588827,Al-Shamal,sinjar,ninewa,12041,0.060709243,731,6,returnee,returnee_sinjar
+17928,Sinjar,Sinuni center,???? ?????,36.46593984,41.71338533,Al-Shamal,sinjar,ninewa,12041,0.084793622,1021,6,returnee,returnee_sinjar
+18016,Sinjar,Golat,?????,36.4036,42.12902345,Markaz Sinjar,sinjar,ninewa,12041,0.029399552,354,6,returnee,returnee_sinjar
+17617,Telafar,Qasr Sarij,???? ???????,36.55342282,42.51140824,Al-Ayadiya,telafar,ninewa,57839,0.015560435,900,6,returnee,returnee_telafar
+23817,Haditha,Hay Al Shay,?? ??????,34.12659465,42.39245154,Barwana,haditha,al.anbar,4525,0.047292818,214,12,returnee,returnee_haditha
+25807,Telafar,Hay althahabe,???? ??????,36.80170925,42.09458755,Rabia,telafar,ninewa,57839,0.003596189,208,6,returnee,returnee_telafar
+23822,Haditha,Albu Hayat,???? ????????,34.006133,42.38533008,Al-Haqlaniya,haditha,al.anbar,4525,0.06718232,304,12,returnee,returnee_haditha
+24109,Haditha,Barwanah-Hay Al-Shurta,?? ??????-??????,34.09212563,42.39748965,Barwana,haditha,al.anbar,4525,0.129723757,587,24,returnee,returnee_haditha
+27304,Telafar,Kharabat Ashiq,???? ????? ????,36.75874864,42.45894678,Zummar,telafar,ninewa,57839,0.016649665,963,12,returnee,returnee_telafar
+23648,Telafar,Sahilah Village,?????,37.0132505,42.34194814,Zummar,telafar,ninewa,57839,0.00302564,175,6,returnee,returnee_telafar
+17625,Telafar,Eayan Alturs,???? ??? ?????,36.7393,42.53539788,Zummar,telafar,ninewa,57839,0.005273259,305,6,returnee,returnee_telafar
+34048,Telafar,Hay Al Noor Al Thania,?? ????? ??????? ,36.377547,42.464541,Markaz Telafar,telafar,ninewa,57839,0.012154429,703,6,returnee,returnee_telafar
+21264,Heet,Basair,??????? ,33.6499489,42.80809027,Markaz Heet,heet,al.anbar,29284,0.046988116,1376,12,returnee,returnee_heet
+28439,Telafar,Tal Talab vilage,???? ?? ???,36.74584971,42.20245753,Rabia,telafar,ninewa,57839,0.00191912,111,6,returnee,returnee_telafar
+18302,Telafar,Hay Al wahda,?? ??????,36.37497,42.4282364,Markaz Telafar,telafar,ninewa,57839,0.039852003,2305,6,returnee,returnee_telafar
+33212,Telafar,Humur Eafin,???? ??? ????,36.7515,42.59057091,Zummar,telafar,ninewa,57839,0.000224762,13,6,returnee,returnee_telafar
+66,Al-Kaim,Sadah,???? ????,34.36995574,41.09281041,Al-Karabla,al.kaim,al.anbar,15084,0.049721559,750,6,returnee,returnee_al.kaim
+22446,Telafar,Al Mafri,???? ????,36.60934422,42.57199697,Zummar,telafar,ninewa,57839,0.007347983,425,6,returnee,returnee_telafar
+33420,Telafar,Hay Al Zahraa,?? ???????,36.379492,42.4255152,Markaz Telafar,telafar,ninewa,57839,0.015387541,890,6,returnee,returnee_telafar
+25944,Telafar,Qasabat Zummar,???? ????,36.65599757,42.59801338,Zummar,telafar,ninewa,57839,0.071750895,4150,18,returnee,returnee_telafar
+25809,Telafar,Domez complex,???? ?????,36.71204681,42.61461067,Zummar,telafar,ninewa,57839,0.011272671,652,6,returnee,returnee_telafar
+27356,Telafar,Tel shor,???? ?? ?????,36.49949129,42.14103331,Rabia,telafar,ninewa,57839,0.001988278,115,6,returnee,returnee_telafar
+21603,Tilkaef,Baawiza,??????,36.43356032,43.15578703,Markaz Tilkaef,tilkaef,ninewa,20512,0.045339314,930,12,returnee,returnee_tilkaef
+17949,Tilkaef,Derston,??? ???? ,36.67726055,43.01571448,Al-Qosh,tilkaef,ninewa,20512,0.012187988,250,6,returnee,returnee_tilkaef
+33445,Tilkaef,Ammar Bet Village,???? ???? ???,36.5346,42.95195506,Wana,tilkaef,ninewa,20512,0.00999415,205,6,returnee,returnee_tilkaef
+24682,Tilkaef,Al Quba,?????,36.40208884,43.04396592,Markaz Tilkaef,tilkaef,ninewa,20512,0.17550702,3600,12,returnee,returnee_tilkaef
+17133,Tilkaef,wanna center,???? ????,36.53558507,42.75997942,Wana,tilkaef,ninewa,20512,0.091409906,1875,6,returnee,returnee_tilkaef
+33541,Al-Shikhan,Shwedeg Sagheer,????? ????,36.564837,43.217469,Markaz Al-Shikhan,al.shikhan,ninewa,299,0.110367893,33,4,returnee,returnee_al.shikhan
+17602,Tilkaef,Kany-Sheren,???? ?????,36.564261,43.032031,Markaz Tilkaef,tilkaef,ninewa,20512,0.010725429,220,6,returnee,returnee_tilkaef
+17600,Tilkaef,Hasan-Galad,???? ??? ????,36.530579,43.00519903,Markaz Tilkaef,tilkaef,ninewa,20512,0.007897816,162,6,returnee,returnee_tilkaef
+21601,Tilkaef,Sada Area,????? ??????,36.42253923,43.15926051,Markaz Tilkaef,tilkaef,ninewa,20512,0.07824688,1605,6,returnee,returnee_tilkaef
+23415,Tilkaef,Semehla,???? ??????,36.578664,42.93158469,Wana,tilkaef,ninewa,20512,0.006971529,143,6,returnee,returnee_tilkaef
+21605,Tilkaef,Musqalat Al-Shamalih,?????? ????????,36.5917828,43.0416133,Markaz Tilkaef,tilkaef,ninewa,20512,0.006825273,140,6,returnee,returnee_tilkaef
+17788,Tilkaef,Der Umtutha,???? ????? ????,36.50545966,42.78384651,Wana,tilkaef,ninewa,20512,0.024375975,500,6,returnee,returnee_tilkaef
+26077,Al-Daur,Hay Tal Al Banat,?? ?? ??????,34.4476367,43.79889497,Abu Dalf,al.daur,salah.al.din,10081,0.120920544,1219,6,returnee,returnee_al.daur
+20587,Al-Daur,Hay Abu Dalaf,?? ??? ???,34.45569217,43.79879331,Abu Dalf,al.daur,salah.al.din,10081,0.147306815,1485,24,returnee,returnee_al.daur
+26078,Al-Daur,Hay Al Askri,?? ???????,34.46264848,43.79113717,Abu Dalf,al.daur,salah.al.din,10081,0.082432298,831,12,returnee,returnee_al.daur
+152,Heet,Al Muhamdee,??????? ,33.55951649,42.90148478,Al-Forat,heet,al.anbar,29284,0.022333015,654,6,returnee,returnee_heet
+26116,Al-Daur,Al Mujammaa Al Sakani,?????? ??????,34.4093972,43.78942745,Abu Dalf,al.daur,salah.al.din,10081,0.280329332,2826,36,returnee,returnee_al.daur
+20746,Al-Daur,Al-Khadhra area,?? ???????,34.47699,43.79037775,Abu Dalf,al.daur,salah.al.din,10081,0.063188176,637,6,returnee,returnee_al.daur
+20713,Al-Daur,Hay Al Qadisiah,?? ????????,34.473313,43.79133138,Abu Dalf,al.daur,salah.al.din,10081,0.074198988,748,6,returnee,returnee_al.daur
+26080,Al-Daur,Hay Al Sharqiyah,?? ???????,34.45350793,43.78909198,Abu Dalf,al.daur,salah.al.din,10081,0.058129154,586,12,returnee,returnee_al.daur
+26079,Al-Daur,Hay Al Aboor,?? ??????,34.4652675,43.79065796,Abu Dalf,al.daur,salah.al.din,10081,0.090268823,910,6,returnee,returnee_al.daur
+26082,Al-Daur,Hay Al Mahad,?? ??????,34.45656032,43.80569889,Abu Dalf,al.daur,salah.al.din,10081,0.034718778,350,6,returnee,returnee_al.daur
+26081,Al-Daur,Al Asriyah village,?????? ???????,34.46089339,43.84198922,Abu Dalf,al.daur,salah.al.din,10081,0.025096717,253,6,returnee,returnee_al.daur
+28420,Balad,Albo Fadaus Village,???? ?????????,33.86874825,44.355067,Al-Dujeel,balad,salah.al.din,13022,0.040393181,526,6,returnee,returnee_balad
+25947,Balad,Bezna Village,???? ????,33.90924349,44.18353,Yathreb,balad,salah.al.din,13022,0.041698664,543,6,returnee,returnee_balad
+33790,Balad,Al-Shehabbi Village,???? ???????,33.966393,44.30386,Yathreb,balad,salah.al.din,13022,0.030640455,399,6,returnee,returnee_balad
+33124,Beygee,Al-Salman village,???? ???????,35.33025,43.26614918,Makkhoul,beygee,salah.al.din,22815,0.0458032,1045,6,returnee,returnee_beygee
+20613,Al-Shirqat,Sudayrah Tak Tak Village,???? ????? ?? ??,35.45198,43.29188179,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.045930207,1049,6,returnee,returnee_al.shirqat
+33126,Al-Shirqat,Al-Sheekh Hamad Village,???? ????? ???,35.560374,43.27774764,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.039712772,907,6,returnee,returnee_al.shirqat
+21955,Al-Shirqat,Hay Al-Khasim Al-Qadem village,???? ????? ???????,35.4860996,43.24136451,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.033276413,760,6,returnee,returnee_al.shirqat
+20588,Al-Shirqat,Sudayrah Sufla Village,???? ????? ????,35.466904,43.29417902,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.037698673,861,6,returnee,returnee_al.shirqat
+21347,Al-Shirqat,Al-Musehly Village,???? ????????,35.40670733,43.20443065,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.0071807,164,6,returnee,returnee_al.shirqat
+21004,Al-Shirqat,Hay Al Askari,???? ???????,35.51588268,43.24014327,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.03914357,894,12,returnee,returnee_al.shirqat
+33122,Al-Shirqat,Sudayrah Aulya Village,???? ????? ????,35.443157,43.28802411,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.076448181,1746,6,returnee,returnee_al.shirqat
+21002,Al-Shirqat,Al Khanuga village,???? ????????,35.39407146,43.2562212,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.008756951,200,6,returnee,returnee_al.shirqat
+33402,Al-Shirqat,Shattye Al-Jider village,???? ?????,35.353168,43.33280417,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.018477166,422,6,returnee,returnee_al.shirqat
+21349,Al-Shirqat,Al-Swedan Village,???? ??????,35.62253532,43.24083119,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.019484216,445,6,returnee,returnee_al.shirqat
+29655,Al-Shirqat,Hay Tal Baajah,?? ?? ?????,35.52689026,43.22822702,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.020097202,459,6,returnee,returnee_al.shirqat
+29652,Al-Shirqat,Hay Al-noor,?? ?????,35.49564536,43.240898,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.017294978,395,6,returnee,returnee_al.shirqat
+33957,Heet,alrashid,??????,33.58864,42.62435,Kubaisa,heet,al.anbar,29284,0.00659063,193,6,returnee,returnee_heet
+33123,Al-Shirqat,Sudayrah Westa Village,???? ????? ????,35.430951,43.29735383,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.049301633,1126,12,returnee,returnee_al.shirqat
+29654,Al-Shirqat,Hay Al-Baladyat,?? ????????,35.53883531,43.22417697,Markaz Al-Shirqat,al.shirqat,salah.al.din,22839,0.014974386,342,6,returnee,returnee_al.shirqat
+100,Heet,Abu Tibban,????????,33.52770924,42.94823615,Al-Forat,heet,al.anbar,29284,0.039885262,1168,6,returnee,returnee_heet
+33369,Beygee,Hay Altameem,?? ???????,34.921845,43.48296141,Al-Synia,beygee,salah.al.din,22815,0.027964059,638,6,returnee,returnee_beygee
+23388,Beygee,Al Hamra village,???? ??????,34.75922381,43.60555224,Markaz Beygee,beygee,salah.al.din,22815,0.013806706,315,6,returnee,returnee_beygee
+22581,Beygee,Hay Tal Al Zatar-mahalla 219,?? ?? ?????? ?(15-??????? ????????)????,34.93565,43.48967088,Al-Synia,beygee,salah.al.din,22815,0.020118343,459,6,returnee,returnee_beygee
+24304,Beygee,Al Mushhaq Village,???? ??????,35.185783,43.41311343,Makkhoul,beygee,salah.al.din,22815,0.038658777,882,6,returnee,returnee_beygee
+20607,Beygee,Hay Alrisalah,?? ???????,34.926822,43.49148764,Al-Synia,beygee,salah.al.din,22815,0.017357002,396,6,returnee,returnee_beygee
+33434,Beygee,Sheik Ali village,???? ????? ???,35.1807187,43.29254159,Makkhoul,beygee,salah.al.din,22815,0.018058295,412,6,returnee,returnee_beygee
+23647,Al-Kaim,Al Aubaidi Al Qadima,??????? ??????? ,34.42020331,41.20149436,Al-Obiadi,al.kaim,al.anbar,15084,0.039976134,603,12,returnee,returnee_al.kaim
+23435,Beygee,Al-Zweeyah Village,???? ?????? ,35.2612,43.397525,Makkhoul,beygee,salah.al.din,22815,0.095638834,2182,18,returnee,returnee_beygee
+20689,Beygee,Markaz Makhoul,???? ?????,35.2027688,43.27791681,Makkhoul,beygee,salah.al.din,22815,0.006662284,152,6,returnee,returnee_beygee
+20720,Beygee,AL-Siniya,???????,34.930908,43.41288243,Al-Synia,beygee,salah.al.din,22815,0.085864563,1959,12,returnee,returnee_beygee
+137,Heet,Saweeb,????,33.60455112,42.888982,Markaz Heet,heet,al.anbar,29284,0.009390794,275,6,returnee,returnee_heet
+22813,Beygee,Qaryat Al Sareen,?????? 13 ?????? ???????? ???? ??????,34.86225969,43.49558631,Markaz Beygee,beygee,salah.al.din,22815,0.028490028,650,6,returnee,returnee_beygee
+20866,Beygee,Tal abu Jarad area-Mahalla 104,?? ??? ???? ???? 104,34.9316,43.46459206,Al-Synia,beygee,salah.al.din,22815,0.013061582,298,6,returnee,returnee_beygee
+24305,Samarra,Al Namel Village,???? ?????,34.333402,43.34943202,Dijla,samarra,salah.al.din,9844,0.026412028,260,6,returnee,returnee_samarra
+33715,Samarra,AL-Zahwer,??????,34.477461,43.47602207,Dijla,samarra,salah.al.din,9844,0.011174319,110,6,returnee,returnee_samarra
+25742,Balad,Al-Duloeyah-Hay Al Jubor,???? ?????? ??????,34.03255609,44.23111624,Al-Duloeyah,balad,salah.al.din,13022,0.029181385,380,6,returnee,returnee_balad
+33954,Heet,jabil,????,33.56769,42.91487,Al-Forat,heet,al.anbar,29284,0.018644994,546,6,returnee,returnee_heet
+20773,Balad,Beshakan village,???? ??????,34.03443349,44.28259692,Al-Duloeyah,balad,salah.al.din,13022,0.039164491,510,12,returnee,returnee_balad
+33437,Balad,Aziz Balad,???? ???,34.023395,44.166704,Yathreb,balad,salah.al.din,13022,0.049685148,647,12,returnee,returnee_balad
+23056,Balad,Jwezerat,???? ???????,34.043058,44.139455,Yathreb,balad,salah.al.din,13022,0.042313009,551,12,returnee,returnee_balad
+20770,Balad,Al-Duloeyah-Hay khazraj,???? ????,34.04808189,44.21884053,Al-Duloeyah,balad,salah.al.din,13022,0.031715558,413,18,returnee,returnee_balad
+29565,Balad,Yathrib sub distrct,????? ????,34.028012,44.25703679,Yathreb,balad,salah.al.din,13022,0.447857472,5832,30,returnee,returnee_balad
+20767,Balad,Albu Jewari,???? ???? ?????,34.06002525,44.21800742,Al-Duloeyah,balad,salah.al.din,13022,0.03939487,513,6,returnee,returnee_balad
+20673,Samarra,Al-Jillam area,????? ??????,34.24088767,43.89312124,Markaz Samarra,samarra,salah.al.din,9844,0.099857781,983,6,returnee,returnee_samarra
+29539,Samarra,Mahalla Makeshfa,???? ??????,34.36904718,43.75919988,Dijla,samarra,salah.al.din,9844,0.298151158,2935,36,returnee,returnee_samarra
+20674,Samarra,Al-Hewaish area,???? ??????,34.19515165,43.80748367,Al-Tharthar,samarra,salah.al.din,9844,0.084518488,832,18,returnee,returnee_samarra
+20695,Samarra,Al-Abasiya Village,???? ????????,34.30092393,43.78031314,Dijla,samarra,salah.al.din,9844,0.049573344,488,18,returnee,returnee_samarra
+33608,Samarra,Banat Al-hassan village,???? ???? ?????,34.148833,43.9495084,Al-Muotasim,samarra,salah.al.din,9844,0.038602194,380,6,returnee,returnee_samarra
+25926,Samarra,Hawi Albsat,?????? 27 ???? ??????,34.26137899,43.87541313,Markaz Samarra,samarra,salah.al.din,9844,0.051503454,507,18,returnee,returnee_samarra
+20752,Samarra,Al_Jazera,?????? 9 ???????(????????????),34.24620221,43.660999,Al-Tharthar,samarra,salah.al.din,9844,0.238520926,2348,12,returnee,returnee_samarra
+21473,Heet,kibae,????,33.53214,43.04051,Al-Forat,heet,al.anbar,29284,0.006351591,186,6,returnee,returnee_heet
+25960,Tikrit,Hay Aljamiyaa,?? ???????-???? 418,34.59299692,43.67410527,Um Al-Qura,tikrit,salah.al.din,29486,0.039171132,1155,6,returnee,returnee_tikrit
+20638,Tikrit,Hay Al Dhubbat,?? ??????,34.63466839,43.6702753,Um Al-Qura,tikrit,salah.al.din,29486,0.02713152,800,6,returnee,returnee_tikrit
+20666,Tikrit,Uwainat,??????,34.47137992,43.73535038,Um Al-Qura,tikrit,salah.al.din,29486,0.020857356,615,6,returnee,returnee_tikrit
+33824,Heet,Hay AL-zihoor,?? ?????? ,33.628441,42.836747,Markaz Heet,heet,al.anbar,29284,0.017859582,523,6,returnee,returnee_heet
+25922,Tikrit,Qadisya 1 Mahala 214,?? ????????(??????1)?????? 7-???? 214,34.64578089,43.66608673,Um Al-Qura,tikrit,salah.al.din,29486,0.072983789,2152,12,returnee,returnee_tikrit
+23848,Heet,Zoyah Al-gharbiyah,???? ???????,33.56746228,42.91583728,Al-Forat,heet,al.anbar,29284,0.013659336,400,6,returnee,returnee_heet
+21592,Tikrit,Hay Al sinay-Al samad,?? ???????-?(51-?????? ??? ????)???? ?????,34.71326825,43.70669107,Al-Alam,tikrit,salah.al.din,29486,0.025944516,765,6,returnee,returnee_tikrit
+25950,Tikrit,Tal-Al Sibaat Village,???? ?? ???????,34.81969084,43.57772889,Al-Alam,tikrit,salah.al.din,29486,0.017974632,530,6,returnee,returnee_tikrit
+163,Heet,Al Baker,?? ?????,33.64958145,42.83134286,Markaz Heet,heet,al.anbar,29284,0.035275236,1033,6,returnee,returnee_heet
+25949,Tikrit,Al Bzikhah Village,???? ???????,34.89208231,43.54881689,Al-Alam,tikrit,salah.al.din,29486,0.01356576,400,6,returnee,returnee_tikrit
+22331,Tikrit,Al Baladiyat-402,????????-402,34.61124269,43.67409029,Um Al-Qura,tikrit,salah.al.din,29486,0.017194601,507,6,returnee,returnee_tikrit
+22965,Tikrit,Hay Alqalaa,?? ??????(6-?????)???? 405,34.60364868,43.68996813,Um Al-Qura,tikrit,salah.al.din,29486,0.004408872,130,6,returnee,returnee_tikrit
+27367,Tikrit,Hay Alziraa,?? ???????,34.58463421,43.68255174,Um Al-Qura,tikrit,salah.al.din,29486,0.012548328,370,6,returnee,returnee_tikrit
+21357,Tikrit,Al Zallayah village,???? ???????,34.45798508,43.72672328,Um Al-Qura,tikrit,salah.al.din,29486,0.043003459,1268,12,returnee,returnee_tikrit
+23702,Tikrit,Qadisya 2 500 Area,?? ????????(??????2)?????? 7 ???? 218 – ???? 500,34.65085216,43.64840368,Um Al-Qura,tikrit,salah.al.din,29486,0.043105202,1271,6,returnee,returnee_tikrit
+25961,Tikrit,Hay Alarbaen,?? ????????-???? 414,34.59481215,43.67682715,Um Al-Qura,tikrit,salah.al.din,29486,0.01410839,416,6,returnee,returnee_tikrit
+33823,Heet,AL-Moalimeen AL-Thaniya,?? ???????? ??????? ,33.64578,42.80107,Markaz Heet,heet,al.anbar,29284,0.009390794,275,6,returnee,returnee_heet
+23145,Tikrit,Al Ahad Al Jadid village,???? ????? ??????,34.72016511,43.69896303,Al-Alam,tikrit,salah.al.din,29486,0.0254358,750,6,returnee,returnee_tikrit
+20484,Tooz Khurmato,Chardaghli village,???? ???????,34.818984,44.557499,Ameraly,tooz.khurmato,salah.al.din,8090,0.040543881,328,12,returnee,returnee_tooz.khurmato
+25754,Tooz Khurmato,Markaz Tooz-Hay Al Askari,?? ???????,34.87893383,44.61564474,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,8090,0.005315204,43,6,returnee,returnee_tooz.khurmato
+23788,Al-Kaim,Hay Al Rashid,?? ??????,34.38715286,40.98881848,Al-Karabla,al.kaim,al.anbar,15084,0.025523734,385,6,returnee,returnee_al.kaim
+271,Al-Kaim,Door Al-Sikak,?? ?????,34.38771423,40.97593251,Al-Karabla,al.kaim,al.anbar,15084,0.010673561,161,6,returnee,returnee_al.kaim
+25866,Tooz Khurmato,Hay Komari-120,?? ?????? ?(5-?????)???? 120,34.89631116,44.62618562,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,8090,0.307540173,2488,36,returnee,returnee_tooz.khurmato
+25868,Tooz Khurmato,Hay Rizgari-114,?? ?????? ?(5-?????)???? 114,34.88670149,44.64114867,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,8090,0.152163164,1231,18,returnee,returnee_tooz.khurmato
+21103,Tooz Khurmato,Yangija Village,???? ?????,34.856383,44.57192083,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,8090,0.020889988,169,18,returnee,returnee_tooz.khurmato
+25750,Tooz Khurmato,Markaz Tooz-Hay Brayati,???? ??????,34.90508251,44.60920615,Markaz Tooz Khurmato,tooz.khurmato,salah.al.din,8090,0.026081582,211,12,returnee,returnee_tooz.khurmato
+27234,Tooz Khurmato,Hay Al-Askary,?? ???????,34.726584,44.584608,Ameraly,tooz.khurmato,salah.al.din,8090,0.010506799,85,6,returnee,returnee_tooz.khurmato
+20529,Tooz Khurmato,Sulayman Beg sub district center,???? ????? ?????? ???,34.795151,44.66947464,Sulaiman Baig,tooz.khurmato,salah.al.din,8090,0.183559951,1485,36,returnee,returnee_tooz.khurmato
+228,Heet,Hay al Jury,?????,33.63721071,42.82162651,Markaz Heet,heet,al.anbar,29284,0.056310613,1649,12,returnee,returnee_heet
+41,Heet,Jubbah,??? ,33.91242953,42.54682166,Al-Baghdady,heet,al.anbar,29284,0.010107909,296,6,returnee,returnee_heet
+33953,Heet,zawiat alwustaa,???? ??????,33.54309,42.95544,Al-Forat,heet,al.anbar,29284,0.024006283,703,6,returnee,returnee_heet
+23793,Al-Kaim,Hay Al Askary,?? ???????,34.38879287,41.02220244,Al-Karabla,al.kaim,al.anbar,15084,0.016242376,245,6,returnee,returnee_al.kaim
+23791,Al-Kaim,Al Nahda Al-Sharqiyah,?? ?????? ???????,34.36827894,41.05775748,Al-Karabla,al.kaim,al.anbar,15084,0.030429594,459,6,returnee,returnee_al.kaim
+262,Ana,Hay Al Shoba,?? ??????,34.4669276,41.91685003,Rawa,ana,al.anbar,4842,0.052457662,254,6,returnee,returnee_ana
+264,Ana,Al Qaala,?? ??????,34.46461943,41.91457925,Rawa,ana,al.anbar,4842,0.059479554,288,6,returnee,returnee_ana
+23861,Ana,Al-Hidayah,?? ???????,34.47546565,41.91346345,Rawa,ana,al.anbar,4842,0.048946716,237,6,returnee,returnee_ana
+23859,Ana,Hay Raua Al-Jadida,?? ???? ?????,34.48404974,41.92361128,Rawa,ana,al.anbar,4842,0.086741016,420,12,returnee,returnee_ana
+200,Ana,Al Askaree,?? ???????,34.48408734,41.91709448,Rawa,ana,al.anbar,4842,0.044816192,217,6,returnee,returnee_ana
+29579,Al-Ramadi,Al Dhubat 2,?????? ??????? ,33.41296,43.31088873,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.023594754,2294,6,returnee,returnee_al.ramadi
+133,Al-Ramadi,Al Aadil,??????,33.41405,43.30632536,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.013792749,1341,6,returnee,returnee_al.ramadi
+29561,Al-Ramadi,Hay 8 Shbbat,?? 8 ????,33.42211,43.26091605,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.013535613,1316,6,returnee,returnee_al.ramadi
+20939,Al-Ramadi,Al-Hamidhiyah,????????,33.46526459,43.39814799,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.012177938,1184,6,returnee,returnee_al.ramadi
+297,Al-Ramadi,Al-Thilah,??????,33.43294,43.30570778,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.020509128,1994,6,returnee,returnee_al.ramadi
+25650,Al-Ramadi,Al Askari,???????,33.411586,43.24644923,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.017505786,1702,6,returnee,returnee_al.ramadi
+29534,Al-Ramadi,Al Shuhadaa Qtr,???????,33.43179,43.28417617,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.016466958,1601,6,returnee,returnee_al.ramadi
+204,Al-Ramadi,Hay 30 Tamooz,?? 30 ????,33.41583,43.26891633,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.018534328,1802,6,returnee,returnee_al.ramadi
+23891,Al-Ramadi,Al-Ankor,???????,33.374498,42.84705,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.009719722,945,6,returnee,returnee_al.ramadi
+33832,Al-Ramadi,AL-mlahma,????????,33.2554,43.3336,Al-Habbaniya,al.ramadi,al.anbar,97225,0.013967601,1358,6,returnee,returnee_al.ramadi
+113,Al-Ramadi,Husaibah Al-Sharqiah,????? ??????? ,33.40776951,43.46977318,Al-Habbaniya,al.ramadi,al.anbar,97225,0.019346876,1881,6,returnee,returnee_al.ramadi
+156,Al-Kaim,Wazeeriya,?? ????????,34.38141702,41.03964076,Al-Karabla,al.kaim,al.anbar,15084,0.034009547,513,18,returnee,returnee_al.kaim
+21086,Al-Ramadi,Albu-Ali Aljasim,???? ??? ?????? ,33.496578,43.202315,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.018256621,1775,6,returnee,returnee_al.ramadi
+23023,Al-Ramadi,Hay Al Malab,??????,33.42225,43.32127857,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.020642839,2007,6,returnee,returnee_al.ramadi
+34016,Al-Ramadi,Hay Al-Aramel,?? ???????,33.411358,43.316322,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.012342504,1200,6,returnee,returnee_al.ramadi
+29475,Al-Ramadi,Zankura,??????,33.48032,43.15559563,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.056662381,5509,6,returnee,returnee_al.ramadi
+25441,Al-Ramadi,Al Soora,??????,33.4351026,43.35608898,Markaz Al-Ramadi,al.ramadi,al.anbar,97225,0.016806377,1634,6,returnee,returnee_al.ramadi
+33302,Al-Kadhmiyah,Al Sheiti village,???? ??????,33.2308678,43.99213406,Abu Ghraib,al.kadhmiyah,baghdad,4945,0.012335693,61,6,returnee,returnee_al.kadhmiyah
+32034,Al-Mahmoudiya,Al Kamazan village,???? ???????,33.193248,43.95562407,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.011641309,101,6,returnee,returnee_al.mahmoudiya
+29532,Al-Mahmoudiya,Al Shanadka village,???? ????????,33.2182782,43.95334515,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.013600738,118,6,returnee,returnee_al.mahmoudiya
+31710,Al-Kadhmiyah,Al Zaidan-Al Sadan village,???????-???? ???????,33.270892,44.02497791,Abu Ghraib,al.kadhmiyah,baghdad,4945,0.052578362,260,6,returnee,returnee_al.kadhmiyah
+32036,Al-Kadhmiyah,Al Masara village,???? ??????? ,33.234015,43.94204218,Abu Ghraib,al.kadhmiyah,baghdad,4945,0.027300303,135,6,returnee,returnee_al.kadhmiyah
+22541,Al-Kadhmiyah,Sabea Al Buor-12000,??? ?????-12000,33.46077706,44.1704438,Al-Taji,al.kadhmiyah,baghdad,4945,0.036400404,180,6,returnee,returnee_al.kadhmiyah
+25168,Al-Kadhmiyah,Sabea Al Buor-14000,??? ?????-14000,33.47013978,44.16611772,Al-Taji,al.kadhmiyah,baghdad,4945,0.06289181,311,6,returnee,returnee_al.kadhmiyah
+21477,Ana,Al Zalla,???? ?????,34.42124214,41.45726616,Rawa,ana,al.anbar,4842,0.04708798,228,6,returnee,returnee_ana
+25163,Al-Kadhmiyah,Sabea Al Buor-7000,??? ?????-7000,33.45078626,44.15594608,Al-Taji,al.kadhmiyah,baghdad,4945,0.035389282,175,6,returnee,returnee_al.kadhmiyah
+22611,Al-Kadhmiyah,Sabea Al Buor-13000,??? ?????-13000,33.4650575,44.16816971,Al-Taji,al.kadhmiyah,baghdad,4945,0.01536906,76,6,returnee,returnee_al.kadhmiyah
+25164,Al-Kadhmiyah,Sabea Al Buor-8000,??? ?????-8000,33.45256226,44.15676736,Al-Taji,al.kadhmiyah,baghdad,4945,0.048129424,238,12,returnee,returnee_al.kadhmiyah
+32101,Al-Mahmoudiya,Al Rasool village-(Al Jomblatiya Southern),???? ??????-?????????? ???????? ,33.039284,44.1414635,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.021899493,190,6,returnee,returnee_al.mahmoudiya
+29525,Al-Mahmoudiya,Al Bu Hasson(Al kragolyia),???? ????(?????????),33.03975376,44.18885772,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.005647764,49,6,returnee,returnee_al.mahmoudiya
+33175,Al-Kaim,Tiwaan,?????,34.2259007,41.34168435,Al-Karabla,al.kaim,al.anbar,15084,0.010540971,159,6,returnee,returnee_al.kaim
+33105,Al-Mussyab,Al Moammen Billah-(Al Jomblatiya Southern),???? ?????? ?????-?????????? ????????,33.028697,44.13960158,Jurf Al-Sakhar,al.mussyab,babil,770,0.383116883,295,34,returnee,returnee_al.mussyab
+29523,Al-Mahmoudiya,Hay Al Shuhada(Al kragolyia),?? ???????(?????????),33.06663345,44.23348447,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.121023513,1050,6,returnee,returnee_al.mahmoudiya
+7682,Al-Mahmoudiya,Albo Awasj village,???? ???? ????,33.038574,44.32982286,Al-Latifya,al.mahmoudiya,baghdad,8676,0.070885201,615,24,returnee,returnee_al.mahmoudiya
+33109,Al-Mussyab,Al Motokal village-(Al Jomblatiya Northern),???? ???????-?????????? ????????,33.02298,44.126467,Jurf Al-Sakhar,al.mussyab,babil,770,0.227272727,175,10,returnee,returnee_al.mussyab
+33183,Al-Mahmoudiya,Al Rasheediya Village,#N/A,33.108393,44.16043303,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.034578147,300,6,returnee,returnee_al.mahmoudiya
+33107,Al-Mahmoudiya,Al Imam Ali village-(Al Jomblatiya Southern),???? ?????? ???-?????????? ????????,33.030745,44.1777793,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.023052098,200,6,returnee,returnee_al.mahmoudiya
+33225,Al-Mahmoudiya,Albu Moufarrej Village,???? ???? ????,33.075557,44.14815561,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.040341171,350,6,returnee,returnee_al.mahmoudiya
+7685,Al-Mahmoudiya,shaka-4,????-4,32.9756,44.42205175,Al-Latifya,al.mahmoudiya,baghdad,8676,0.012217612,106,6,returnee,returnee_al.mahmoudiya
+29528,Al-Mahmoudiya,Hay Al Dobat(Al kragolyia),?? ??????(?????????),33.050911,44.20509358,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.024204703,210,6,returnee,returnee_al.mahmoudiya
+22382,Al-Mahmoudiya,Al Muaghith village-(Al Jomblatiya Southern),???? ??????-?????????? ????????,33.03975373,44.16086072,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.024204703,210,6,returnee,returnee_al.mahmoudiya
+33110,Al-Mussyab,Al Abraar village-(Al Jomblatiya Northern),???? ???????-?????????? ????????,33.025292,44.13709516,Jurf Al-Sakhar,al.mussyab,babil,770,0.38961039,300,28,returnee,returnee_al.mussyab
+7350,Al-Mahmoudiya,Al Mustafa village-(Al Jomblatiya Southern),???? ???????-?????????? ????????,33.02912141,44.17154806,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.046104195,400,6,returnee,returnee_al.mahmoudiya
+33104,Al-Mahmoudiya,Al Azez Al Ghaffar-(Al Jomblatiya Southern),???? ?????? ??????-?????????? ????????,33.03348,44.16272303,Al-Yousifya,al.mahmoudiya,baghdad,8676,0.013831259,120,6,returnee,returnee_al.mahmoudiya
+33458,Al-Kadhmiyah,14 Abar village 5,????5-14 ????,33.59278,44.17550949,Al-Taji,al.kadhmiyah,baghdad,4945,0.0190091,94,6,returnee,returnee_al.kadhmiyah
+33469,Al-Kadhmiyah,14 Abar villge 7,???? 7-14 ????,33.639982,44.15827469,Al-Tarmiya,al.kadhmiyah,baghdad,4945,0.015773509,78,6,returnee,returnee_al.kadhmiyah
+33478,Al-Kadhmiyah,13 Al Dhabat-Al Harat village,??????13-???? ??????,33.648361,44.23412776,Al-Tarmiya,al.kadhmiyah,baghdad,4945,0.017391304,86,6,returnee,returnee_al.kadhmiyah
+33764,Al-Kadhmiyah,Asmail Mohammed village,???? ??????? ????,33.674171,44.14263,Al-Tarmiya,al.kadhmiyah,baghdad,4945,0.006673407,33,12,returnee,returnee_al.kadhmiyah
+33511,Al-Kadhmiyah,13 Al Dhabat-Albo Abdo village,??????13-???? ????????,33.68781,44.24027125,Al-Tarmiya,al.kadhmiyah,baghdad,4945,0.018402427,91,12,returnee,returnee_al.kadhmiyah
+23620,Zakho,Fishkhaboor,????????,37.06728813,42.37686231,NA,zakho,duhok,1304,0.098159509,128,10,returnee,returnee_zakho
+26074,Al-Khalis,Arab Hafeedh Village,???? ??? ????,34.12586517,44.84068814,Al-Mansouriyah,al.khalis,diyala,13435,0.010048381,135,6,returnee,returnee_al.khalis
+25676,Al-Khalis,Al Mansouriyah-Hamada Village,?????????-???? ?????,34.03136641,44.86764431,Al-Mansouriyah,al.khalis,diyala,13435,0.011164868,150,6,returnee,returnee_al.khalis
+231,Al-Rutba,Al Wadi,?? ??????,33.03966421,40.28365262,Markaz Al-Rutba,al.rutba,al.anbar,4588,0.074978204,344,18,returnee,returnee_al.rutba
+25669,Al-Khalis,Somair village,???? ?????,34.05691902,44.88435256,Al-Mansouriyah,al.khalis,diyala,13435,0.014886491,200,6,returnee,returnee_al.khalis
+233,Al-Rutba,Hay Al-Matar,?? ??????,33.03461084,40.28668013,Markaz Al-Rutba,al.rutba,al.anbar,4588,0.151918047,697,18,returnee,returnee_al.rutba
+11270,Al-Khalis,Um al Hawali village,???? ?? ???????,34.36468541,44.60197001,Al-Atheem,al.khalis,diyala,13435,0.009378489,126,12,returnee,returnee_al.khalis
+165,Al-Rutba,Al Askaree,?? ???????,33.03800189,40.30263444,Markaz Al-Rutba,al.rutba,al.anbar,4588,0.055797733,256,6,returnee,returnee_al.rutba
+26058,Al-Khalis,Dalli Abass-Al-Shuhada Qtr,??? ????-?? ???????,34.0676524,44.86550222,Al-Mansouriyah,al.khalis,diyala,13435,0.020171195,271,6,returnee,returnee_al.khalis
+23935,Al-Rutba,Al-Daraemah Village,???? ????????,33.04302668,40.38038346,Markaz Al-Rutba,al.rutba,al.anbar,4588,0.091543156,420,18,returnee,returnee_al.rutba
+150,Al-Rutba,Al Haara,?? ??????,33.03761591,40.28426443,Markaz Al-Rutba,al.rutba,al.anbar,4588,0.120967742,555,18,returnee,returnee_al.rutba
+26075,Al-Khalis,Al Dwaleeb Village,???? ????????,34.073537,44.9056642,Al-Mansouriyah,al.khalis,diyala,13435,0.014886491,200,6,returnee,returnee_al.khalis
+25682,Al-Khalis,Mohammed Ali Village,???? ???? ?????,34.04549809,44.88159198,Al-Mansouriyah,al.khalis,diyala,13435,0.018608113,250,6,returnee,returnee_al.khalis
+28463,Al-Khalis,Al Taleaa Al Olaa Village(Albo Rai),???? ??????? ??????(???? ??),34.25685398,44.52603643,Al-Atheem,al.khalis,diyala,13435,0.006698921,90,6,returnee,returnee_al.khalis
+25655,Al-Khalis,Dalli Abass-Al Moalmeen Qtr,??? ????-?? ????????,34.07072389,44.8704787,Al-Mansouriyah,al.khalis,diyala,13435,0.022701898,305,6,returnee,returnee_al.khalis
+25678,Al-Khalis,Dawod Al-Salom village,???? ????? ??????,34.12548903,44.84410846,Al-Mansouriyah,al.khalis,diyala,13435,0.012206922,164,6,returnee,returnee_al.khalis
+167,Al-Rutba,Antesar,?? ????????,33.03126564,40.29901479,Markaz Al-Rutba,al.rutba,al.anbar,4588,0.214908457,986,12,returnee,returnee_al.rutba
+25672,Al-Khalis,Habib Al Khaizaran Village,???? ???? ????????,34.121222,44.7696088,Al-Mansouriyah,al.khalis,diyala,13435,0.017863789,240,6,returnee,returnee_al.khalis
+25677,Al-Khalis,Hamza Al Najim Village,???? ???? ?????,34.03901602,44.88332927,Al-Mansouriyah,al.khalis,diyala,13435,0.009452921,127,6,returnee,returnee_al.khalis
+25653,Al-Khalis,Dalli Abass-Al Shekh Hassan Qtr,??? ????-?? ????? ???,34.07723021,44.85503516,Al-Mansouriyah,al.khalis,diyala,13435,0.019501303,262,6,returnee,returnee_al.khalis
+23888,Al-Rutba,Gharb Al-Wadi,?? ??? ??????,33.04245523,40.27803907,Markaz Al-Rutba,al.rutba,al.anbar,4588,0.163687881,751,36,returnee,returnee_al.rutba
+166,Al-Rutba,Hay Al Meethagh,?? ???????,33.03197354,40.29047217,Markaz Al-Rutba,al.rutba,al.anbar,4588,0.10440279,479,18,returnee,returnee_al.rutba
+25673,Al-Khalis,Habib Al Abdulla Village,???? ???? ?????????,34.05390233,44.89234693,Al-Mansouriyah,al.khalis,diyala,13435,0.040863416,549,6,returnee,returnee_al.khalis
+26115,Al-Muqdadiya,Shak Al Rak Village,???? ??? ?????,34.00157426,44.93296834,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.106859206,888,6,returnee,returnee_al.muqdadiya
+10948,Al-Muqdadiya,Abo Garma village,???? ??? ????,33.9061689,44.7245533,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.006257521,52,6,returnee,returnee_al.muqdadiya
+11179,Al-Muqdadiya,Baloor Village,???? ????,33.983383,44.93435119,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.04211793,350,6,returnee,returnee_al.muqdadiya
+25805,Al-Muqdadiya,Al Somood Qtr,?? ??????,33.9845665,44.94206147,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.019253911,160,6,returnee,returnee_al.muqdadiya
+109,Ana,Yarmouk,?? ???????,34.37483517,41.98761025,Markaz Ana,ana,al.anbar,4842,0.060512185,293,18,returnee,returnee_ana
+25804,Al-Muqdadiya,Al Mataar Qtr,?? ??????,33.98943701,44.94954431,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.045728039,380,6,returnee,returnee_al.muqdadiya
+25948,Al-Muqdadiya,Nofal village,???? ????,34.04846,44.98260388,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.059927798,498,12,returnee,returnee_al.muqdadiya
+11355,Al-Muqdadiya,AlTaiha Qtr,???? ???????,34.03141312,44.94531097,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.037545126,312,6,returnee,returnee_al.muqdadiya
+11440,Al-Muqdadiya,Al Qalaa Village,???? ??????,34.01496421,44.95912841,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.057160048,475,18,returnee,returnee_al.muqdadiya
+253,Ana,Hay Al Salam,?? ??????,34.37150561,41.96978858,Markaz Ana,ana,al.anbar,4842,0.03944651,191,6,returnee,returnee_ana
+25668,Al-Muqdadiya,Al Wazan Village,???? ??????,34.03579,44.98436486,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.009867629,82,6,returnee,returnee_al.muqdadiya
+26027,Al-Muqdadiya,Al Shamamla Village,???? ????????,34.03534645,44.97409758,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.007581227,63,6,returnee,returnee_al.muqdadiya
+25657,Al-Muqdadiya,Abu musa village,???? ??? ????,34.00539076,44.87856992,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.024669073,205,6,returnee,returnee_al.muqdadiya
+26030,Al-Muqdadiya,A Hammadi Village,???? ???????,34.03099698,44.94846175,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.020336943,169,6,returnee,returnee_al.muqdadiya
+11442,Al-Muqdadiya,Al Isaiwed Village,???? ???????,34.052564,44.93185543,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.046931408,390,6,returnee,returnee_al.muqdadiya
+11312,Al-Khalis,Al Sodoor,??????,34.05853,44.98047661,Al-Mansouriyah,al.khalis,diyala,13435,0.009080759,122,6,returnee,returnee_al.khalis
+25674,Al-Muqdadiya,Haj fadhil village,???? ??? ????,34.00214397,44.87807495,Markaz Al-Muqdadiya,al.muqdadiya,diyala,8310,0.003489771,29,6,returnee,returnee_al.muqdadiya
+31762,Khanaqin,Al Shuhada Qtr Sector 6,?? ??????? ???? 6,34.276111,45.18129168,Jalawla,khanaqin,diyala,16316,0.029112528,475,6,returnee,returnee_khanaqin
+23799,Ana,Hay Al ZeraI,?? ???????,34.3731532,41.99516882,Markaz Ana,ana,al.anbar,4842,0.034283354,166,6,returnee,returnee_ana
+31753,Khanaqin,Al Jamahir Qtr Sector 2,?? ???????? ???? 2,34.273056,45.1729482,Jalawla,khanaqin,diyala,16316,0.021451336,350,6,returnee,returnee_khanaqin
+31749,Khanaqin,Al Oroba Qtr Sector 3,?? ??????? ???? 3,34.277222,45.16607575,Jalawla,khanaqin,diyala,16316,0.012257906,200,6,returnee,returnee_khanaqin
+248,Ana,Al bor (Shishan),?? ??????,34.36678805,41.97078314,Markaz Ana,ana,al.anbar,4842,0.038000826,184,6,returnee,returnee_ana
+31768,Khanaqin,Al Nakheel Village,???? ??????,34.22881,45.23201366,Jalawla,khanaqin,diyala,16316,0.001899975,31,6,returnee,returnee_khanaqin
+33585,Khanaqin,Al Taleaa 2 Qtr ( Al Kelya ),?? ??????? 2 (??????),34.2685293,45.15987901,Jalawla,khanaqin,diyala,16316,0.018080412,295,6,returnee,returnee_khanaqin
+249,Ana,Hay Al Tammem,?? ???????,34.36837802,41.9956273,Markaz Ana,ana,al.anbar,4842,0.050805452,246,6,returnee,returnee_ana
+32021,Khanaqin,Al Asakraa village,???? ????????,34.170099,45.13241116,Al-Saadiya,khanaqin,diyala,16316,0.019919098,325,6,returnee,returnee_khanaqin
+31761,Khanaqin,Al Shuhada Qtr Sector 5,?? ??????? ???? 5,34.275,45.17077837,Jalawla,khanaqin,diyala,16316,0.026048051,425,12,returnee,returnee_khanaqin
+31765,Khanaqin,Al Wehdaa Qtr Sector 4,?? ?????? ???? 4,34.264444,45.16167063,Jalawla,khanaqin,diyala,16316,0.019919098,325,12,returnee,returnee_khanaqin
+29570,Khanaqin,Al Shuhada Qtr Sector 1,?? ??????? ???? 1,34.2794886,45.1692345,Jalawla,khanaqin,diyala,16316,0.01838686,300,6,returnee,returnee_khanaqin
+31754,Khanaqin,Al Jamahir Qtr Sector 3,?? ???????? ???? 3,34.269722,45.16507486,Jalawla,khanaqin,diyala,16316,0.021757784,355,6,returnee,returnee_khanaqin
+29630,Khanaqin,Murjana village,???? ??????,34.22486159,45.1309697,Jalawla,khanaqin,diyala,16316,0.020838441,340,6,returnee,returnee_khanaqin
+251,Ana,Hay Al Qadissiyah,?? ????????,34.37749089,41.98322262,Markaz Ana,ana,al.anbar,4842,0.042750929,207,6,returnee,returnee_ana
+31752,Khanaqin,Al Taleaa Qtr ( sector 5 ),?? ??????? ( ???? 5 ),34.284167,45.16278004,Jalawla,khanaqin,diyala,16316,0.025128708,410,6,returnee,returnee_khanaqin
+252,Ana,Al Tadamon,?? ???????,34.36428013,41.98402787,Markaz Ana,ana,al.anbar,4842,0.050185874,243,6,returnee,returnee_ana
+29564,Khanaqin,Al Taleaa Qtr ( sector 2 ),?? ??????? ( ???? 2 ),34.27881447,45.16276296,Jalawla,khanaqin,diyala,16316,0.023167443,378,6,returnee,returnee_khanaqin
+31764,Khanaqin,Al Wehdaa Qtr Sector 3,?? ?????? ???? 3,34.266667,45.16324737,Jalawla,khanaqin,diyala,16316,0.016854621,275,6,returnee,returnee_khanaqin
+13500,Makhmour,Bndiyan,??????,35.77626707,43.5870458,Markaz Makhmour,makhmour,erbil,7725,0.020711974,160,6,returnee,returnee_makhmour
+13352,Makhmour,Gwer,????,36.043816,43.4990613,Gwyer,makhmour,erbil,7725,0.28815534,2226,24,returnee,returnee_makhmour
+13675,Makhmour,Sherwany,???????,35.77564291,43.58422753,Markaz Makhmour,makhmour,erbil,7725,0.084142395,650,18,returnee,returnee_makhmour
+12461,Makhmour,Jarallah,??? ????,35.8325667,43.4369287,Markaz Makhmour,makhmour,erbil,7725,0.015145631,117,12,returnee,returnee_makhmour
+13674,Makhmour,Shahidan,??????,35.78075589,43.585956,Markaz Makhmour,makhmour,erbil,7725,0.062135922,480,6,returnee,returnee_makhmour
+22976,Makhmour,Qalat,????,35.77731268,43.57280953,Markaz Makhmour,makhmour,erbil,7725,0.034951456,270,6,returnee,returnee_makhmour
+169,Al-Falluja,Al Shurta,?? ??????,33.36389707,43.79818309,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.03117534,2936,12,returnee,returnee_al.falluja
+13516,Makhmour,Qabr Alsyd,??? ?????,35.568,43.6444,Qaraj,makhmour,erbil,7725,0.008414239,65,6,returnee,returnee_makhmour
+33846,Makhmour,Darmenawa,????????,36.0040269,43.5509151,Gwyer,makhmour,erbil,7725,0.005307443,41,6,returnee,returnee_makhmour
+12512,Makhmour,Gardahara,???????,35.5761,43.552,Qaraj,makhmour,erbil,7725,0.008414239,65,24,returnee,returnee_makhmour
+13501,Makhmour,Kurdistan,???????? ,35.76717577,43.5762378,Markaz Makhmour,makhmour,erbil,7725,0.038834951,300,12,returnee,returnee_makhmour
+15006,Al-Hawiga,Al-Abasiyah Village,???? ????????,35.33141,43.71230831,Markaz Al-Hawiga,al.hawiga,kirkuk,25562,0.003168766,81,6,returnee,returnee_al.hawiga
+15594,Al-Hawiga,Al Askary,?? ???????,35.32528,43.76544898,Markaz Al-Hawiga,al.hawiga,kirkuk,25562,0.032861278,840,12,returnee,returnee_al.hawiga
+21321,Al-Falluja,Al Daffar,??????,33.260627,43.85072524,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.010618304,1000,12,returnee,returnee_al.falluja
+33287,Al-Hawiga,Tall AL-Dhahab ( As-Sufla ) village,???? ?? ????? ( ???? ),35.11281,43.51535725,Al-Abbasi,al.hawiga,kirkuk,25562,0.008528284,218,12,returnee,returnee_al.hawiga
+15275,Al-Hawiga,Al-Abassy center,???? ???????,35.27574041,43.59564652,Al-Abbasi,al.hawiga,kirkuk,25562,0.059189422,1513,6,returnee,returnee_al.hawiga
+15250,Al-Hawiga,Al-Namalah village,???? ????,35.3083,43.59333063,Al-Abbasi,al.hawiga,kirkuk,25562,0.012479462,319,6,returnee,returnee_al.hawiga
+33780,Al-Falluja,Al-Bijara,???????,33.42847,43.78972,Al-Garma,al.falluja,al.anbar,94177,0.001168013,110,6,returnee,returnee_al.falluja
+15191,Al-Hawiga,Al-zab,???? ????? ?????,35.26433,43.44756129,Al-Zab,al.hawiga,kirkuk,25562,0.059424145,1519,6,returnee,returnee_al.hawiga
+33576,Al-Hawiga,Al-Farouk Village,???? ???????,35.31889,43.79555173,Markaz Al-Hawiga,al.hawiga,kirkuk,25562,0.003520851,90,6,returnee,returnee_al.hawiga
+15242,Al-Hawiga,Al-Jubooria Village,???? ????????,35.30301,43.70182472,Markaz Al-Hawiga,al.hawiga,kirkuk,25562,0.009271575,237,6,returnee,returnee_al.hawiga
+24362,Al-Hawiga,Shamitt Village,???? ????,35.2977,43.53004521,Al-Zab,al.hawiga,kirkuk,25562,0.061028089,1560,6,returnee,returnee_al.hawiga
+14555,Beygee,Shajara village,???? ??????,35.21525,43.41271795,Makkhoul,beygee,salah.al.din,22815,0.028972167,661,6,returnee,returnee_beygee
+33291,Al-Hawiga,Al-Salhaiyah village,???? ????????,35.370423,43.8904098,Markaz Al-Hawiga,al.hawiga,kirkuk,25562,0.003755575,96,6,returnee,returnee_al.hawiga
+15264,Al-Hawiga,Bakara Village,???? ???????,35.32208,43.79404764,Markaz Al-Hawiga,al.hawiga,kirkuk,25562,0.011736171,300,6,returnee,returnee_al.hawiga
+287,Al-Kaim,Hay Al-Makarim,?? ???????,34.38437722,41.02395861,Al-Karabla,al.kaim,al.anbar,15084,0.019557147,295,6,returnee,returnee_al.kaim
+15416,Al-Hawiga,Hilwa middle,???? ???? ????,35.472569,43.76065514,Al-Zab,al.hawiga,kirkuk,25562,0.02675847,684,6,returnee,returnee_al.hawiga
+15368,Al-Hawiga,Al-Mansuriyah ( Al-Abazz) village,???? ??????? ( ??? ),35.402174,43.88121962,Markaz Al-Hawiga,al.hawiga,kirkuk,25562,0.004225022,108,6,returnee,returnee_al.hawiga
+176,Al-Falluja,Al-andalus,?? ???????,33.34833448,43.76295925,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.029402083,2769,6,returnee,returnee_al.falluja
+15271,Beygee,Sobieh village,???? ????,35.3099,43.36912437,Makkhoul,beygee,salah.al.din,22815,0.01884725,430,6,returnee,returnee_beygee
+15614,Al-Hawiga,8 Shabahit,?? 8 ????,35.32708,43.78052,Markaz Al-Hawiga,al.hawiga,kirkuk,25562,0.006415773,164,6,returnee,returnee_al.hawiga
+148,Al-Falluja,Al-waheda,?? ??????,33.36026624,43.7779121,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.023646963,2227,6,returnee,returnee_al.falluja
+15674,Dibis,Hay Al-Shuhadaa,?? ???????,35.6705349,44.06921792,Markaz Dibis,dibis,kirkuk,1206,0.012437811,15,6,returnee,returnee_dibis
+14375,Dibis,Altun Kupri Center,???? ????? ????? ?????,35.75626625,44.13871317,Altun Qupri,dibis,kirkuk,1206,0.718076285,866,150,returnee,returnee_dibis
+33384,Dibis,Hay Diyarbakir,?? ???????,35.66829,44.08388662,Markaz Dibis,dibis,kirkuk,1206,0.020729685,25,6,returnee,returnee_dibis
+15463,Dibis,Qutan village,???? ?????,35.60376,44.23055028,Markaz Dibis,dibis,kirkuk,1206,0.066334992,80,12,returnee,returnee_dibis
+33383,Dibis,Hay Kurdistan,?? ????????,35.6753,44.06739441,Markaz Dibis,dibis,kirkuk,1206,0.033167496,40,6,returnee,returnee_dibis
+14407,Dibis,Qashqaiyah village,???? ???????,35.60065,44.1969448,Markaz Dibis,dibis,kirkuk,1206,0.111940299,135,12,returnee,returnee_dibis
+29631,Daquq,Arab Koy village,???? ??? ???,35.066888,44.38804473,Markaz Daquq,daquq,kirkuk,975,0.076923077,75,6,returnee,returnee_daquq
+15139,Daquq,Khaled bin Waleed village,???? ???? ?? ??????,35.20333,44.36306564,Markaz Daquq,daquq,kirkuk,975,0.097435897,95,12,returnee,returnee_daquq
+14864,Daquq,Albu Mahammad,???? ???? ????,35.05,44.36982716,Markaz Daquq,daquq,kirkuk,975,0.025641026,25,6,returnee,returnee_daquq
+14788,Daquq,Wahda village,???? ??????,35.210085,44.3801614,Markaz Daquq,daquq,kirkuk,975,0.092307692,90,24,returnee,returnee_daquq
+125,Al-Falluja,Hay Al Dhubbat,?? ??????,33.35742,43.79284842,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.038884229,3662,6,returnee,returnee_al.falluja
+21814,Daquq,Saad Bin Waqqas village,???? ??? ?? ??????,35.20031,44.3583072,Markaz Daquq,daquq,kirkuk,975,0.215384615,210,12,returnee,returnee_daquq
+31725,Daquq,Hay Gulan,?? ?????,35.14432821,44.4556447,Markaz Daquq,daquq,kirkuk,975,0.092307692,90,12,returnee,returnee_daquq
+33477,Daquq,Hay Runaki / Daquq,?? ?????? \ ?????,35.14833029,44.45463889,Markaz Daquq,daquq,kirkuk,975,0.082051282,80,12,returnee,returnee_daquq
+14786,Daquq,Fareeq Awa,?? ???? ???,35.13463604,44.43721897,Markaz Daquq,daquq,kirkuk,975,0.123076923,120,18,returnee,returnee_daquq
+14763,Kirkuk,Rahim Awa,???? ???,35.4974936,44.39561969,Markaz Kirkuk,kirkuk,kirkuk,27113,0.202854719,5500,6,returnee,returnee_kirkuk
+33112,Daquq,Al-Rashad center,???? ??????,35.13521,44.08200978,Al-Rashad,daquq,kirkuk,975,0.041025641,40,6,returnee,returnee_daquq
+28410,Kirkuk,Sekanyan,????????,35.55411939,44.36025754,Markaz Kirkuk,kirkuk,kirkuk,27113,0.001844134,50,6,returnee,returnee_kirkuk
+31726,Kirkuk,Al-Qadisssiya(Rabareen) first,?? ?????????-??????-(???????? ?????) ???,35.41471699,44.41914669,Markaz Kirkuk,kirkuk,kirkuk,27113,0.036882676,1000,6,returnee,returnee_kirkuk
+15442,Kirkuk,Shorawo,?????,35.52501522,44.38484303,Markaz Kirkuk,kirkuk,kirkuk,27113,0.055324014,1500,6,returnee,returnee_kirkuk
+14567,Daquq,Al-Dookmat Al-Kabira village,???? ???????? ???????,35.09175,44.0534674,Al-Rashad,daquq,kirkuk,975,0.075897436,74,6,returnee,returnee_daquq
+299,Al-Falluja,Al-Julan,???????,33.36393445,43.76757768,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.030134746,2838,6,returnee,returnee_al.falluja
+21702,Kirkuk,Hay Azadi,?? ?????,35.48144527,44.41860388,Markaz Kirkuk,kirkuk,kirkuk,27113,0.147530705,4000,24,returnee,returnee_kirkuk
+31727,Kirkuk,Al-Qadisssiya(Rabareen) seconad,?? ?????????-??????-(???????? ?????) ????,35.42690647,44.42125977,Markaz Kirkuk,kirkuk,kirkuk,27113,0.040570944,1100,6,returnee,returnee_kirkuk
+14530,Kirkuk,Panja Ali,???? ???,35.43692001,44.42763139,Markaz Kirkuk,kirkuk,kirkuk,27113,0.164127909,4450,12,returnee,returnee_kirkuk
+14984,Kirkuk,Al Taakhi,?? ??????,35.4223312,44.3524948,Markaz Kirkuk,kirkuk,kirkuk,27113,0.005532401,150,6,returnee,returnee_kirkuk
+22289,Kirkuk,Al Faylaq-Mahala 5,?? ??????-5,35.47617352,44.36205712,Markaz Kirkuk,kirkuk,kirkuk,27113,0.041493011,1125,6,returnee,returnee_kirkuk
+33467,Al-Falluja,Hay Al Mansour Tawzi Al Jadeed,?? ??????? / ??????? ??????,33.32431,43.7962406,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.006052433,570,6,returnee,returnee_al.falluja
+24084,Kirkuk,Al Tadamon(Hawkari),?? ???????-???????-,35.41012372,44.38730494,Markaz Kirkuk,kirkuk,kirkuk,27113,0.009220669,250,6,returnee,returnee_kirkuk
+25556,Kirkuk,Darwaza,??????,35.47339866,44.41625482,Markaz Kirkuk,kirkuk,kirkuk,27113,0.110648029,3000,18,returnee,returnee_kirkuk
+25708,Kirkuk,Al Hendia,???? ???????,35.45524257,44.17384937,Al-Multaka,kirkuk,kirkuk,27113,0.003135027,85,6,returnee,returnee_kirkuk
+324,Al-Falluja,Albu Aifan,?????????,33.30279302,43.75301646,Markaz Al-Falluja,al.falluja,al.anbar,94177,0.009248543,871,6,returnee,returnee_al.falluja
+34010,Al-Baaj,Al-Dubaat,?? ??????,36.042967,41.711898,Markaz Al-Baaj,al.baaj,ninewa,6162,0.03034729,187,6,returnee,returnee_al.baaj
+34014,Al-Baaj,Hateen,?? ????,36.04616,41.722867,Markaz Al-Baaj,al.baaj,ninewa,6162,0.0561506,346,6,returnee,returnee_al.baaj
+33431,Al-Baaj,Al-Rashediyah,????????,36.125506,41.572871,Al-Qahtanya,al.baaj,ninewa,6162,0.006815969,42,6,returnee,returnee_al.baaj
+33854,Al-Baaj,Maisaloun,???? ??????,36.272,41.367502,Al-Qahtanya,al.baaj,ninewa,6162,0.044628367,275,6,returnee,returnee_al.baaj
+34082,Al-Baaj,Al-ayaine,???????,36.170522,41.345382,Markaz Al-Baaj,al.baaj,ninewa,6162,0.003245699,20,6,returnee,returnee_al.baaj
+33856,Al-Baaj,Sheekht Al-Majfal Village,???? ???? ?????? ,36.083477,41.544336,Markaz Al-Baaj,al.baaj,ninewa,6162,0.004057124,25,6,returnee,returnee_al.baaj
+34027,Al-Baaj,mushirfa Al kuffa,?????? ??????,36.040514,41.788988,Markaz Al-Baaj,al.baaj,ninewa,6162,0.009412528,58,6,returnee,returnee_al.baaj
+34008,Al-Baaj,Al-Risalah,?? ???????,36.044509,41.714508,Markaz Al-Baaj,al.baaj,ninewa,6162,0.057935735,357,6,returnee,returnee_al.baaj
+34009,Al-Baaj,Al Intisar,?? ????????,36.049594,41.71278,Markaz Al-Baaj,al.baaj,ninewa,6162,0.064913989,400,6,returnee,returnee_al.baaj
+33915,Al-Baaj,Thry algarah,??? ??????,35.91231,42.185485,Markaz Al-Baaj,al.baaj,ninewa,6162,0.008925673,55,6,returnee,returnee_al.baaj
+22134,Al-Falluja,Albu Khalifa,????????? ,33.43254355,43.94894634,Al-Garma,al.falluja,al.anbar,94177,0.022521422,2121,6,returnee,returnee_al.falluja
